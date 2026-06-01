@@ -8730,6 +8730,16 @@
         ],
         "description": ""
     },
+    "cellpose": {
+        "architectures": [
+            "noarch"
+        ],
+        "versions": [
+            "3",
+            "4"
+        ],
+        "description": ""
+    },
     "itk-snap": {
         "architectures": [
             "noarch"
