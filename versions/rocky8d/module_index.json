@@ -7040,25 +7040,6 @@
         ],
         "description": "Description: NASM: General-purpose x86 assembler\nHomepage: https://www.nasm.us/\nURL: https://www.nasm.us/"
     },
-    "cellranger": {
-        "architectures": [
-            "epyc3 a100",
-            "epyc3 h100",
-            "epyc3 l40",
-            "epyc3 mi210",
-            "epyc3",
-            "epyc4 a16",
-            "epyc4 l40s",
-            "epyc4 mi210",
-            "epyc4",
-            "xeonsp4 h100",
-            "xeonsp4"
-        ],
-        "versions": [
-            "7.1.0"
-        ],
-        "description": "Description: Cell Ranger is a set of analysis pipelines that process Chromium\nsingle-cell RNA-seq output to align reads, generate gene-cell matrices and perform\nclustering and gene expression analysis.\nHomepage: https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger\nURL: https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger"
-    },
     "git": {
         "architectures": [
             "epyc3 a100",
