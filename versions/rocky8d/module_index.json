@@ -9271,6 +9271,15 @@
         ],
         "description": ""
     },
+    "chimerax": {
+        "architectures": [
+            "noarch"
+        ],
+        "versions": [
+            "1.12"
+        ],
+        "description": ""
+    },
     "dynamo": {
         "architectures": [
             "noarch"
