@@ -17,7 +17,7 @@
             "1.0.31",
             "1.1.0"
         ],
-        "description": ""
+        "description": "Description: Libsndfile is a C library for reading and writing files containing sampled sound\n(such as MS Windows WAV and the Apple/SGI AIFF format) through one standard library interface.\nHomepage: http://www.mega-nerd.com/libsndfile\nURL: http://www.mega-nerd.com/libsndfile\nDescription: Libsndfile is a C library for reading and writing files containing sampled sound\n(such as MS Windows WAV and the Apple/SGI AIFF format) through one standard library interface.\nHomepage: http://www.mega-nerd.com/libsndfile\nURL: http://www.mega-nerd.com/libsndfile\nDescription: Libsndfile is a C library for reading and writing files containing sampled sound\n(such as MS Windows WAV and the Apple/SGI AIFF format) through one standard library interface.\nHomepage: http://www.mega-nerd.com/libsndfile\nURL: http://www.mega-nerd.com/libsndfile\nDescription: Libsndfile is a C library for reading and writing files containing sampled sound\n(such as MS Windows WAV and the Apple/SGI AIFF format) through one standard library interface.\nHomepage: http://www.mega-nerd.com/libsndfile\nURL: http://www.mega-nerd.com/libsndfile"
     },
     "nodejs": {
         "architectures": [
@@ -38,7 +38,7 @@
             "16.15.1",
             "18.17.1"
         ],
-        "description": ""
+        "description": "Description: Node.js is a platform built on Chrome's JavaScript runtime\nfor easily building fast, scalable network applications. Node.js uses an\nevent-driven, non-blocking I/O model that makes it lightweight and efficient,\nperfect for data-intensive real-time applications that run across distributed devices.\nHomepage: https://nodejs.org\nURL: https://nodejs.org\nDescription: Node.js is a platform built on Chrome's JavaScript runtime\nfor easily building fast, scalable network applications. Node.js uses an\nevent-driven, non-blocking I/O model that makes it lightweight and efficient,\nperfect for data-intensive real-time applications that run across distributed devices.\nHomepage: https://nodejs.org\nURL: https://nodejs.org\nDescription: Node.js is a platform built on Chrome's JavaScript runtime\nfor easily building fast, scalable network applications. Node.js uses an\nevent-driven, non-blocking I/O model that makes it lightweight and efficient,\nperfect for data-intensive real-time applications that run across distributed devices.\nHomepage: https://nodejs.org\nURL: https://nodejs.org\nDescription: Node.js is a platform built on Chrome's JavaScript runtime\nfor easily building fast, scalable network applications. Node.js uses an\nevent-driven, non-blocking I/O model that makes it lightweight and efficient,\nperfect for data-intensive real-time applications that run across distributed devices.\nHomepage: https://nodejs.org\nURL: https://nodejs.org"
     },
     "rust": {
         "architectures": [
@@ -59,7 +59,7 @@
             "1.60.0",
             "1.70.0"
         ],
-        "description": ""
+        "description": "Description: Rust is a systems programming language that runs blazingly fast, prevents segfaults,\nand guarantees thread safety.\nHomepage: https://www.rust-lang.org\nURL: https://www.rust-lang.org\nDescription: Rust is a systems programming language that runs blazingly fast, prevents segfaults,\nand guarantees thread safety.\nHomepage: https://www.rust-lang.org\nURL: https://www.rust-lang.org\nDescription: Rust is a systems programming language that runs blazingly fast, prevents segfaults,\nand guarantees thread safety.\nHomepage: https://www.rust-lang.org\nURL: https://www.rust-lang.org\nDescription: Rust is a systems programming language that runs blazingly fast, prevents segfaults,\nand guarantees thread safety.\nHomepage: https://www.rust-lang.org\nURL: https://www.rust-lang.org"
     },
     "zlib": {
         "architectures": [
@@ -81,7 +81,7 @@
             "1.2.13",
             "1.3.1"
         ],
-        "description": ""
+        "description": "Description: zlib is designed to be a free, general-purpose, legally unencumbered -- that is,\nnot covered by any patents -- lossless data-compression library for use on virtually any\ncomputer hardware and operating system.\nHomepage: https://www.zlib.net/\nURL: https://www.zlib.net/\nDescription: zlib is designed to be a free, general-purpose, legally unencumbered -- that is,\nnot covered by any patents -- lossless data-compression library for use on virtually any\ncomputer hardware and operating system.\nHomepage: https://www.zlib.net/\nURL: https://www.zlib.net/\nDescription: zlib is designed to be a free, general-purpose, legally unencumbered -- that is,\nnot covered by any patents -- lossless data-compression library for use on virtually any\ncomputer hardware and operating system.\nHomepage: https://www.zlib.net/\nURL: https://www.zlib.net/\nDescription: zlib is designed to be a free, general-purpose, legally unencumbered -- that is,\nnot covered by any patents -- lossless data-compression library for use on virtually any\ncomputer hardware and operating system.\nHomepage: https://www.zlib.net/\nURL: https://www.zlib.net/"
     },
     "openexr": {
         "architectures": [
@@ -98,7 +98,7 @@
         "versions": [
             "3.1.7"
         ],
-        "description": ""
+        "description": "Description: OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light & Magic\nfor use in computer imaging applications\nHomepage: https://www.openexr.com/\nURL: https://www.openexr.com/\nDescription: OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light & Magic\nfor use in computer imaging applications\nHomepage: https://www.openexr.com/\nURL: https://www.openexr.com/\nDescription: OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light & Magic\nfor use in computer imaging applications\nHomepage: https://www.openexr.com/\nURL: https://www.openexr.com/\nDescription: OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light & Magic\nfor use in computer imaging applications\nHomepage: https://www.openexr.com/\nURL: https://www.openexr.com/"
     },
     "jellyfish": {
         "architectures": [
@@ -117,7 +117,7 @@
         "versions": [
             "2.3.0"
         ],
-        "description": ""
+        "description": "Description: Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA.\nHomepage: http://www.genome.umd.edu/jellyfish.html\nURL: http://www.genome.umd.edu/jellyfish.html\nDescription: Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA.\nHomepage: http://www.genome.umd.edu/jellyfish.html\nURL: http://www.genome.umd.edu/jellyfish.html\nDescription: Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA.\nHomepage: http://www.genome.umd.edu/jellyfish.html\nURL: http://www.genome.umd.edu/jellyfish.html\nDescription: Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA.\nHomepage: http://www.genome.umd.edu/jellyfish.html\nURL: http://www.genome.umd.edu/jellyfish.html"
     },
     "glib-networking": {
         "architectures": [
@@ -136,7 +136,7 @@
         "versions": [
             "2.72.1"
         ],
-        "description": ""
+        "description": "Description: Network extensions for GLib\nHomepage: https://gitlab.gnome.org/GNOME/glib-networking\nURL: https://gitlab.gnome.org/GNOME/glib-networking\nDescription: Network extensions for GLib\nHomepage: https://gitlab.gnome.org/GNOME/glib-networking\nURL: https://gitlab.gnome.org/GNOME/glib-networking\nDescription: Network extensions for GLib\nHomepage: https://gitlab.gnome.org/GNOME/glib-networking\nURL: https://gitlab.gnome.org/GNOME/glib-networking\nDescription: Network extensions for GLib\nHomepage: https://gitlab.gnome.org/GNOME/glib-networking\nURL: https://gitlab.gnome.org/GNOME/glib-networking"
     },
     "boost.python": {
         "architectures": [
@@ -156,7 +156,7 @@
             "1.76.0",
             "1.79.0"
         ],
-        "description": ""
+        "description": "Description: Boost.Python is a C++ library which enables seamless interoperability between C++\nand the Python programming language.\nHomepage: https://boostorg.github.io/python\nURL: https://boostorg.github.io/python\nDescription: Boost.Python is a C++ library which enables seamless interoperability between C++\nand the Python programming language.\nHomepage: https://boostorg.github.io/python\nURL: https://boostorg.github.io/python\nDescription: Boost.Python is a C++ library which enables seamless interoperability between C++\nand the Python programming language.\nHomepage: https://boostorg.github.io/python\nURL: https://boostorg.github.io/python\nDescription: Boost.Python is a C++ library which enables seamless interoperability between C++\nand the Python programming language.\nHomepage: https://boostorg.github.io/python\nURL: https://boostorg.github.io/python"
     },
     "cereal": {
         "architectures": [
@@ -172,7 +172,7 @@
         "versions": [
             "1.3.0"
         ],
-        "description": ""
+        "description": "Description: cereal is a header-only C++11 serialization library. cereal takes arbitrary data types and reversibly\nturns them into different representations, such as compact binary encodings, XML, or JSON. cereal was designed to be\nfast, light-weight, and easy to extend - it has no external dependencies and can be easily bundled with other code or\nused standalone.\nHomepage: https://uscilab.github.io/cereal/\nURL: https://uscilab.github.io/cereal/\nDescription: cereal is a header-only C++11 serialization library. cereal takes arbitrary data types and reversibly\nturns them into different representations, such as compact binary encodings, XML, or JSON. cereal was designed to be\nfast, light-weight, and easy to extend - it has no external dependencies and can be easily bundled with other code or\nused standalone.\nHomepage: https://uscilab.github.io/cereal/\nURL: https://uscilab.github.io/cereal/\nDescription: cereal is a header-only C++11 serialization library. cereal takes arbitrary data types and reversibly\nturns them into different representations, such as compact binary encodings, XML, or JSON. cereal was designed to be\nfast, light-weight, and easy to extend - it has no external dependencies and can be easily bundled with other code or\nused standalone.\nHomepage: https://uscilab.github.io/cereal/\nURL: https://uscilab.github.io/cereal/\nDescription: cereal is a header-only C++11 serialization library. cereal takes arbitrary data types and reversibly\nturns them into different representations, such as compact binary encodings, XML, or JSON. cereal was designed to be\nfast, light-weight, and easy to extend - it has no external dependencies and can be easily bundled with other code or\nused standalone.\nHomepage: https://uscilab.github.io/cereal/\nURL: https://uscilab.github.io/cereal/"
     },
     "mdi": {
         "architectures": [
