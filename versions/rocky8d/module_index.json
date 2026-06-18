@@ -17,7 +17,7 @@
             "1.0.31",
             "1.1.0"
         ],
-        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
+        "description": ""
     },
     "nodejs": {
         "architectures": [
@@ -38,7 +38,7 @@
             "16.15.1",
             "18.17.1"
         ],
-        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
+        "description": ""
     },
     "rust": {
         "architectures": [
@@ -59,7 +59,7 @@
             "1.60.0",
             "1.70.0"
         ],
-        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
+        "description": ""
     },
     "zlib": {
         "architectures": [
@@ -81,7 +81,7 @@
             "1.2.13",
             "1.3.1"
         ],
-        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
+        "description": ""
     },
     "openexr": {
         "architectures": [
@@ -98,7 +98,7 @@
         "versions": [
             "3.1.7"
         ],
-        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
+        "description": ""
     },
     "jellyfish": {
         "architectures": [
@@ -117,7 +117,7 @@
         "versions": [
             "2.3.0"
         ],
-        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
+        "description": ""
     },
     "glib-networking": {
         "architectures": [
@@ -136,7 +136,7 @@
         "versions": [
             "2.72.1"
         ],
-        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
+        "description": ""
     },
     "boost.python": {
         "architectures": [
@@ -156,7 +156,7 @@
             "1.76.0",
             "1.79.0"
         ],
-        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
+        "description": ""
     },
     "cereal": {
         "architectures": [
@@ -172,7 +172,7 @@
         "versions": [
             "1.3.0"
         ],
-        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
+        "description": ""
     },
     "mdi": {
         "architectures": [
