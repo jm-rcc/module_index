@@ -17,7 +17,7 @@
             "1.0.31",
             "1.1.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "nodejs": {
         "architectures": [
@@ -38,7 +38,7 @@
             "16.15.1",
             "18.17.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "rust": {
         "architectures": [
@@ -59,7 +59,7 @@
             "1.60.0",
             "1.70.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "zlib": {
         "architectures": [
@@ -81,7 +81,7 @@
             "1.2.13",
             "1.3.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "openexr": {
         "architectures": [
@@ -98,7 +98,7 @@
         "versions": [
             "3.1.7"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "jellyfish": {
         "architectures": [
@@ -117,7 +117,7 @@
         "versions": [
             "2.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "glib-networking": {
         "architectures": [
@@ -136,7 +136,7 @@
         "versions": [
             "2.72.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "boost.python": {
         "architectures": [
@@ -156,7 +156,7 @@
             "1.76.0",
             "1.79.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cereal": {
         "architectures": [
@@ -172,7 +172,7 @@
         "versions": [
             "1.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "mdi": {
         "architectures": [
@@ -190,7 +190,7 @@
         "versions": [
             "1.4.26"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "jbigkit": {
         "architectures": [
@@ -209,7 +209,7 @@
         "versions": [
             "2.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "bowtie2": {
         "architectures": [
@@ -229,7 +229,7 @@
             "2.4.4",
             "2.4.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libsoup": {
         "architectures": [
@@ -248,7 +248,7 @@
         "versions": [
             "3.0.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gromacs": {
         "architectures": [
@@ -270,7 +270,7 @@
             "2023.3",
             "2025.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "matplotlib": {
         "architectures": [
@@ -290,7 +290,7 @@
             "3.4.2",
             "3.5.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "r": {
         "architectures": [
@@ -317,7 +317,7 @@
             "4.5.1",
             "default"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "bamtools": {
         "architectures": [
@@ -336,7 +336,7 @@
         "versions": [
             "2.5.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "checkm-database": {
         "architectures": [
@@ -355,7 +355,7 @@
         "versions": [
             "2015_01_16"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libgd": {
         "architectures": [
@@ -375,7 +375,7 @@
             "2.3.1",
             "2.3.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "lz4": {
         "architectures": [
@@ -395,7 +395,7 @@
             "1.9.3",
             "1.9.4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "kim-api": {
         "architectures": [
@@ -415,7 +415,7 @@
             "2.2.1",
             "2.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pplacer": {
         "architectures": [
@@ -434,7 +434,7 @@
         "versions": [
             "1.1.alpha19"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "mrbayes": {
         "architectures": [
@@ -454,7 +454,7 @@
             "3.2.7",
             "3.2.7a"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ffnvcodec": {
         "architectures": [
@@ -474,7 +474,7 @@
             "11.1.5.2",
             "12.0.16.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "motif": {
         "architectures": [
@@ -493,7 +493,7 @@
         "versions": [
             "2.3.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libarchive": {
         "architectures": [
@@ -516,7 +516,7 @@
             "3.7.4",
             "3.7.7"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "virtualenv": {
         "architectures": [
@@ -535,7 +535,7 @@
         "versions": [
             "20.23.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "fastani": {
         "architectures": [
@@ -552,7 +552,7 @@
         "versions": [
             "1.33"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libidn2": {
         "architectures": [
@@ -573,7 +573,7 @@
             "2.3.2",
             "2.3.7"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ninja": {
         "architectures": [
@@ -594,7 +594,7 @@
             "1.11.1",
             "1.12.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "jupyter-server": {
         "architectures": [
@@ -613,7 +613,7 @@
         "versions": [
             "1.21.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "perl": {
         "architectures": [
@@ -637,7 +637,7 @@
             "5.38.2",
             "5.40.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "m4": {
         "architectures": [
@@ -657,7 +657,7 @@
             "1.4.18",
             "1.4.19"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "nextflow": {
         "architectures": [
@@ -678,7 +678,7 @@
             "23.04.2",
             "25.04.6"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libxsmm": {
         "architectures": [
@@ -698,7 +698,7 @@
             "1.16.2",
             "1.17"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "hifiasm": {
         "architectures": [
@@ -717,7 +717,7 @@
         "versions": [
             "0.16.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "glib": {
         "architectures": [
@@ -738,7 +738,7 @@
             "2.72.1",
             "2.77.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "bioperl": {
         "architectures": [
@@ -757,7 +757,7 @@
         "versions": [
             "1.7.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "multiqc": {
         "architectures": [
@@ -777,7 +777,7 @@
             "1.11",
             "1.14"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "icu": {
         "architectures": [
@@ -798,7 +798,7 @@
             "71.1",
             "73.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "giflib": {
         "architectures": [
@@ -817,7 +817,7 @@
         "versions": [
             "5.2.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libsodium": {
         "architectures": [
@@ -836,7 +836,7 @@
         "versions": [
             "1.0.18"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cuda": {
         "architectures": [
@@ -854,7 +854,7 @@
             "12.2.0",
             "12.6.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "plink": {
         "architectures": [
@@ -873,7 +873,7 @@
         "versions": [
             "2.00a3.6"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "groff": {
         "architectures": [
@@ -893,7 +893,7 @@
             "1.22.4",
             "1.23.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "blat": {
         "architectures": [
@@ -909,7 +909,7 @@
         "versions": [
             "3.7"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cp2k": {
         "architectures": [
@@ -929,7 +929,7 @@
             "8.2",
             "9.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "meson": {
         "architectures": [
@@ -952,7 +952,7 @@
             "1.4.0",
             "1.6.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "at-spi2-core": {
         "architectures": [
@@ -972,7 +972,7 @@
             "2.44.1",
             "2.49.91"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "plumed": {
         "architectures": [
@@ -993,7 +993,7 @@
             "2.8.1",
             "2.9.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "udunits": {
         "architectures": [
@@ -1012,7 +1012,7 @@
         "versions": [
             "2.2.28"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "abricate": {
         "architectures": [
@@ -1031,7 +1031,7 @@
         "versions": [
             "1.0.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pandoc": {
         "architectures": [
@@ -1050,7 +1050,7 @@
         "versions": [
             "3.1.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ipython": {
         "architectures": [
@@ -1070,7 +1070,7 @@
             "7.25.0",
             "8.5.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "z3": {
         "architectures": [
@@ -1091,7 +1091,7 @@
             "4.13.0",
             "4.8.11"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libtasn1": {
         "architectures": [
@@ -1110,7 +1110,7 @@
         "versions": [
             "4.19.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gettext": {
         "architectures": [
@@ -1131,7 +1131,7 @@
             "0.21.1",
             "0.22.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libvorbis": {
         "architectures": [
@@ -1150,7 +1150,7 @@
         "versions": [
             "1.3.7"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ruby": {
         "architectures": [
@@ -1170,7 +1170,7 @@
             "3.0.1",
             "3.0.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "spaceranger": {
         "architectures": [
@@ -1190,7 +1190,7 @@
             "2.0.1",
             "2.1.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gffread": {
         "architectures": [
@@ -1209,7 +1209,7 @@
         "versions": [
             "0.12.7"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "littlecms": {
         "architectures": [
@@ -1229,7 +1229,7 @@
             "2.12",
             "2.13.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "scikit-build": {
         "architectures": [
@@ -1249,7 +1249,7 @@
             "0.11.1",
             "0.17.6"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "szip": {
         "architectures": [
@@ -1268,7 +1268,7 @@
         "versions": [
             "2.1.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libffi": {
         "architectures": [
@@ -1290,7 +1290,7 @@
             "3.4.4",
             "3.4.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pcre": {
         "architectures": [
@@ -1310,7 +1310,7 @@
             "8.44",
             "8.45"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cudnn": {
         "architectures": [
@@ -1325,7 +1325,7 @@
             "8.4.1.50",
             "8.9.2.26"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "lzo": {
         "architectures": [
@@ -1344,7 +1344,7 @@
         "versions": [
             "2.10"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "eigen": {
         "architectures": [
@@ -1364,7 +1364,7 @@
             "3.3.9",
             "3.4.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gnutls": {
         "architectures": [
@@ -1383,7 +1383,7 @@
         "versions": [
             "3.7.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pyyaml": {
         "architectures": [
@@ -1403,7 +1403,7 @@
             "5.4.1",
             "6.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "any2fasta": {
         "architectures": [
@@ -1422,7 +1422,7 @@
         "versions": [
             "0.4.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gobject-introspection": {
         "architectures": [
@@ -1443,7 +1443,7 @@
             "1.72.0",
             "1.76.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "archive-zip": {
         "architectures": [
@@ -1462,7 +1462,7 @@
         "versions": [
             "1.68"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "seqlib": {
         "architectures": [
@@ -1479,7 +1479,7 @@
         "versions": [
             "1.2.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "lame": {
         "architectures": [
@@ -1498,7 +1498,7 @@
         "versions": [
             "3.100"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "snappy": {
         "architectures": [
@@ -1519,7 +1519,7 @@
             "1.1.8",
             "1.1.9"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "biopython": {
         "architectures": [
@@ -1538,7 +1538,7 @@
         "versions": [
             "1.79"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "nss": {
         "architectures": [
@@ -1559,7 +1559,7 @@
             "3.79",
             "3.89.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "jemalloc": {
         "architectures": [
@@ -1579,7 +1579,7 @@
             "5.2.1",
             "5.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "expat": {
         "architectures": [
@@ -1601,7 +1601,7 @@
             "2.5.0",
             "2.6.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "rjags": {
         "architectures": [
@@ -1618,7 +1618,7 @@
         "versions": [
             "4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pysam": {
         "architectures": [
@@ -1638,7 +1638,7 @@
             "0.16.0.1",
             "0.19.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "autoconf": {
         "architectures": [
@@ -1658,7 +1658,7 @@
             "2.71",
             "2.72"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "hatchling": {
         "architectures": [
@@ -1677,7 +1677,7 @@
         "versions": [
             "1.18.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "zip": {
         "architectures": [
@@ -1696,7 +1696,7 @@
         "versions": [
             "3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gatk": {
         "architectures": [
@@ -1715,7 +1715,7 @@
         "versions": [
             "4.3.0.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "xvfb": {
         "architectures": [
@@ -1735,7 +1735,7 @@
             "1.20.11",
             "21.1.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "lammps": {
         "architectures": [
@@ -1753,7 +1753,7 @@
             "23jun2022",
             "2aug2023_update2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "xxd": {
         "architectures": [
@@ -1773,7 +1773,7 @@
             "8.2.4220",
             "9.0.2112"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "coordgenlibs": {
         "architectures": [
@@ -1792,7 +1792,7 @@
         "versions": [
             "3.0.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "flit": {
         "architectures": [
@@ -1811,7 +1811,7 @@
         "versions": [
             "3.9.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libunistring": {
         "architectures": [
@@ -1831,7 +1831,7 @@
             "1.0",
             "1.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "bcl2fastq2": {
         "architectures": [
@@ -1850,7 +1850,7 @@
         "versions": [
             "2.20.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "sepp": {
         "architectures": [
@@ -1870,7 +1870,7 @@
             "4.5.0",
             "4.5.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "flye": {
         "architectures": [
@@ -1889,7 +1889,7 @@
         "versions": [
             "2.9"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "checkm": {
         "architectures": [
@@ -1909,7 +1909,7 @@
             "1.1.3",
             "1.2.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "suitesparse": {
         "architectures": [
@@ -1929,7 +1929,7 @@
             "5.10.1",
             "5.13.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "mpi4py": {
         "architectures": [
@@ -1947,7 +1947,7 @@
         "versions": [
             "3.1.4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "xz": {
         "architectures": [
@@ -1969,7 +1969,7 @@
             "5.4.5",
             "5.6.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "beagle": {
         "architectures": [
@@ -1988,7 +1988,7 @@
         "versions": [
             "5.4.22jul22.46e"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cppy": {
         "architectures": [
@@ -2008,7 +2008,7 @@
             "1.1.0",
             "1.2.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "x11": {
         "architectures": [
@@ -2030,7 +2030,7 @@
             "20230603",
             "20240607"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "capnproto": {
         "architectures": [
@@ -2047,7 +2047,7 @@
         "versions": [
             "0.9.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "mesa": {
         "architectures": [
@@ -2069,7 +2069,7 @@
             "23.1.4",
             "24.1.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "glpk": {
         "architectures": [
@@ -2088,7 +2088,7 @@
         "versions": [
             "5.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gitpython": {
         "architectures": [
@@ -2108,7 +2108,7 @@
             "3.1.18",
             "3.1.27"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "archspec": {
         "architectures": [
@@ -2129,7 +2129,7 @@
             "0.2.1",
             "0.2.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gmap-gsnap": {
         "architectures": [
@@ -2145,7 +2145,7 @@
         "versions": [
             "2023"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "beagle-lib": {
         "architectures": [
@@ -2165,7 +2165,7 @@
             "3.1.2",
             "4.0.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "dendropy": {
         "architectures": [
@@ -2184,7 +2184,7 @@
         "versions": [
             "4.5.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "bison": {
         "architectures": [
@@ -2204,7 +2204,7 @@
             "3.7.6",
             "3.8.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "maxquant": {
         "architectures": [
@@ -2223,7 +2223,7 @@
         "versions": [
             "2.2.0.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "hmmer": {
         "architectures": [
@@ -2242,7 +2242,7 @@
         "versions": [
             "3.3.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "salmon": {
         "architectures": [
@@ -2261,7 +2261,7 @@
             "1.4.0",
             "1.9.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "setuptools-rust": {
         "architectures": [
@@ -2280,7 +2280,7 @@
         "versions": [
             "1.6.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "lua": {
         "architectures": [
@@ -2300,7 +2300,7 @@
             "5.4.3",
             "5.4.4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "autotools": {
         "architectures": [
@@ -2322,7 +2322,7 @@
             "20231222",
             "20240712"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "fasttree": {
         "architectures": [
@@ -2339,7 +2339,7 @@
         "versions": [
             "2.1.11"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "deeptools": {
         "architectures": [
@@ -2359,7 +2359,7 @@
             "3.5.0",
             "3.5.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "freebayes": {
         "architectures": [
@@ -2376,7 +2376,7 @@
         "versions": [
             "1.3.6"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "fsom": {
         "architectures": [
@@ -2393,7 +2393,7 @@
         "versions": [
             "20141119"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "zeromq": {
         "architectures": [
@@ -2412,7 +2412,7 @@
         "versions": [
             "4.3.4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "re2c": {
         "architectures": [
@@ -2433,7 +2433,7 @@
             "2.2",
             "3.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libtirpc": {
         "architectures": [
@@ -2453,7 +2453,7 @@
             "1.3.2",
             "1.3.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "spectra": {
         "architectures": [
@@ -2472,7 +2472,7 @@
         "versions": [
             "1.0.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gc": {
         "architectures": [
@@ -2491,7 +2491,7 @@
         "versions": [
             "8.2.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "netcdf": {
         "architectures": [
@@ -2512,7 +2512,7 @@
             "4.9.0",
             "4.9.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "wayland": {
         "architectures": [
@@ -2532,7 +2532,7 @@
             "1.22.0",
             "1.23.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "mrtrix": {
         "architectures": [
@@ -2551,7 +2551,7 @@
             "3.0.3",
             "3.0.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libtiff": {
         "architectures": [
@@ -2572,7 +2572,7 @@
             "4.3.0",
             "4.5.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gperf": {
         "architectures": [
@@ -2591,7 +2591,7 @@
         "versions": [
             "3.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "picard": {
         "architectures": [
@@ -2610,7 +2610,7 @@
         "versions": [
             "2.25.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "mafft": {
         "architectures": [
@@ -2629,7 +2629,7 @@
         "versions": [
             "7.490"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "intervaltree": {
         "architectures": [
@@ -2646,7 +2646,7 @@
         "versions": [
             "0.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "tcl": {
         "architectures": [
@@ -2669,7 +2669,7 @@
             "8.6.14",
             "8.6.16"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "at-spi2-atk": {
         "architectures": [
@@ -2688,7 +2688,7 @@
         "versions": [
             "2.38.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "patchelf": {
         "architectures": [
@@ -2707,7 +2707,7 @@
         "versions": [
             "0.18.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "x265": {
         "architectures": [
@@ -2726,7 +2726,7 @@
         "versions": [
             "3.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libdrm": {
         "architectures": [
@@ -2748,7 +2748,7 @@
             "2.4.115",
             "2.4.122"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "intel": {
         "architectures": [
@@ -2771,7 +2771,7 @@
             "2024a",
             "2025a"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "tkinter": {
         "architectures": [
@@ -2792,7 +2792,7 @@
             "3.11.3",
             "3.9.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gzip": {
         "architectures": [
@@ -2813,7 +2813,7 @@
             "1.12",
             "1.13"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "maeparser": {
         "architectures": [
@@ -2832,7 +2832,7 @@
         "versions": [
             "1.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "perl-bundle-cpan": {
         "architectures": [
@@ -2852,7 +2852,7 @@
             "5.36.1",
             "5.38.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libxslt": {
         "architectures": [
@@ -2872,7 +2872,7 @@
             "1.1.34",
             "1.1.38"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "sqlite": {
         "architectures": [
@@ -2895,7 +2895,7 @@
             "3.45.3",
             "3.47.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "minimap2": {
         "architectures": [
@@ -2916,7 +2916,7 @@
             "2.24",
             "2.30"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cryptography": {
         "architectures": [
@@ -2935,7 +2935,7 @@
         "versions": [
             "41.0.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "vcftools": {
         "architectures": [
@@ -2954,7 +2954,7 @@
         "versions": [
             "0.1.16"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libreadline": {
         "architectures": [
@@ -2975,7 +2975,7 @@
             "8.1.2",
             "8.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "numactl": {
         "architectures": [
@@ -2997,7 +2997,7 @@
             "2.0.18",
             "2.0.19"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "c-ares": {
         "architectures": [
@@ -3016,7 +3016,7 @@
         "versions": [
             "1.18.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libvori": {
         "architectures": [
@@ -3035,7 +3035,7 @@
         "versions": [
             "220621"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "smithwaterman": {
         "architectures": [
@@ -3052,7 +3052,7 @@
         "versions": [
             "20160702"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "intltool": {
         "architectures": [
@@ -3071,7 +3071,7 @@
         "versions": [
             "0.51.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "htseq": {
         "architectures": [
@@ -3090,7 +3090,7 @@
         "versions": [
             "2.0.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "double-conversion": {
         "architectures": [
@@ -3111,7 +3111,7 @@
             "3.2.0",
             "3.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libunwind": {
         "architectures": [
@@ -3132,7 +3132,7 @@
             "1.6.2",
             "1.8.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "python": {
         "architectures": [
@@ -3156,7 +3156,7 @@
             "3.13.1",
             "3.9.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "brunsli": {
         "architectures": [
@@ -3173,7 +3173,7 @@
         "versions": [
             "0.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ghostscript": {
         "architectures": [
@@ -3194,7 +3194,7 @@
             "9.54.0",
             "9.56.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "help2man": {
         "architectures": [
@@ -3215,7 +3215,7 @@
             "1.49.2",
             "1.49.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gdrcopy": {
         "architectures": [
@@ -3229,7 +3229,7 @@
         "versions": [
             "2.3.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pocl": {
         "architectures": [
@@ -3249,7 +3249,7 @@
             "1.8",
             "6.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "jasper": {
         "architectures": [
@@ -3270,7 +3270,7 @@
             "2.0.33",
             "4.0.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cd-hit": {
         "architectures": [
@@ -3289,7 +3289,7 @@
         "versions": [
             "4.8.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libev": {
         "architectures": [
@@ -3308,7 +3308,7 @@
         "versions": [
             "4.33"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "elfutils": {
         "architectures": [
@@ -3328,7 +3328,7 @@
             "0.185",
             "0.187"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "blast": {
         "architectures": [
@@ -3347,7 +3347,7 @@
         "versions": [
             "2.11.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "hisat2": {
         "architectures": [
@@ -3366,7 +3366,7 @@
         "versions": [
             "2.2.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "rapidjson": {
         "architectures": [
@@ -3385,7 +3385,7 @@
         "versions": [
             "1.1.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "flex": {
         "architectures": [
@@ -3404,7 +3404,7 @@
         "versions": [
             "2.6.4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "fribidi": {
         "architectures": [
@@ -3424,7 +3424,7 @@
             "1.0.10",
             "1.0.12"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ucc": {
         "architectures": [
@@ -3443,7 +3443,7 @@
         "versions": [
             "1.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "json-c": {
         "architectures": [
@@ -3460,7 +3460,7 @@
         "versions": [
             "0.16"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "curl": {
         "architectures": [
@@ -3483,7 +3483,7 @@
             "8.11.1",
             "8.7.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "util-linux": {
         "architectures": [
@@ -3505,7 +3505,7 @@
             "2.39",
             "2.40"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "bbmap": {
         "architectures": [
@@ -3525,7 +3525,7 @@
             "38.96",
             "39.01"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libfabric": {
         "architectures": [
@@ -3548,7 +3548,7 @@
             "1.21.0",
             "2.0.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "tqdm": {
         "architectures": [
@@ -3565,7 +3565,7 @@
         "versions": [
             "4.61.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "nettle": {
         "architectures": [
@@ -3585,7 +3585,7 @@
             "3.7.2",
             "3.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "kraken2": {
         "architectures": [
@@ -3604,7 +3604,7 @@
         "versions": [
             "2.1.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cpio": {
         "architectures": [
@@ -3623,7 +3623,7 @@
         "versions": [
             "2.14"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "fastahack": {
         "architectures": [
@@ -3640,7 +3640,7 @@
         "versions": [
             "1.0.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "bedtools": {
         "architectures": [
@@ -3659,7 +3659,7 @@
         "versions": [
             "2.30.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "scipy-bundle": {
         "architectures": [
@@ -3680,7 +3680,7 @@
             "2022.05",
             "2023.07"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libiconv": {
         "architectures": [
@@ -3701,7 +3701,7 @@
             "1.17",
             "1.18"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "mpfr": {
         "architectures": [
@@ -3720,7 +3720,7 @@
         "versions": [
             "4.1.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "bio-searchio-hmmer": {
         "architectures": [
@@ -3739,7 +3739,7 @@
         "versions": [
             "1.7.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "xerces-c++": {
         "architectures": [
@@ -3756,7 +3756,7 @@
         "versions": [
             "3.2.4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "p11-kit": {
         "architectures": [
@@ -3775,7 +3775,7 @@
         "versions": [
             "0.24.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "swig": {
         "architectures": [
@@ -3795,7 +3795,7 @@
             "4.0.2",
             "4.1.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cmake": {
         "architectures": [
@@ -3821,7 +3821,7 @@
             "3.29.3",
             "3.31.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "armadillo": {
         "architectures": [
@@ -3838,7 +3838,7 @@
         "versions": [
             "12.6.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "quantumespresso": {
         "architectures": [
@@ -3858,7 +3858,7 @@
             "6.8",
             "7.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "fontconfig": {
         "architectures": [
@@ -3880,7 +3880,7 @@
             "2.14.2",
             "2.15.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libogg": {
         "architectures": [
@@ -3900,7 +3900,7 @@
             "1.3.4",
             "1.3.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libnsl": {
         "architectures": [
@@ -3919,7 +3919,7 @@
         "versions": [
             "1.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libgit2": {
         "architectures": [
@@ -3940,7 +3940,7 @@
             "1.4.3",
             "1.7.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "mako": {
         "architectures": [
@@ -3962,7 +3962,7 @@
             "1.2.4",
             "1.3.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "nghttp3": {
         "architectures": [
@@ -3981,7 +3981,7 @@
         "versions": [
             "0.6.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "judy": {
         "architectures": [
@@ -4000,7 +4000,7 @@
         "versions": [
             "1.0.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "foss": {
         "architectures": [
@@ -4023,7 +4023,7 @@
             "2024a",
             "2025a"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libglvnd": {
         "architectures": [
@@ -4045,7 +4045,7 @@
             "1.6.0",
             "1.7.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "hdf5": {
         "architectures": [
@@ -4067,7 +4067,7 @@
             "1.14.0",
             "1.14.6"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libint": {
         "architectures": [
@@ -4087,7 +4087,7 @@
             "2.6.0",
             "2.7.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "xml-libxml": {
         "architectures": [
@@ -4106,7 +4106,7 @@
         "versions": [
             "2.0207"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "seqtk": {
         "architectures": [
@@ -4125,7 +4125,7 @@
         "versions": [
             "1.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "clang": {
         "architectures": [
@@ -4147,7 +4147,7 @@
             "15.0.5",
             "18.1.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gtdb-tk": {
         "architectures": [
@@ -4169,7 +4169,7 @@
             "2.4.0+226",
             "default"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "alsa-lib": {
         "architectures": [
@@ -4188,7 +4188,7 @@
         "versions": [
             "1.2.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "mash": {
         "architectures": [
@@ -4205,7 +4205,7 @@
         "versions": [
             "2.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "freetype": {
         "architectures": [
@@ -4227,7 +4227,7 @@
             "2.13.0",
             "2.13.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "lxml": {
         "architectures": [
@@ -4246,7 +4246,7 @@
         "versions": [
             "4.9.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "spades": {
         "architectures": [
@@ -4266,7 +4266,7 @@
             "3.15.3",
             "3.15.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libgeotiff": {
         "architectures": [
@@ -4286,7 +4286,7 @@
             "1.6.0",
             "1.7.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "blast+": {
         "architectures": [
@@ -4306,7 +4306,7 @@
             "2.11.0",
             "2.13.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "bwa": {
         "architectures": [
@@ -4325,7 +4325,7 @@
         "versions": [
             "0.7.17"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "qiime2": {
         "architectures": [
@@ -4344,7 +4344,7 @@
         "versions": [
             "2022.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "easybuild": {
         "architectures": [
@@ -4364,7 +4364,7 @@
             "5.1.0",
             "5.1.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "kallisto": {
         "architectures": [
@@ -4383,7 +4383,7 @@
         "versions": [
             "0.48.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ngtcp2": {
         "architectures": [
@@ -4402,7 +4402,7 @@
         "versions": [
             "0.7.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ssw": {
         "architectures": [
@@ -4419,7 +4419,7 @@
         "versions": [
             "1.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "nlopt": {
         "architectures": [
@@ -4439,7 +4439,7 @@
             "2.7.0",
             "2.7.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "htslib": {
         "architectures": [
@@ -4460,7 +4460,7 @@
             "1.15.1",
             "1.18"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "busco": {
         "architectures": [
@@ -4480,7 +4480,7 @@
             "5.4.2",
             "5.4.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cfitsio": {
         "architectures": [
@@ -4497,7 +4497,7 @@
         "versions": [
             "4.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "atk": {
         "architectures": [
@@ -4516,7 +4516,7 @@
         "versions": [
             "2.38.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "bzip2": {
         "architectures": [
@@ -4535,7 +4535,7 @@
         "versions": [
             "1.0.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "zstd": {
         "architectures": [
@@ -4557,7 +4557,7 @@
             "1.5.5",
             "1.5.6"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "jsoncpp": {
         "architectures": [
@@ -4577,7 +4577,7 @@
             "1.9.4",
             "1.9.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "imkl": {
         "architectures": [
@@ -4600,7 +4600,7 @@
             "2024.2.0",
             "2025.1.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "isa-l": {
         "architectures": [
@@ -4619,7 +4619,7 @@
         "versions": [
             "2.30.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cairo": {
         "architectures": [
@@ -4640,7 +4640,7 @@
             "1.17.4",
             "1.17.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "impi": {
         "architectures": [
@@ -4663,7 +4663,7 @@
             "2021.6.0",
             "2021.9.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "aocl-blas": {
         "architectures": [
@@ -4675,7 +4675,7 @@
         "versions": [
             "5.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libaec": {
         "architectures": [
@@ -4692,7 +4692,7 @@
         "versions": [
             "1.0.6"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "openmpi": {
         "architectures": [
@@ -4715,7 +4715,7 @@
             "5.0.3",
             "5.0.7"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "automake": {
         "architectures": [
@@ -4736,7 +4736,7 @@
             "1.16.5",
             "1.17"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "openssl": {
         "architectures": [
@@ -4756,7 +4756,7 @@
             "1.1",
             "3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libglu": {
         "architectures": [
@@ -4777,7 +4777,7 @@
             "9.0.2",
             "9.0.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "harfbuzz": {
         "architectures": [
@@ -4798,7 +4798,7 @@
             "4.2.1",
             "5.3.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libidn": {
         "architectures": [
@@ -4817,7 +4817,7 @@
         "versions": [
             "1.36"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gmp": {
         "architectures": [
@@ -4837,7 +4837,7 @@
             "6.2.1",
             "6.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "openblas": {
         "architectures": [
@@ -4860,7 +4860,7 @@
             "0.3.27",
             "0.3.29"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "beautifulsoup": {
         "architectures": [
@@ -4879,7 +4879,7 @@
         "versions": [
             "4.10.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "kronatools": {
         "architectures": [
@@ -4898,7 +4898,7 @@
         "versions": [
             "2.8.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "vtk": {
         "architectures": [
@@ -4916,7 +4916,7 @@
         "versions": [
             "9.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "filevercmp": {
         "architectures": [
@@ -4933,7 +4933,7 @@
         "versions": [
             "20191210"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "bcftools": {
         "architectures": [
@@ -4954,7 +4954,7 @@
             "1.15.1",
             "1.18"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "star": {
         "architectures": [
@@ -4974,7 +4974,7 @@
             "2.7.10b",
             "2.7.9a"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "sdl2": {
         "architectures": [
@@ -4994,7 +4994,7 @@
             "2.0.22",
             "2.28.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libtool": {
         "architectures": [
@@ -5015,7 +5015,7 @@
             "2.4.7",
             "2.5.4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "lit": {
         "architectures": [
@@ -5036,7 +5036,7 @@
             "18.1.7",
             "18.1.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "llvm": {
         "architectures": [
@@ -5058,7 +5058,7 @@
             "16.0.6",
             "18.1.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "prrte": {
         "architectures": [
@@ -5078,7 +5078,7 @@
             "3.0.5",
             "3.0.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "mono": {
         "architectures": [
@@ -5097,7 +5097,7 @@
         "versions": [
             "6.12.0.122"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "compress-raw-zlib": {
         "architectures": [
@@ -5116,7 +5116,7 @@
         "versions": [
             "2.202"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "jansson": {
         "architectures": [
@@ -5135,7 +5135,7 @@
         "versions": [
             "2.14"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gsl": {
         "architectures": [
@@ -5154,7 +5154,7 @@
         "versions": [
             "2.7"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libjpeg-turbo": {
         "architectures": [
@@ -5176,7 +5176,7 @@
             "2.1.5.1",
             "3.0.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gdk-pixbuf": {
         "architectures": [
@@ -5197,7 +5197,7 @@
             "2.42.6",
             "2.42.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "nspr": {
         "architectures": [
@@ -5218,7 +5218,7 @@
             "4.34",
             "4.35"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ant": {
         "architectures": [
@@ -5238,7 +5238,7 @@
             "1.10.12",
             "1.10.9"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gtk2": {
         "architectures": [
@@ -5257,7 +5257,7 @@
         "versions": [
             "2.24.33"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "voro++": {
         "architectures": [
@@ -5276,7 +5276,7 @@
         "versions": [
             "0.4.6"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "x264": {
         "architectures": [
@@ -5296,7 +5296,7 @@
             "20210414",
             "20230226"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libopus": {
         "architectures": [
@@ -5315,7 +5315,7 @@
         "versions": [
             "1.3.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "networkx": {
         "architectures": [
@@ -5336,7 +5336,7 @@
             "2.8.4",
             "3.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "augustus": {
         "architectures": [
@@ -5356,7 +5356,7 @@
             "3.4.0",
             "3.5.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "tabixpp": {
         "architectures": [
@@ -5373,7 +5373,7 @@
         "versions": [
             "1.1.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "dbus": {
         "architectures": [
@@ -5394,7 +5394,7 @@
             "1.14.0",
             "1.15.4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "samtools": {
         "architectures": [
@@ -5415,7 +5415,7 @@
             "1.16.1",
             "1.18"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "flac": {
         "architectures": [
@@ -5435,7 +5435,7 @@
             "1.3.3",
             "1.3.4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pybind11": {
         "architectures": [
@@ -5456,7 +5456,7 @@
             "2.6.2",
             "2.9.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "metaeuk": {
         "architectures": [
@@ -5476,7 +5476,7 @@
             "5",
             "6"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "blis": {
         "architectures": [
@@ -5498,7 +5498,7 @@
             "1.0",
             "1.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "jags": {
         "architectures": [
@@ -5515,7 +5515,7 @@
         "versions": [
             "4.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "xorg-macros": {
         "architectures": [
@@ -5537,7 +5537,7 @@
             "1.20.1",
             "1.20.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "multichoose": {
         "architectures": [
@@ -5554,7 +5554,7 @@
         "versions": [
             "1.0.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "stringtie": {
         "architectures": [
@@ -5573,7 +5573,7 @@
         "versions": [
             "2.1.7"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cffi": {
         "architectures": [
@@ -5592,7 +5592,7 @@
         "versions": [
             "1.15.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gtk3": {
         "architectures": [
@@ -5612,7 +5612,7 @@
             "3.24.33",
             "3.24.37"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "diamond": {
         "architectures": [
@@ -5632,7 +5632,7 @@
             "2.0.13",
             "2.1.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "binutils": {
         "architectures": [
@@ -5655,7 +5655,7 @@
             "2.40",
             "2.42"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "brotli": {
         "architectures": [
@@ -5675,7 +5675,7 @@
             "1.0.9",
             "1.1.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cellranger-arc": {
         "architectures": [
@@ -5694,7 +5694,7 @@
         "versions": [
             "2.0.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "tbl2asn": {
         "architectures": [
@@ -5714,7 +5714,7 @@
             "20220427",
             "20230119"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pcre2": {
         "architectures": [
@@ -5735,7 +5735,7 @@
             "10.40",
             "10.42"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "imath": {
         "architectures": [
@@ -5752,7 +5752,7 @@
         "versions": [
             "3.1.7"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "tbb": {
         "architectures": [
@@ -5773,7 +5773,7 @@
             "2021.11.0",
             "2021.5.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "vcflib": {
         "architectures": [
@@ -5790,7 +5790,7 @@
         "versions": [
             "1.0.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "intel-compilers": {
         "architectures": [
@@ -5813,7 +5813,7 @@
             "2024.2.0",
             "2025.1.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "parallel": {
         "architectures": [
@@ -5833,7 +5833,7 @@
             "20210622",
             "20220722"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "trinity": {
         "architectures": [
@@ -5850,7 +5850,7 @@
         "versions": [
             "2.9.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libpciaccess": {
         "architectures": [
@@ -5871,7 +5871,7 @@
             "0.17",
             "0.18.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ffmpeg": {
         "architectures": [
@@ -5891,7 +5891,7 @@
             "4.3.2",
             "6.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "boost": {
         "architectures": [
@@ -5912,7 +5912,7 @@
             "1.79.0",
             "1.82.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "lapack": {
         "architectures": [
@@ -5931,7 +5931,7 @@
         "versions": [
             "3.10.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libcerf": {
         "architectures": [
@@ -5951,7 +5951,7 @@
             "1.17",
             "2.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "bowtie": {
         "architectures": [
@@ -5967,7 +5967,7 @@
         "versions": [
             "1.3.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "make": {
         "architectures": [
@@ -5987,7 +5987,7 @@
             "4.3",
             "4.4.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pillow": {
         "architectures": [
@@ -6007,7 +6007,7 @@
             "8.2.0",
             "9.1.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ansys-dependencies": {
         "architectures": [
@@ -6026,7 +6026,7 @@
         "versions": [
             "2023"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "snakemake": {
         "architectures": [
@@ -6046,7 +6046,7 @@
             "6.6.1",
             "7.22.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "prokka": {
         "architectures": [
@@ -6065,7 +6065,7 @@
         "versions": [
             "1.14.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "canu": {
         "architectures": [
@@ -6084,7 +6084,7 @@
         "versions": [
             "2.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "miniconda3": {
         "architectures": [
@@ -6104,7 +6104,7 @@
             "23.9.0",
             "4.12.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pixman": {
         "architectures": [
@@ -6124,7 +6124,7 @@
             "0.40.0",
             "0.42.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "fftw": {
         "architectures": [
@@ -6144,7 +6144,7 @@
             "3.3.10",
             "3.3.9"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "googletest": {
         "architectures": [
@@ -6164,7 +6164,7 @@
             "1.11.0",
             "1.13.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "vscode": {
         "architectures": [
@@ -6183,7 +6183,7 @@
         "versions": [
             "1.87.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "metis": {
         "architectures": [
@@ -6202,7 +6202,7 @@
         "versions": [
             "5.1.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "elpa": {
         "architectures": [
@@ -6222,7 +6222,7 @@
             "2021.05.001",
             "2021.11.001"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "java": {
         "architectures": [
@@ -6255,7 +6255,7 @@
             "modulerc.bak_20251015171911_4073739",
             "modulerc.bak_20251020220056_2043513"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "mariadb": {
         "architectures": [
@@ -6274,7 +6274,7 @@
         "versions": [
             "10.9.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pkg-config": {
         "architectures": [
@@ -6293,7 +6293,7 @@
         "versions": [
             "0.29.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gompi": {
         "architectures": [
@@ -6316,7 +6316,7 @@
             "2024a",
             "2025a"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "sra-toolkit": {
         "architectures": [
@@ -6335,7 +6335,7 @@
         "versions": [
             "3.0.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "python-isal": {
         "architectures": [
@@ -6355,7 +6355,7 @@
             "0.11.0",
             "1.1.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "fermi-lite": {
         "architectures": [
@@ -6372,7 +6372,7 @@
         "versions": [
             "20190320"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "trimmomatic": {
         "architectures": [
@@ -6391,7 +6391,7 @@
         "versions": [
             "0.39"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "popt": {
         "architectures": [
@@ -6410,7 +6410,7 @@
         "versions": [
             "1.19"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "miller": {
         "architectures": [
@@ -6429,7 +6429,7 @@
         "versions": [
             "6.4.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ucx": {
         "architectures": [
@@ -6451,7 +6451,7 @@
             "1.16.0",
             "1.18.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pmix": {
         "architectures": [
@@ -6474,7 +6474,7 @@
             "5.0.2",
             "5.0.6"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "wget": {
         "architectures": [
@@ -6494,7 +6494,7 @@
             "1.21.1",
             "1.21.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ncurses": {
         "architectures": [
@@ -6517,7 +6517,7 @@
             "6.4",
             "6.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gfbf": {
         "architectures": [
@@ -6537,7 +6537,7 @@
             "2022a",
             "2023a"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cython": {
         "architectures": [
@@ -6556,7 +6556,7 @@
         "versions": [
             "3.0.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pkgconfig": {
         "architectures": [
@@ -6573,7 +6573,7 @@
         "versions": [
             "1.5.4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "makeinfo": {
         "architectures": [
@@ -6593,7 +6593,7 @@
             "6.7",
             "6.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libpng": {
         "architectures": [
@@ -6614,7 +6614,7 @@
             "1.6.39",
             "1.6.43"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pango": {
         "architectures": [
@@ -6635,7 +6635,7 @@
             "1.50.14",
             "1.50.7"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "file": {
         "architectures": [
@@ -6655,7 +6655,7 @@
             "5.40",
             "5.43"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gcta": {
         "architectures": [
@@ -6674,7 +6674,7 @@
         "versions": [
             "1.94.0beta"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "db_file": {
         "architectures": [
@@ -6694,7 +6694,7 @@
             "1.856",
             "1.858"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libevent": {
         "architectures": [
@@ -6713,7 +6713,7 @@
         "versions": [
             "2.1.12"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "yasm": {
         "architectures": [
@@ -6732,7 +6732,7 @@
         "versions": [
             "1.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libepoxy": {
         "architectures": [
@@ -6751,7 +6751,7 @@
         "versions": [
             "1.5.10"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gdal": {
         "architectures": [
@@ -6772,7 +6772,7 @@
             "3.5.0",
             "3.7.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "doxygen": {
         "architectures": [
@@ -6794,7 +6794,7 @@
             "1.9.4",
             "1.9.7"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "prodigal": {
         "architectures": [
@@ -6813,7 +6813,7 @@
         "versions": [
             "2.6.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gnuplot": {
         "architectures": [
@@ -6833,7 +6833,7 @@
             "5.4.2",
             "5.4.4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "hwloc": {
         "architectures": [
@@ -6856,7 +6856,7 @@
             "2.7.1",
             "2.9.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gcc": {
         "architectures": [
@@ -6879,7 +6879,7 @@
             "13.3.0",
             "14.2.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "h5py": {
         "architectures": [
@@ -6896,7 +6896,7 @@
         "versions": [
             "3.2.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "hdf": {
         "architectures": [
@@ -6916,7 +6916,7 @@
             "4.2.15",
             "4.2.16"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libaio": {
         "architectures": [
@@ -6935,7 +6935,7 @@
         "versions": [
             "0.3.112"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libxml2": {
         "architectures": [
@@ -6958,7 +6958,7 @@
             "2.9.10",
             "2.9.13"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "quast": {
         "architectures": [
@@ -6978,7 +6978,7 @@
             "5.0.2",
             "5.2.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ngs": {
         "architectures": [
@@ -6997,7 +6997,7 @@
         "versions": [
             "2.10.9"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ncbi-vdb": {
         "architectures": [
@@ -7017,7 +7017,7 @@
             "2.10.9",
             "3.0.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "nasm": {
         "architectures": [
@@ -7038,7 +7038,7 @@
             "2.16.01",
             "2.16.03"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "git": {
         "architectures": [
@@ -7060,7 +7060,7 @@
             "2.41.0",
             "2.45.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "fastp": {
         "architectures": [
@@ -7079,7 +7079,7 @@
         "versions": [
             "0.23.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "tmux": {
         "architectures": [
@@ -7097,7 +7097,7 @@
         "versions": [
             "3.5a"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "imkl-fftw": {
         "architectures": [
@@ -7119,7 +7119,7 @@
             "2024.2.0",
             "2025.1.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pigz": {
         "architectures": [
@@ -7139,7 +7139,7 @@
             "2.6",
             "2.7"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "fftw.mpi": {
         "architectures": [
@@ -7158,7 +7158,7 @@
         "versions": [
             "3.3.10"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "dbd-mysql": {
         "architectures": [
@@ -7177,7 +7177,7 @@
         "versions": [
             "4.050"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "guile": {
         "architectures": [
@@ -7196,7 +7196,7 @@
         "versions": [
             "3.0.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "unzip": {
         "architectures": [
@@ -7215,7 +7215,7 @@
         "versions": [
             "6.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "qt5": {
         "architectures": [
@@ -7236,7 +7236,7 @@
             "5.15.2",
             "5.15.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libpsl": {
         "architectures": [
@@ -7256,7 +7256,7 @@
             "0.21.1",
             "0.21.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "graphite2": {
         "architectures": [
@@ -7275,7 +7275,7 @@
         "versions": [
             "1.3.14"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cunit": {
         "architectures": [
@@ -7294,7 +7294,7 @@
         "versions": [
             "2.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "nghttp2": {
         "architectures": [
@@ -7313,7 +7313,7 @@
         "versions": [
             "1.48.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "flexiblas": {
         "architectures": [
@@ -7336,7 +7336,7 @@
             "3.4.4",
             "3.4.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "cutadapt": {
         "architectures": [
@@ -7356,7 +7356,7 @@
             "3.4",
             "4.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "proj": {
         "architectures": [
@@ -7377,7 +7377,7 @@
             "9.0.0",
             "9.2.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "openbabel": {
         "architectures": [
@@ -7396,7 +7396,7 @@
         "versions": [
             "3.1.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "poetry": {
         "architectures": [
@@ -7415,7 +7415,7 @@
         "versions": [
             "1.5.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "arpack-ng": {
         "architectures": [
@@ -7432,7 +7432,7 @@
         "versions": [
             "3.9.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "humann": {
         "architectures": [
@@ -7453,7 +7453,7 @@
             "3.6",
             "4.0.0.alpha.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "lerc": {
         "architectures": [
@@ -7470,7 +7470,7 @@
         "versions": [
             "4.0.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "iimpi": {
         "architectures": [
@@ -7493,7 +7493,7 @@
             "2024a",
             "2025a"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "hypothesis": {
         "architectures": [
@@ -7514,7 +7514,7 @@
             "6.46.7",
             "6.82.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "fastqc": {
         "architectures": [
@@ -7533,7 +7533,7 @@
         "versions": [
             "0.11.9"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "nccl": {
         "architectures": [
@@ -7547,7 +7547,7 @@
         "versions": [
             "2.18.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "virtualgl": {
         "architectures": [
@@ -7567,7 +7567,7 @@
             "3.1.4",
             "latest"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libxc": {
         "architectures": [
@@ -7587,7 +7587,7 @@
             "5.1.5",
             "5.2.3"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "scafacos": {
         "architectures": [
@@ -7607,7 +7607,7 @@
             "1.0.1",
             "1.0.4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "interproscan": {
         "architectures": [
@@ -7626,7 +7626,7 @@
             "5.55",
             "5.76"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "openjpeg": {
         "architectures": [
@@ -7645,7 +7645,7 @@
         "versions": [
             "2.5.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "catch2": {
         "architectures": [
@@ -7664,7 +7664,7 @@
         "versions": [
             "2.13.9"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "lpsolve": {
         "architectures": [
@@ -7683,7 +7683,7 @@
         "versions": [
             "5.5.2.11"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "jupyterlab": {
         "architectures": [
@@ -7702,7 +7702,7 @@
         "versions": [
             "3.5.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "plotly.py": {
         "architectures": [
@@ -7722,7 +7722,7 @@
             "5.1.0",
             "5.12.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "julia": {
         "architectures": [
@@ -7743,7 +7743,7 @@
             "1.10.4",
             "1.8.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "scalapack": {
         "architectures": [
@@ -7764,7 +7764,7 @@
             "2.2.0",
             "2.2.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pybigwig": {
         "architectures": [
@@ -7783,7 +7783,7 @@
         "versions": [
             "0.3.18"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "ucx-cuda": {
         "architectures": [
@@ -7797,7 +7797,7 @@
         "versions": [
             "1.14.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "anaconda3": {
         "architectures": [
@@ -7817,7 +7817,7 @@
             "2022.05",
             "2023.09"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "lmdb": {
         "architectures": [
@@ -7837,7 +7837,7 @@
             "0.9.28",
             "0.9.29"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pycoqc": {
         "architectures": [
@@ -7854,7 +7854,7 @@
         "versions": [
             "2.5.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "qhull": {
         "architectures": [
@@ -7873,7 +7873,7 @@
         "versions": [
             "2020.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "python-bundle-pypi": {
         "architectures": [
@@ -7892,7 +7892,7 @@
         "versions": [
             "2023.06"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gcccore": {
         "architectures": [
@@ -7915,7 +7915,7 @@
             "13.3.0",
             "14.2.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "geos": {
         "architectures": [
@@ -7936,7 +7936,7 @@
             "3.12.0",
             "3.9.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "openpgm": {
         "architectures": [
@@ -7955,7 +7955,7 @@
         "versions": [
             "5.2.122"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "db": {
         "architectures": [
@@ -7974,7 +7974,7 @@
         "versions": [
             "18.1.40"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libwebp": {
         "architectures": [
@@ -7993,7 +7993,7 @@
         "versions": [
             "1.2.4"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "go": {
         "architectures": [
@@ -8015,7 +8015,7 @@
             "1.20.4",
             "1.23.6"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "imagemagick": {
         "architectures": [
@@ -8035,7 +8035,7 @@
             "7.0.11",
             "7.1.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "mummer": {
         "architectures": [
@@ -8055,7 +8055,7 @@
             "3.23",
             "4.0.0rc1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "bio-db-hts": {
         "architectures": [
@@ -8074,7 +8074,7 @@
         "versions": [
             "3.01"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "tk": {
         "architectures": [
@@ -8095,7 +8095,7 @@
             "8.6.12",
             "8.6.13"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "vep": {
         "architectures": [
@@ -8114,7 +8114,7 @@
         "versions": [
             "107"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "nlohmann_json": {
         "architectures": [
@@ -8134,7 +8134,7 @@
             "3.10.5",
             "3.11.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libdeflate": {
         "architectures": [
@@ -8154,7 +8154,7 @@
             "1.10",
             "1.18"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "megahit": {
         "architectures": [
@@ -8173,7 +8173,7 @@
         "versions": [
             "1.2.9"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "pkgconf": {
         "architectures": [
@@ -8195,7 +8195,7 @@
             "2.2.0",
             "2.3.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libyaml": {
         "architectures": [
@@ -8214,7 +8214,7 @@
         "versions": [
             "0.2.5"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "gffcompare": {
         "architectures": [
@@ -8233,7 +8233,7 @@
         "versions": [
             "0.12.2"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libheif": {
         "architectures": [
@@ -8244,7 +8244,7 @@
             "1.16.2",
             "1.17.6"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "psutil": {
         "architectures": [
@@ -8254,7 +8254,7 @@
         "versions": [
             "6.0.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "libde265": {
         "architectures": [
@@ -8265,7 +8265,7 @@
             "1.0.15",
             "1.0.8"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "paraview": {
         "architectures": [
@@ -8278,7 +8278,7 @@
             "5.11.2",
             "6.0.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "dirac": {
         "architectures": [
@@ -8288,7 +8288,7 @@
         "versions": [
             "25.0"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "hipsycl": {
         "architectures": [
@@ -8299,7 +8299,7 @@
         "versions": [
             "0.9.1"
         ],
-        "description": ""
+        "description": "/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles"
     },
     "scvelo": {
         "architectures": [
