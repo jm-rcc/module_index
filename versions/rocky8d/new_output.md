@@ -2794,9 +2794,23 @@ GPUs, with a focus on leveraging existing toolchains such as CUDA or HIP
 https://github.com/illuhad/hipSYCL
 ## scvelo
 ## ipyrad
+### 
+Welcome to ipyrad, an interactive assembly and analysis toolkit for restriction-site associated DNA (RAD-seq) and related data types. Please explore the documentation to find out more about the features of ipyrad.
+Ipyrad
+.
+Version 0.9.105
+Installed 20250922
+Installer m.hankel@uq.edu.au
 ## qiime2-amplicon
 ## dadi
 ## medaka
+### 
+medaka is a tool to create consensus sequences and variant calls from nanopore sequencing data. This task is performed using neural networks applied a pileup of individual sequencing reads against a draft assembly. It provides state-of-the-art results outperforming sequence-graph based methods and signal-based methods, whilst also being faster.
+Medaka
+.
+Version 2.1.1
+Installed 20250916
+Installer e.scriven@uq.edu.au
 ## singlem
 ## screen_assembly
 ## racon
@@ -2811,108 +2825,682 @@ https://github.com/illuhad/hipSYCL
 ## hapflk
 ## dram
 ## sglang
+### Description
+This module sets up the environment for SGLang 0.4.0 for NVidia GPUs.
+SGLang is a fast serving framework for large language models and vision language models.
+### Homepage
+https://docs.sglang.ai
 ## asreml-sa_test
+### 
+Container for ASReml-AS Version 4.2.1.198
+david.green@uq.edu.au
+For more detail, run
+module help asreml-as
 ## relion
+### Description
+This module sets up the environment for Relion 5.0.1.
+Relion (for REgularised LIkelihood OptimisatioN, pronounce rely-on) is a software package that employs an empirical Bayesian approach for electron cryo-microscopy (cryo-EM) structure determination.
+### Homepage
+https://github.com/3dem/relion
 ## openclip
+### Description
+This module sets up the environment for OpenCLIP-torch for NVidia GPUs.
+OpenCLIP is an open source implementation of OpenAI's CLIP (Contrastive Language-Image Pre-training).
+Using this codebase, we have trained several models on a variety of data sources and compute budgets, ranging from small-scale experiments to larger runs including models trained on datasets such as LAION-400M, LAION-2B and DataComp-1B.
+### Homepage
+https://github.com/mlfoundations/open_clip
 ## epi2me
+### Description
+This module sets up the environment for EPI2ME 5.3.0-1.
+EPI2ME is a collection of bioinformatics tools, workflows, and resources designed to help researchers analyze nanopore sequencing data. Our projects focus on making cutting-edge analysis accessible and reproducible for the scientific community.
+### Homepage
+https://nanoporetech.com/products/analyse/epi2me
 ## wombat
+### Description
+WOMBAT is a program to facilitate analyses fitting a linear, mixed model via restricted maximum likelihood (REML).
+### Homepage
+http://didgeridoo.une.edu.au/km/wombat.php
 ## ansysem
 ## openfoam
+### Description
+This module sets up the environment for OpenFoam 11 with Paraview 5.10.
+OpenFOAM is software for computational ﬂuid dynamics (CFD). It includes a collection of applications which perform a range of tasks in CFD. The applications use packaged functionality contained within over 150 libraries. As well as performing calculations of the ﬂuid dynamics, there are applications which conﬁgure and initialise simulations, manipulate case geometry, generate computational meshes, and process and visualise results.
+### Homepage
+https://openfoam.org
 ## bindcraft
+### Description
+This module sets up the environment for BindCraft 1.5.2.
+Simple binder design pipeline using AlphaFold2 backpropagation, MPNN, and PyRosetta. Select your target and let the script do the rest of the work and finish once you have enough designs to order!
+### Homepage
+https://github.com/martinpacesa/BindCraft
 ## pyem
+### Description
+This module sets up the environment for pyem 0.66.
+A collection of Python modules and command-line utilities for electron microscopy of biological samples.
+Documentation for the programs can be found in their usage text, comments in code, and in the Wiki of the pyem repository.
+### Homepage
+https://github.com/asarnow/pyem
 ## aviary
+### 
+An easy to use for wrapper for a robust snakemake pipeline for metagenomic short-read, long-read, and hybrid assembly.
+aviary
+.
+Version 0.10.0
+Installed 20250219
+Installer m.hankel@uq.edu.au
 ## schrodinger
+### Description
+This module sets up the environment for Schrodinger Suite (Desmond) 2023-4.
+Desmond is a high-performance molecular dynamics (MD) engine providing high scalability, throughput, and scientific accuracy
+### Homepage
+https://www.schrodinger.com/platform/products/desmond/
 ## fbpic
+### Description
+This module sets up the environment for FBPIC 0.26.1 for NVidia GPUs.
+FBPIC (Fourier-Bessel Particle-In-Cell) is a Particle-In-Cell (PIC) code for relativistic plasma physics. It is especially well-suited for physical simulations of laser-wakefield acceleration and plasma-wakefield acceleration.
+### Homepage
+https://fbpic.github.io
 ## boltzgen
+### Description
+This module sets up the environment for BoltzGen 0.3.0 for NVidia GPUs.
+BoltzGen is an all-atom generative model for designing proteins and peptides across
+### Homepage
+https://github.com/HannesStark/boltzgen
 ## metaphlan
+### 
+MetaPhlAn: Metagenomic Phylogenetic Analysis. MetaPhlAn is a computational tool for species-level microbial profiling (bacteria, archaea, eukaryotes, and viruses) from metagenomic shotgun sequencing data. StrainPhlAn (available within MetaPhlAn) allows strain-level microbial population genomics.
+MetaPhlAn
+.
+Version 4.1.1
+Installed 20241018
+Installer m.hankel@uq.edu.au
 ## freesurfer
+### Description
+This module sets up the environment for Freesurfer 7.3.2.
+FreeSurfer is a software package for the analysis and visualization of structural and functional neuroimaging data from cross-sectional or longitudinal studies. It is developed by the Laboratory for Computational Neuroimaging at the Athinoula A. Martinos Center for Biomedical Imaging.
+### Homepage
+https://surfer.nmr.mgh.harvard.edu
 ## code-server
+### Description
+This module sets up the environment for code-server 4.104.0.
+Run VScode on Bunya and connect to it via a web browser.
+### Homepage
+https://github.com/coder/code-server
 ## slorado
+### Description
+This module sets up the environment for Slorado 0.3.0 for NVidia GPUs.
+Slorado is a simplified version of Dorado built on top of S/BLOW5 format. Slorado is an extremely lean basecaller with fewer external dependencies and is thus relatively easier to compile than Dorado. Slorado is developed using C/C++ and depends on torchlib.
+### Homepage
+https://github.com/BonsonW/slorado
 ## prism
+### Description
+This module sets up the environment for Suite2p 0.14.5 for NVidia GPUs.
+Suite2p is a pipeline for processing two-photon calcium imaging data.
+### Homepage
+https://github.com/HaoLi12345/PRISM
 ## proteinmpnn
+### Description
+This module sets up the environment for ProteinMPNN 1.0.1.
+ProteinMPNN is a deep learning based protein sequence design method. The amino acid sequence at different positions can be coupled between single or multiple chains, enabling application to a wide range of current protein design challenges.
+### Homepage
+https://github.com/dauparas/ProteinMPNN
 ## rfdiffusion
+### Description
+This module sets up the environment for RFdiffusion 1.1.0.
+RFdiffusion is an open source method for structure generation, with or without conditional information (a motif, target etc). It can perform a whole range of protein design challenges.
+Things Diffusion can do:
+Motif Scaffolding
+Unconditional protein generation
+Symmetric unconditional generation (cyclic, dihedral and tetrahedral symmetries currently implemented, more coming!)
+Symmetric motif scaffolding
+Binder design
+Design diversification (partial diffusion, sampling around a design)
+This module creates a wrapper command - rfdiffusion - to call the usual run_inference.py script.
+Please refer to the software's home page for configuration information.
+You can use the models bundled with the software with
+inference.model_directory_path=/sw/local/rocky8/noarch/rcc/software/RFdiffusion/1.1.0/models
+### Homepage
+https://github.com/RosettaCommons/RFdiffusion
 ## post
+### Description
+This module sets up the environment for POST for NVidia GPUs.
+Precision Organoid Segmentation Technique (POST): an Accurate Algorithm for Segmentation of any Challenging Bright-field Organoid Images.
+### Homepage
+https://github.com/duxuan11/Precision-Organoid-Segmentation-Technique-POST
 ## rfantibody
+### Description
+This module sets up the environment for RFantibody 1.0.0.
+RFantibody is a pipeline for the structure-based design of de novo antibodies and nanobodies. RFantibody consists of three separate methods:
+* Protein backbone design with an antibody-fintuned version of RFdiffusion
+* Protein sequence design with ProteinMPNN
+* In silico filtering of designs using an antibody-finetuned version of RoseTTAFold2
+This module makes the following commands available for convenience:
+chothia_to_HLT, rfdiffusion_inference, proteinmpnn_interface_design, rf2_predict
+### Homepage
+https://github.com/RosettaCommons/RFantibody
 ## crested
+### 
+Module ERROR: Magic cookie '#%Module' missing
+In '/sw/local/rocky8/noarch/rcc/modules/crested/1.5.0.lua'
+Please contact <root@localhost>
 ## alphafold
+### Description
+This module sets up the environment for AlphaFold 2.3.2.
+AlphaFold is an inference engine for simulating protein structures from sequence data.
+This module has two commands - alphafold and alphafold_custom:
+alphafold will run with databases from /scratch/opendata/protein/AlphaFold already selected
+alphafold_custom will run with no databases or other options selected. Type
+alphafold_custom --helpfull
+to see the complete list of options to pass to the command.
+### Homepage
+https://github.com/deepmind/alphafold
 ## carpdock
+### Description
+This module sets up the environment for CARPdock for NVidia GPUs.
+CARPdock is Comprehensive Assessment of Rigid Poses Docking. It is used to generate starting poses for NISE.
+### Homepage
+https://github.com/benf549/CARPdock
 ## cellpose
+### Description
+This module sets up the environment for Cellpose 3.
+Cellpose is an anatomical segmentation algorithm written in Python 3.
+### Homepage
+https://cellpose.readthedocs.io
 ## itk-snap
+### Description
+This module sets up the environment for ITK-SNAP 3.8.0.
+ITK-SNAP is a free, open-source, multi-platform software application used to segment structures in 3D and 4D biomedical images.
+ITK-SNAP provides semi-automatic segmentation using active contour methods, as well as manual delineation and image navigation.
+### Homepage
+https://itksnap.org
 ## cryodrgn
+### Description
+This module sets up the environment for CryoDRGN 3.4.4 for NVidia GPUs.
+CryoDRGN is a neural network based algorithm for heterogeneous cryo-EM reconstruction. In particular, the method models a continuous distribution over 3D structures by using a neural network based representation for the volume.
+### Homepage
+https://cryodrgnai.cs.princeton.edu
 ## boltz
+### Description
+This module sets up the environment for Boltz 2.2.1 for AMD GPUs.
+Boltz is the state-of-the-art open-source model to predict biomolecular structures containing combinations of proteins, RNA, DNA, and other molecules. It also supports modified residues, covalent ligands and glycans, as well as conditioning the prediction on specified interaction pockets or contacts.
+### Homepage
+https://github.com/jwohlwend/boltz
 ## fiji
+### Description
+This module sets up the environment for Fiji 1.54k.
+Fiji is an image processing package—a “batteries-included” distribution of ImageJ2, bundling a lot of plugins which facilitate scientific image analysis.
+### Homepage
+https://imagej.net/software/fiji
 ## bagel
+### Description
+This module sets up the environment for Bagel for NVidia GPUs.
+BAGEL is a model-agnostic, modular, fully customizable Python framework for programmable protein design.
+The package formalizes the protein design task as an optimization (sampling) over an energy landscape.
+### Homepage
+https://github.com/softnanolab/bagel
 ## strainberry
+### 
+Strainberry is a method that performs strain separation in low-complexity metagenomes using error-prone long-read technologies. It exploits state-of-the-art tools for variant calling, haplotype phasing, and genome assembly, in order to achieve single-sample assembly of strains with higher quality than other state-of-the-art long-read assemblers.
+strainberry
+.
+Version 1.1
+Installed 20250415
+Installer m.hankel@uq.edu.au
 ## cellprofiler
+### Description
+This module sets up the environment for CellProfiler 4.2.8.1.
+CellProfiler is a versatile, open-source software tool for quantifying data from biological images, particularly in high-throughput experiments. CellProfiler is designed for modular, flexible, high-throughput analysis of images, measuring size, shape, intensity, and texture of every cell (or other object) in every image.
+### Homepage
+https://cellprofiler.org
 ## mmseqs
+### Description
+This module sets up the environment for MMseqs2 Release 18.
+MMseqs2 (Many-against-Many sequence searching) is a software suite to search and cluster huge protein and nucleotide sequence sets.
+### Homepage
+https://github.com/soedinglab/MMseqs2
 ## huygens
+### 
+Huygens
+Version: 23.04.0 Patch 6 for UQ
 ## scenicplus
+### Description
+This module sets up the environment for SCENIC+.
+SCENIC+ is a python package to build gene regulatory networks (GRNs) using combined or separate single-cell gene expression (scRNA-seq) and single-cell chromatin accessibility (scATAC-seq) data.
+### Homepage
+https://github.com/aertslab/scenicplus
 ## dorado
+### Description
+This module sets up the environment for Dorado 1.3.1.
+Dorado is a high-performance, easy-to-use, open source analysis engine for Oxford Nanopore reads.
+### Homepage
+https://github.com/nanoporetech/dorado
 ## quilt
+### 
+QUILT2 is an R and C++ program for fast genotype imputation from low-coverage sequence using a large reference panel. QUILT2 is accurate and versatile, able to handle imputation from short read, long read, ancient DNA and cell-free DNA from NIPT. module-whatis QUILT
+.
+Version 2.0.4
+Installed 20260205
+Installer m.hankel@uq.edu.au
 ## bakta
+### 
+Bakta is a tool for the rapid & standardized annotation of bacterial genomes and plasmids from both isolates and MAGs. It provides dbxref-rich, sORF-including and taxon-independent annotations in machine-readable JSON & bioinformatics standard file formats for automated downstream analysis.
+bakta
+.
+Version 1.11.3
+Installed 20250715
+Installer m.hankel@uq.edu.au
 ## model-angelo
+### Description
+This module sets up the environment for Model-angelo 1.0.12.
+ModelAngelo is an automatic atomic model building program for cryo-EM maps.
+### Homepage
+https://github.com/3dem/model-angelo
 ## osca
+### Description
+This module sets up the environment for OSCA 1.20.
+OSCA (OmicS-data-based Complex trait Analysis) is a software tool for the analysis of complex traits using multi-omics data and genetic analysis of molecular phenotypes.
+### Homepage
+https://yanglab.westlake.edu.cn/software/osca
 ## ultralytics
+### Description
+This module sets up the environment for Ultralytics 8.4.31 for NVidia GPUs.
+Ultralytics creates cutting-edge, state-of-the-art (SOTA) YOLO models built on years of foundational research in computer vision and AI.
+### Homepage
+https://ultralytics.com
 ## dl-jupyter
+### Description
+This module sets up a Jupyter environment with several Deep Learning / Machine Learning libraries preinstalled, with CUDA libraries for NVidia GPUs.
+### Homepage
+https://jupyter.org/
 ## cryocare
+### Description
+This module sets up the environment for CryoCARE 0.3.0.
+This package is a memory efficient implementation of cryoCARE.
+This setup trains a denoising U-Net for tomographic reconstruction according to the Noise2Noise training paradigm. Therefore the user has to provide two tomograms of the same sample. The simplest way to achieve this is with direct-detector movie-frames.
+### Homepage
+https://github.com/juglab/cryoCARE_pip
 ## spss
+### 
+SPSS Statistics 27
 ## cebraem
+### Description
+This module sets up the environment for CebraEM 0.0.3b.
+A practical workflow to segment cellular organelles in volume SEM datasets using a transferable CNN-based membrane prediction.
+### Homepage
+https://github.com/jhennies/CebraEM
 ## chai-lab
+### Description
+This module sets up the environment for Chai-lab 0.6.1 for AMD GPUs.
+Chai-1 is a multi-modal foundation model for molecular structure prediction that performs at the state-of-the-art across a variety of benchmarks. Chai-1 enables unified prediction of proteins, small molecules, DNA, RNA, glycosylations, and more.
+### Homepage
+https://github.com/chaidiscovery/chai-lab
 ## transcriptm
+### 
+A metatranscriptome bioinformatics pipeline including metagenome contamination correction.
+transcriptM
+.
+Version 0.5
+Installed 20250327
+Installer m.hankel@uq.edu.au
 ## nnu-net
+### Description
+This module sets up the environment for nnU-Net 2.6.2-0 for the AMD GPUs.
+Image datasets are enormously diverse: image dimensionality (2D, 3D), modalities/input channels (RGB image, CT, MRI, microscopy, ...), image sizes, voxel sizes, class ratio, target structure properties and more change substantially between datasets. Traditionally, given a new problem, a tailored solution needs to be manually designed and optimized - a process that is prone to errors, not scalable and where success is overwhelmingly determined by the skill of the experimenter. Even for experts, this process is anything but simple: there are not only many design choices and data properties that need to be considered, but they are also tightly interconnected, rendering reliable manual pipeline optimization all but impossible!
+nnU-Net is a semantic segmentation method that automatically adapts to a given dataset. It will analyze the provided training cases and automatically configure a matching U-Net-based segmentation pipeline. No expertise required on your end! You can simply train the models and use them for your application.
+Please cite the following paper when using nnU-Net:
+Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211.
+### Homepage
+https://github.com/MIC-DKFZ/nnUNet
 ## triqs
+### Description
+This module sets up the environment for Suite2p 0.14.5 for NVidia GPUs.
+Suite2p is a pipeline for processing two-photon calcium imaging data.
+### Homepage
+https://triqs.github.io
 ## cuda-q
+### Description
+This module sets up the environment for CUDA-Quantum 0.10.0.
+CUDA-Q streamlines hybrid application development and promotes productivity and scalability in quantum computing. It offers a unified programming model designed for a hybrid setting—that is, CPUs, GPUs, and QPUs working together. CUDA-Q contains support for programming in Python and in C++. This module provides the C++ support only.
+### Homepage
+https://nvidia.github.io/cuda-quantum/latest/index.html
 ## imod
+### Description
+This module sets up the environment for IMOD 5.1.1.
+IMOD is a set of image processing, modeling and display programs used for tomographic reconstruction and for 3D reconstruction of EM serial sections and optical sections. The package contains tools for assembling and aligning data within multiple types and sizes of image stacks, viewing 3-D data from any orientation, and modeling and display of the image files. IMOD was developed primarily by David Mastronarde, Rick Gaudette, Sue Held, Jim Kremer, Quanren Xiong, Suraj Khochare, and John Heumann at the University of Colorado.
+The development of IMOD has been supported by grants from the National Center for Research Resources, the National Institute of General Medical Sciences, and the National Institute for Biomedical Imaging and Bioengineering. IMOD and virtually all programs contained within the IMOD package are Copyright (c) 1994-2020 by the Regents of the University of Colorado.
+### Homepage
+http://bio3d.colorado.edu/imod
 ## deeplabcut
+### Description
+This module sets up the environment for DeepLabCut 3.0.0rc10 for NVidia GPUs.
+DeepLabCut is a toolbox for state-of-the-art markerless pose estimation of animals performing various behaviors. As long as you can see (label) what you want to track, you can use this toolbox, as it is animal and object agnostic.
+### Homepage
+https://github.com/DeepLabCut/DeepLabCut
 ## mobsuite
+### Description
+This module sets up the environment for MobSuite 3.1.9.
+Plasmids are mobile genetic elements (MGEs), which allow for rapid evolution and adaption of bacteria to new niches through horizontal transmission of novel traits to different genetic backgrounds. The MOB-suite is designed to be a modular set of tools for the typing and reconstruction of plasmid sequences from WGS assemblies.
+### Homepage
+https://github.com/phac-nml/mob-suite
 ## fragpipe
+### Description
+This module sets up the environment for FragPipe 21.1.
+FragPipe is a Java Graphical User Interface (GUI) for a suite of computational tools enabling comprehensive analysis of mass spectrometry-based proteomics data. It is powered by MSFragger - an ultrafast proteomic search engine suitable for both conventional and open (wide precursor mass tolerance) peptide identification. FragPipe includes the Philosopher toolkit for downstream post-processing of MSFragger search results (PeptideProphet, iProphet, ProteinProphet), FDR filtering, label-based quantification, and multi-experiment summary report generation. Crystal-C and PTM-Shepherd are included to aid interpretation of open search results. Also included in FragPipe binary are TMT-Integrator for TMT/iTRAQ isobaric labeling-based quantification, IonQuant for label-free quantification with FDR-controlled match-between-run (MBR) functionality, spectral library building with EasyPQP, and MSFragger-DIA and DIA-Umpire SE modules for direct analysis of data independent acquisition (DIA) data.
+### Homepage
+https://github.com/Nesvilab/FragPipe
 ## openfold
+### Description
+This module sets up the environment for OpenFold 3 for NVidia GPUs.
+OpenFold is a fully open source, trainable, PyTorch-based reproduction of DeepMind’s AlphaFold 3.
+### Homepage
+https://openfold.readthedocs.io
 ## nastic
+### 
+Module ERROR: Magic cookie '#%Module' missing
+In '/sw/local/rocky8/noarch/rcc/modules/nastic/1.0.11.lua'
+Please contact <root@localhost>
 ## jobstats
+### 
+Jobstats
 ## rstudio
+### 
+RStudio 2024.12.0 https://posit.co/download/rstudio-desktop/
+This software container also provides R 4.4.2 for use outside of RStudio.
 ## alphafast
+### Description
+This module sets up the environment for AlphaFast 0.1.
+Ultra-high-throughput inference with AlphaFold 3. Replaces Jackhmmer with MMseqs2-GPU for over 68x speedup in homology search and over 22x speedup in end-to-end inference on a single H200 GPU.
+AlphaFast has multi-GPU capabilities capable of reaching throughput of 8s per input on 4 H200 GPUs, 4.5s per input on 8 H200 GPUs, and even higher throughput on larger systems, scaling approximately linearly with number of devices.
+Please note that you must obtain your own copy of the model parameters, under the terms as described in https://github.com/google-deepmind/alphafold3/blob/main/WEIGHTS_TERMS_OF_USE.md.
+Databases can be found in /scratch/opendata/protein/alphafast
+### Homepage
+https://github.com/RomeroLab/alphafast
 ## gaussian
+### Description
+This module sets up the environment for Gaussian G16 version B.01 and GaussView6.
+Gaussian provides state-of-the-art capabilities for electronic structure modeling. Gaussian 16 is licensed for a wide variety of computer systems. All versions of Gaussian 16 contain every scientific/modeling feature, and none imposes any artificial limitations on calculations other than your computing resources and patience.
+### Homepage
+https://www.gaussian.com/
 ## compucell3d
+### Description
+This module sets up the environment for CompuCell3D.
+CompuCell3D simulations are a combination of CC3DML (CompuCell3D XML model specification format) and Python code. By itself, CC3DML is static. That means you specify initial cellular behaviors, and, throughout the simulation, those behavior descriptions remain unchanged. Python scripting, meanwhile, enables you to build complex simulations wherein the behaviors of individual cells change (according to user specification) as the simulation progresses.
+### Homepage
+https://compucell3d.org
 ## cellsnp-lite
+### 
+Cellsnp-lite: Efficient Genotyping Bi-Allelic SNPs on Single Cells.
+cellsnp-lite
+.
+Version 1.2.3
+Installed 20250321
+Installer m.hankel@uq.edu.au
 ## mathematica
+### 
+Mathematica 14.0
 ## diffdock
+### Description
+This module sets up the environment for DiffDock 1.1.3.
+Implementation of DiffDock, state-of-the-art method for molecular docking, by Gabriele Corso*, Hannes Stark*, Bowen Jing*, Regina Barzilay and Tommi Jaakkola.
+### Homepage
+https://github.com/gcorso/DiffDock
 ## esa-snap
+### Description
+This module sets up the environment for CryoCARE 0.3.0.
+This package is a memory efficient implementation of cryoCARE.
+This setup trains a denoising U-Net for tomographic reconstruction according to the Noise2Noise training paradigm. Therefore the user has to provide two tomograms of the same sample. The simplest way to achieve this is with direct-detector movie-frames.
+### Homepage
+https://step.esa.int/main/toolboxes/snap/
 ## metabolic
+### 
+METabolic And BiogeOchemistry anaLyses In miCrobes
+METABOLIC
+.
+Version 4.0
+Installed 20250327
+Installer m.hankel@uq.edu.au
 ## proteina-complexa
+### Description
+This module sets up the environment for Proteina-Complexa.
+Proteina-Complexa is a novel fully atomistic protein binder design framework unifying conditional generative modeling and optimization.
+### Homepage
+https://github.com/NVIDIA-Digital-Bio/Proteina-Complexa
 ## qctool
+### Description
+QCTOOL is a command-line utility program for manipulation and quality control of gwas datasets and other genome-wide data.
+### Homepage
+https://www.chg.ox.ac.uk/~gav/qctool_v2/
+Command: qctool_v2.2.0
 ## cistem
+### 
+Module for loading cisTEM V2 into your COMMAND LINE environment.
+david.green@uq.edu.au
+This software is provided as part of a container for CisTEM GUI.
+For more detail, run
+module help cistem/2.0
 ## fsl
+### Description
+This module sets up the environment for FSL 6.0.7.9.
+FSL is a comprehensive library of analysis tools for FMRI, MRI and diffusion brain imaging data.
+### Homepage
+https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL
 ## orca
+### 
+Orca 5.0.4, https://www.orcasoftware.de/tutorials_orca/index.html
 ## fastfold
+### Description
+This module sets up the environment for FastFold 2.3.2.
+Optimizing Protein Structure Prediction Model Training and Inference on Heterogeneous Clusters
+FastFold provides a high-performance implementation of Evoformer with the following characteristics.
+### Homepage
+https://github.com/hpcaitech/FastFold
 ## vllm
+### Description
+This module sets up the environment for vLLM 0.19.0 for NVidia GPUs.
+vLLM is a fast and easy-to-use library for LLM inference and serving.
+### Homepage
+https://github.com/vllm-project/vllm
 ## llama.cpp
+### Description
+This module sets up the environment for LLAma.cpp for AMD GPUs (b8952).
+### Homepage
+https://github.com/ggml-org/llama.cpp
 ## bioformats2raw
+### Description
+This module sets up the environment for Bioformats2raw 0.9.4-0.
+Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification. The raw2ometiff application can then be used to produce a Bio-Formats 5.9.x ("Faas") or Bio-Formats 6.x (true OME-TIFF) pyramid.
+### Homepage
+https://github.com/glencoesoftware/bioformats2raw
 ## crisflash
+### Description
+Crisflash is a tool for rapid design and a potential off-target discovery tool for CRISPR/Cas9 guide RNAs. Crisflash is designed for speed, improved gRNA matching and scoring accuracy by providing the option to incorporate user-supplied variant data.
+### Homepage
+https://github.com/crisflash/crisflash
 ## perceval-quandela
+### 
+An open source framework for programming photonic quantum computers
+Perceval-quandela
+.
+Version 0.13.0
+Installed 20250516
+Installer m.hankel@uq.edu.au
 ## diann
+### Description
+This module sets up the environment for Dia-NN 2.3.0.
+DIA-NN - a universal software for data-independent acquisition (DIA) proteomics data processing by Demichev, Ralser and Lilley labs.
+### Homepage
+https://github.com/vdemichev/DiaNN
 ## proteinfold
+### Description
+This module sets up the environment for nf-core/proteinfold.
+nf-core/proteinfold is a bioinformatics best-practice analysis pipeline for Protein 3D structure prediction.
+The pipeline is built using Nextflow, a workflow tool to run tasks across multiple compute infrastructures in a very portable manner. It uses Docker/Singularity containers making installation trivial and results highly reproducible.
+### Homepage
+https://nf-co.re/proteinfold
 ## ligandmpnn
+### Description
+This module sets up the environment for LigandMPNN for NVidia GPUs.
+This module provides inference code for LigandMPNN & ProteinMPNN models. The code and model parameters are available under the MIT license.
+### Homepage
+https://github.com/dauparas/LigandMPNN
 ## porechop_abi
+### 
+Porechop_ABI (ab initio) is an extension of Porechop whose purpose is to process adapter sequences in ONT reads.
+Porechop_ABI
+.
+Version 0.5.0
+Installed 20250728
+Installer m.hankel@uq.edu.au
 ## miniforge
+### Description
+This module sets up the environment for Miniforge 26.1.0-0.
+Miniforge is a variant of Conda and Mamba specific to conda-forge, with the following features pre-configured:
+* Packages in the base environment are obtained from the conda-forge channel.
+* The conda-forge channel is set as the default (and only) channel.
+You can use the conda-activate command to initialise and activate the base environment.
+### Homepage
+https://github.com/conda-forge/miniforge
 ## topaz
+### Description
+This module sets up the environment for Topaz for NVidia GPUs.
+A pipeline for particle detection in cryo-electron microscopy images using convolutional neural networks trained from positive and unlabeled examples. Topaz also includes methods for micrograph and tomogram denoising using deep denoising models.
+### Homepage
+https://github.com/3dem/topaz
 ## chimerax
+### Description
+This module sets up the environment for UCSF ChimeraX 1.12.
+UCSF ChimeraX (or simply ChimeraX) is the next-generation molecular visualization program from the Resource for Biocomputing, Visualization, and Informatics (RBVI), following UCSF Chimera.
+### Homepage
+https://www.cgl.ucsf.edu/chimerax/
 ## dynamo
+### Description
+This module sets up the environment for Dynamo 1.1.532.
+Dynamo is a software environment for subtomogram averaging of cryo-EM data.
+### Homepage
+https://www.dynamo-em.org
 ## suite2p
+### Description
+This module sets up the environment for Suite2p 1.0.0.1 for NVidia GPUs.
+Suite2p is a pipeline for processing two-photon calcium imaging data.
+### Homepage
+https://github.com/MouseLand/suite2p
 ## evobind
+### Description
+This module sets up the environment for EvoBind 1.0.
+EvoBind (v2) designs novel peptide binders based only on a protein target sequence. It is not necessary to specify any target residues within the protein sequence or the length of the binder (although this is possible). Cyclic binder design is also possible.
+Type
+evobind-activate
+to enable the Python environment.
+You can copy the example execution script at /sw/local/rocky8/noarch/rcc/software/evobind/1.0/design_local.sh
+Remember to change DATADIR to somewhere you have write access!
+### Homepage
+https://github.com/patrickbryant1/EvoBind
 ## xds
+### Description
+This module sets up the environment for XDS and its companion utilities.
+X-ray Detector Software for processing single-crystal monochromatic diffraction data recorded by the rotation method.
+### Homepage
+https://xds.mr.mpg.de
 ## coot
+### Description
+This module sets up the environment for Coot 0.9.8.92.
+Coot (Crystallographic Object-Oriented Toolkit) is for macromolecular model building, model completion and validation, particularly suitable for protein modelling using X-ray data. Coot displays maps and models.
+### Homepage
+https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/
 ## cramino
+### Description
+This module sets up the environment for Cramino.
+Cramino is a tool for quick quality assessment of cram and bam files, intended for long read sequencing.
+### Homepage
+https://github.com/wdecoster/cramino
 ## ilastik
+### Description
+This module sets up the environment for ilastik 1.4.1.post1-gpu.
+ilastik is a simple, user-friendly tool for interactive image classification, segmentation and analysis. It is built as a modular software framework, which currently has workflows for automated (supervised) pixel- and object-level classification, automated and semi-automated object tracking, semi-automated segmentation and object counting without detection.
+### Homepage
+https://www.ilastik.org
 ## amst2
+### Description
+This is a re-implementation of Alignment to Median Smoothed Template (AMST), a stack alignment for FIB-SEM datasets.
+AMST2 uses the same concept compared to the original AMST workflow, while the implementation is now based on Simple Elastix (Simple ITK) and includes a pre-alignment workflow. To reduce the amount of dependencies as well as to increase robustness of the workflow, the use of SIFT was replaced by Simple Elastix functionality.
+### Homepage
+https://github.com/jhennies/AMST2
 ## chrombpnet
+### 
+Module ERROR: Magic cookie '#%Module' missing
+In '/sw/local/rocky8/noarch/rcc/modules/chrombpnet/0.1.7.lua'
+Please contact <root@localhost>
 ## basespace
+### Description
+BaseSpace Sequence Hub CLI.
+You can work with your BaseSpace Sequence Hub data using the command line interface (CLI). The BaseSpace Sequence Hub CLI supports scripting and programmatic access to BaseSpace Sequence Hub for automation, bulk operations, and other routine functions. It can be used independently or in conjunction with BaseMount.
+### Homepage
+https://developer.basespace.illumina.com/docs/content/documentation/cli/cli-overview
 ## qupath
+### Description
+This module sets up the environment for QuPath 0.6.0.
+QuPath is open source software for bioimage analysis.
+QuPath is often used for digital pathology applications because it offers a powerful set of tools for working with whole slide images - but it can be applied to lots of other kinds of image as well.
+QuPath is installed under the apps menu of onBunya.
+### Homepage
+https://qupath.github.io/
 ## ollama
+### Description
+This module sets up the environment for the Ollama backend for the Continue plugin for VScode.
+Continue provides agentic AI to VScode via a local Ollama server, providing chat, autocomplete and embedding features.
+### Homepage
+https://www.continue.dev
 ## rosetta
+### Description
+This module sets up the environment for Rosetta and PyRosetta 2026.03.
+Rosetta is software suite for modeling macromolecular structures. Its functionalities include structure prediction, design, and remodeling of proteins and nucleic acids.
+### Homepage
+https://rosettacommons.org
 ## remora
+### Description
+This module sets up the environment for Remora 3.3.0 for NVidia GPUs.
+Remora models predict methylation/modified base status separated from basecalling. The Remora repository is focused on the preparation of modified base training data and training modified base models. Some functionality for running Remora models and investigation of raw signal is also provided. For production modified base calling use Dorado. For recommended modified base downstream processing use modkit.
+### Homepage
+https://github.com/nanoporetech/remora
 ## binchicken
+### Description
+This module sets up the environment for Bin Chicken 0.12.11.
+Bin Chicken is a software tool for recovery of low abundance and taxonomically targeted metagenome assembled genomes (MAGs) through strategic coassembly.
+### Homepage
+https://github.com/AroneyS/binchicken
 ## localcolabfold
+### Description
+This module sets up the environment for LocalColabFold 1.5.5.
+LocalColabFold is an installer script designed to make ColabFold functionality available on users' local machines. ColabFold is a version of AlphaFold.
+Local databases are available for use at /scratch/opendata/protein/ColabFold/database
+You can perform your sequence searches with these databases rather than the public MSA databases online with the following commands:
+colabfold_search input_sequences.fasta /scratch/opendata/protein/ColabFold/database msas
+colabfold_batch msas predictions
+This will create an intermediate directory 'msas' to store your input multiple sequence alignments.
+### Homepage
+https://github.com/YoshitakaMo/localcolabfold
 ## alphapickle
+### Description
+This module sets up the environment for AlphaPickle 1.5.4.
+AlphaPickle is a programme for extracting the outputs of DeepMind's AlphaFold protein prediction algorithm (Jumper et al., 2021, 10.1038/s41586-021-03819-2).
+AlphaPickle is multipurpose Python script for producing plots and user-legible files from the output of AlphaFold2 (notebook) and Colabfold (notebook).
+### Homepage
+https://github.com/mattarnoldbio/alphapickle
 ## spisonet
+### Description
+This module sets up the environment for spIsoNet 1.0.
+Single Particle spIsoNet (spIsoNet) is designed to correct for the preferred orientation problem in cryoEM by self-supervised deep learning, by recovering missing information from well-sampled orientations in Fourier space.
+Unlike conventional supervised deep learning methods that need explicit input-output pairs for training, spIsoNet autonomously extracts supervisory signals from the original data, ensuring the reliability of the information used for training.
+spIsoNet is designed for single particle analysis and subtomogram averaging. For the correcting missing wedge in cryoET, please refer to IsoNet.
+### Homepage
+https://github.com/IsoNet-cryoET/spIsoNet
 ## subtom
+### Description
+This module sets up the environment for subTOM 1.1.6.
+SubTOM - Subvolume processing scripts with the TOM toolbox is a collection of scripts form a pipeline for subvolume alignment and averaging of electron cryo-tomography data.
+### Homepage
+https://github.com/DustinMorado/subTOM
 ## tesseract
+### 
+Tesseract https://github.com/tesseract-ocr
+Tesseract is an open source text recognition (OCR) Engine, available under the Apache 2.0 license. It can be used directly, or (for programmers) using an API to extract printed text from images. It supports a wide variety of languages.
