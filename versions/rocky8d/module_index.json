@@ -9324,7 +9324,6 @@
         ],
         "versions": [
             "0.9.8.92",
-            "0.9.8.92.swp",
             "1.1.19"
         ],
         "description": "Description:\nThis module sets up the environment for Coot 0.9.8.92.\nCoot (Crystallographic Object-Oriented Toolkit) is for macromolecular model building, model completion and validation, particularly suitable for protein modelling using X-ray data. Coot displays maps and models.\nHomepage: https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/\nURL: https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/"
