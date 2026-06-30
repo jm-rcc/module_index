@@ -1,4368 +1,3506 @@
 ## libsndfile
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Libsndfile is a C library for reading and writing files containing sampled sound
+(such as MS Windows WAV and the Apple/SGI AIFF format) through one standard library interface.
+### Homepage
+http://www.mega-nerd.com/libsndfile
 ## nodejs
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Node.js is a platform built on Chrome's JavaScript runtime
+for easily building fast, scalable network applications. Node.js uses an
+event-driven, non-blocking I/O model that makes it lightweight and efficient,
+perfect for data-intensive real-time applications that run across distributed devices.
+### Homepage
+https://nodejs.org
 ## rust
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Rust is a systems programming language that runs blazingly fast, prevents segfaults,
+and guarantees thread safety.
+### Homepage
+https://www.rust-lang.org
 ## zlib
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+zlib is designed to be a free, general-purpose, legally unencumbered -- that is,
+not covered by any patents -- lossless data-compression library for use on virtually any
+computer hardware and operating system.
+### Homepage
+https://www.zlib.net/
 ## openexr
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light & Magic
+for use in computer imaging applications
+### Homepage
+https://www.openexr.com/
 ## jellyfish
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA.
+### Homepage
+http://www.genome.umd.edu/jellyfish.html
 ## glib-networking
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Network extensions for GLib
+### Homepage
+https://gitlab.gnome.org/GNOME/glib-networking
 ## boost.python
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Boost.Python is a C++ library which enables seamless interoperability between C++
+and the Python programming language.
+### Homepage
+https://boostorg.github.io/python
 ## cereal
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+cereal is a header-only C++11 serialization library. cereal takes arbitrary data types and reversibly
+turns them into different representations, such as compact binary encodings, XML, or JSON. cereal was designed to be
+fast, light-weight, and easy to extend - it has no external dependencies and can be easily bundled with other code or
+used standalone.
+### Homepage
+https://uscilab.github.io/cereal/
 ## mdi
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The MolSSI Driver Interface (MDI) project provides a
+standardized API for fast, on-the-fly communication between computational
+chemistry codes. This greatly simplifies the process of implementing
+methods that require the cooperation of multiple software packages and
+enables developers to write a single implementation that works across
+many different codes. The API is sufficiently general to support a wide
+variety of techniques, including QM/MM, ab initio MD, machine learning,
+advanced sampling, and path integral MD, while also being straightforwardly
+extensible. Communication between codes is handled by the MDI Library, which
+enables tight coupling between codes using either the MPI or TCP/IP methods.
+### Homepage
+https://github.com/MolSSI-MDI/MDI_Library
 ## jbigkit
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+JBIG-KIT is a software implementation of the JBIG1 data
+compression standard (ITU-T T.82), which was designed for bi-level image
+data, such as scanned documents.
+### Homepage
+https://www.cl.cam.ac.uk/~mgk25/jbigkit/
 ## bowtie2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads
+to long reference sequences. It is particularly good at aligning reads of about 50 up to 100s or 1,000s
+of characters, and particularly good at aligning to relatively long (e.g. mammalian) genomes.
+Bowtie 2 indexes the genome with an FM Index to keep its memory footprint small: for the human genome,
+its memory footprint is typically around 3.2 GB. Bowtie 2 supports gapped, local, and paired-end alignment modes.
+### Homepage
+https://bowtie-bio.sourceforge.net/bowtie2/index.shtml
 ## libsoup
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+libsoup is an HTTP client/server library for GNOME. It
+uses GObjects and the glib main loop, to integrate well with GNOME
+applications, and also has a synchronous API, for use in threaded
+applications.
+### Homepage
+https://wiki.gnome.org/Projects/libsoup
 ## gromacs
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the
+Newtonian equations of motion for systems with hundreds to millions of
+particles.
+This is a GPU enabled build, containing both MPI and threadMPI builds
+for both single and double precision.
+It also contains the gmxapi extension for the single precision MPI build
+next to PLUMED.
+### Homepage
+https://www.gromacs.org
+### Extensions
+gmxapi-0.4.2
 ## matplotlib
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+matplotlib is a python 2D plotting library which produces publication quality figures in a variety of
+hardcopy formats and interactive environments across platforms. matplotlib can be used in python scripts, the python
+and ipython shell, web application servers, and six graphical user interface toolkits.
+### Homepage
+https://matplotlib.org
+### Extensions
+Cycler-0.10.0, kiwisolver-1.3.1, matplotlib-3.4.2
 ## r
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+R is a free software environment for statistical computing
+and graphics.
+### Homepage
+https://www.r-project.org/
+### Extensions
+abc-2.2.1, abc.data-1.0, abe-3.0.1, abind-1.4-5, acepack-1.4.1, adabag-4.2, ade4-1.7-19, ADGofTest-0.3, admisc-0.29, aggregation-1.0.1, AICcmodavg-2.3-1, akima-0.6-3.4, alabama-2022.4-1, AlgDesign-1.2.1, alluvial-0.1-2, AMAPVox-0.12.0, animation-2.7, aod-1.3.2, apcluster-1.4.10, ape-5.6-2, aplot-0.1.9, argparse-2.1.5, aricode-1.0.2, arm-1.12-2, askpass-1.1, asnipe-1.1.16, assertive-0.3-6, assertive.base-0.0-9, assertive.code-0.0-3, assertive.data-0.0-3, assertive.data.uk-0.0-2, assertive.data.us-0.0-2, assertive.datetimes-0.0-3, assertive.files-0.0-2, assertive.matrices-0.0-2, assertive.models-0.0-2, assertive.numbers-0.0-2, assertive.properties-0.0-5, assertive.reflection-0.0-5, assertive.sets-0.0-3, assertive.strings-0.0-3, assertive.types-0.0-3, assertthat-0.2.1, AUC-0.3.2, audio-0.1-10, aws-2.5-1, awsMethods-1.1-1, backports-1.4.1, bacr-1.0.1, bartMachine-1.2.6, bartMachineJARs-1.1, base, base64-2.0, base64enc-0.1-3, BatchJobs-1.9, batchmeans-1.0-4, BayesianTools-0.1.7, BayesLogit-2.1, bayesm-3.1-4, BayesPen-1.0, bayesplot-1.9.0, BB-2019.10-1, BBmisc-1.12, bbmle-1.0.25, BCEE-1.3.0, BDgraph-2.67, bdsmatrix-1.3-6, beanplot-1.3.1, beeswarm-0.4.0, berryFunctions-1.22.0, betareg-3.1-4, BH-1.78.0-0, BiasedUrn-1.07, bibtex-0.4.2.3, BIGL-1.6.6, bigmemory-4.6.1, bigmemory.sri-0.1.3, bindr-0.1.1, bindrcpp-0.2.2, bio3d-2.4-3, biom-0.3.12, biomod2-3.5.1, bit-4.0.4, bit64-4.0.5, bitops-1.0-7, blavaan-0.4-3, blob-1.2.3, BMA-3.18.17, bmp-0.3, bnlearn-4.7.1, bold-1.2.0, boot-1.3-28, bootstrap-2019.6, Boruta-7.0.0, brew-1.0-7, brglm-0.7.2, bridgedist-0.1.1, bridgesampling-1.1-2, brio-1.1.3, brms-2.17.0, Brobdingnag-1.2-7, broom-0.8.0, broom.helpers-1.7.0, broom.mixed-0.2.9.4, bslib-0.3.1, bst-0.3-23, cachem-1.0.6, Cairo-1.5-15, calibrate-1.7.7, callr-3.7.0, car-3.1-0, carData-3.0-5, caret-6.0-92, catlearn-0.9.1, caTools-1.18.2, CBPS-0.23, celestial-1.4.6, cellranger-1.1.0, cgdsr-1.3.0, cghFLasso-0.2-1, changepoint-2.2.4, checkmate-2.1.0, chemometrics-1.4.2, chkptstanr-0.1.1, chron-2.3-57, circlize-0.4.15, circular-0.4-95, class-7.3-20, classInt-0.4-7, cld2-1.2.4, cli-3.3.0, clipr-0.8.0, clisymbols-1.2.0, clue-0.3-61, cluster-2.1.3, clusterGeneration-1.3.7, clusterRepro-0.9, clustree-0.4.4, clValid-0.7, cmprsk-2.2-11, cNORM-3.0.2, cobalt-4.3.2, cobs-1.3-5, coda-0.19-4, codetools-0.2-18, coin-1.4-2, collapse-1.8.6, colorspace-2.0-3, colourpicker-1.1.1, combinat-0.0-8, ComICS-1.0.4, commonmark-1.8.0, compiler, ComplexUpset-1.3.3, compositions-2.0-4, CompQuadForm-1.4.3, conditionz-0.1.0, conquer-1.3.0, contfrac-1.1-12, copCAR-2.0-4, copula-1.1-0, corpcor-1.6.10, corrplot-0.92, covr-3.5.1, CovSel-1.2.1, covsim-1.0.0, cowplot-1.1.1, coxed-0.3.3, coxme-2.2-17, cpp11-0.4.2, crayon-1.5.1, credentials-1.3.2, crfsuite-0.4.1, crosstalk-1.2.0, crul-1.2.0, cSEM-0.4.0, csSAM-1.2.4, ctmle-0.1.2, cubature-2.0.4.4, cubelyr-1.0.1, curl-4.3.2, cvAUC-1.1.4, CVST-0.2-3, CVXR-1.0-11, d3Network-0.5.2.1, dagitty-0.3-1, data.table-1.14.2, data.tree-1.0.0, DataCombine-0.2.21, datasets, date-1.2-39, dbarts-0.9-22, DBI-1.1.3, dbplyr-2.2.0, dbscan-1.1-11, dcurver-0.9.2, ddalpha-1.3.13, deal-1.2-39, debugme-1.1.0, deldir-1.0-6, dendextend-1.15.2, DEoptim-2.2-6, DEoptimR-1.0-11, DepthProc-2.1.5, Deriv-4.1.3, desc-1.4.1, DescTools-0.99.45, deSolve-1.32, devtools-2.4.3, dfidx-0.0-4, DHARMa-0.4.5, dHSIC-2.1, diagram-1.6.5, DiagrammeR-1.0.9, DiceKriging-1.6.0, dichromat-2.0-0.1, diffobj-0.3.5, digest-0.6.29, dimRed-0.2.5, diptest-0.76-0, DiscriMiner-0.1-29, dismo-1.3-5, distillery-1.2-1, distr-2.8.0, distrEx-2.8.0, distributional-0.3.0, DistributionUtils-0.6-0, diveRsity-1.9.90, dlm-1.1-6, DMCfun-2.0.2, doc2vec-0.2.0, docstring-1.0.0, doMC-1.3.8, doParallel-1.0.17, doRNG-1.8.2, doSNOW-1.0.20, dotCall64-1.0-1, downloader-0.4, dplyr-1.0.9, dr-3.0.10, drgee-1.1.10, DRR-0.0.4, drugCombo-1.2.1, DT-0.23, dtangle-2.0.9, dtplyr-1.2.1, DTRreg-1.7, dtw-1.22-3, dummies-1.5.6, dygraphs-1.1.1.6, dynamicTreeCut-1.63-1, e1071-1.7-11, earth-5.3.1, EasyABC-1.5, ECOSolveR-0.5.5, elementR-1.3.7, ellipse-0.4.3, ellipsis-0.3.2, elliptic-1.4-0, emdbook-1.3.12, emoa-0.5-0.1, emulator-1.2-21, energy-1.7-10, ENMeval-2.0.3, entropy-1.3.1, EnvStats-2.7.0, epitools-0.5-10.1, ergm-4.2.2, ergm.count-4.1.1, evaluate-0.15, EValue-4.1.3, evd-2.3-6, Exact-3.1, expm-0.999-6, ExPosition-2.8.23, expsmooth-2.3, extrafont-0.18, extrafontdb-1.0, extRemes-2.1-2, FactoMineR-2.4, FactorCopula-0.8, fail-1.3, fansi-1.0.3, farver-2.1.0, fastcluster-1.2.3, fastDummies-1.6.3, fasterize-1.0.3, fastICA-1.2-3, fastmap-1.1.0, fastmatch-1.1-3, fdrtool-1.2.17, feather-0.3.5, ff-4.0.7, ffbase-0.13.3, fftw-1.0-7, fftwtools-0.9-11, fields-13.3, filehash-2.4-3, finalfit-1.0.4, findpython-1.0.7, fishMod-0.29, fitdistrplus-1.1-8, flashClust-1.01-2, flexclust-1.4-1, flexmix-2.3-18, fma-2.4, FME-1.3.6.2, fmri-1.9.6, FNN-1.1.3.1, fontawesome-0.2.2, forcats-0.5.1, foreach-1.5.2, forecast-8.16, foreign-0.8-82, formatR-1.12, Formula-1.2-4, formula.tools-1.7.1, fossil-0.4.0, fpc-2.2-9, fpp-0.5, fracdiff-1.5-1, fs-1.5.2, furrr-0.3.0, futile.logger-1.4.3, futile.options-1.0.1, future-1.26.1, future.apply-1.9.0, gam-1.20.1, gamlss-5.4-3, gamlss.data-6.0-2, gamlss.dist-6.0-3, gamlss.tr-5.1-7, gamm4-0.2-6, gap-1.2.3-6, gap.datasets-0.0.5, gapfill-0.9.6-1, gargle-1.2.0, gaussquad-1.0-3, gbm-2.1.8, gbRd-0.4-11, gclus-1.3.2, gdalUtils-2.0.3.2, gdata-2.18.0.1, gdistance-1.3-6, gee-4.13-23, geeM-0.10.1, geepack-1.3.4, geex-1.0.12, geiger-2.0.10, GeneNet-1.2.16, generics-0.1.2, genoPlotR-0.8.11, GenSA-1.1.7, geojsonsf-2.0.3, geometries-0.2.0, geometry-0.4.6, gert-1.6.0, getopt-1.20.3, GetoptLong-1.0.5, GGally-2.1.2, ggbeeswarm-0.6.0, ggdag-0.2.4, ggExtra-0.10.0, ggfan-0.1.3, ggforce-0.3.3, ggformula-0.10.2, ggfun-0.0.9, ggh4x-0.2.2, ggnetwork-0.5.10, ggplot2-3.3.6, ggplotify-0.1.0, ggpubr-0.4.0, ggraph-2.0.5, ggrepel-0.9.1, ggridges-0.5.3, ggsci-2.9, ggsignif-0.6.3, ggstance-0.3.5, ggvenn-0.1.9, ggvis-0.4.7, gh-1.3.0, GillespieSSA-0.6.2, git2r-0.30.1, gitcreds-0.1.1, GJRM-0.2-6, glasso-1.11, gld-2.6.4, gllvm-1.3.1, glmmML-1.1.3, glmmTMB-1.1.3, glmnet-4.1-4, GlobalOptions-0.1.2, globals-0.15.0, glue-1.6.2, gmm-1.6-6, gmodels-2.18.1.1, gmp-0.6-5, gnumeric-0.7-8, goftest-1.2-3, gomms-1.0, googledrive-2.0.0, googlesheets4-1.0.0, gower-1.0.0, GPArotation-2022.4-1, gplots-3.1.3, graphics, graphlayouts-0.8.0, grDevices, grf-2.1.0, grid, gridBase-0.4-7, gridExtra-2.3, gridGraphics-0.5-1, grImport2-0.2-0, grpreg-3.4.0, GSA-1.03.2, gsalib-2.1, gsl-2.1-7.1, gsw-1.0-6, gt-0.6.0, gtable-0.3.0, gtools-3.9.2.2, gtsummary-1.6.1, GUTS-1.2.3, gWidgets2-1.0-9, gWidgets2tcltk-1.0-8, GxEScanR-2.0.2, h2o-3.36.1.2, hal9001-0.4.3, hardhat-1.1.0, harmony-0.1.0, hash-2.2.6.2, haven-2.5.0, hdf5r-1.3.5, hdm-0.3.1, heatmap3-1.1.9, here-1.0.1, hexbin-1.28.2, HGNChelper-0.8.1, HiddenMarkov-1.8-13, highr-0.9, Hmisc-4.7-0, hms-1.1.1, Hmsc-3.0-11, htmlTable-2.4.0, htmltools-0.5.2, htmlwidgets-1.5.4, httpcode-0.3.0, httpuv-1.6.5, httr-1.4.3, huge-1.3.5, hunspell-3.0.1, hwriter-1.3.2.1, HWxtest-1.1.9, hypergeo-1.2-13, ica-1.0-2, IDPmisc-1.1.20, idr-1.3, ids-1.0.1, ie2misc-0.8.8, igraph-1.3.2, image.binarization-0.1.2, imager-0.42.13, imagerExtra-1.3.2, ineq-0.2-13, influenceR-0.1.0.1, infotheo-1.2.0.1, ini-0.3.1, inline-0.3.19, intergraph-2.0-2, interpretR-0.2.4, intrinsicDimension-1.2.0, inum-1.0-4, ipred-0.9-13, irace-3.4.1, irlba-2.3.5, ismev-1.42, Iso-0.0-18.1, isoband-0.2.5, ISOcodes-2022.01.10, ISOweek-0.6-2, iterators-1.0.14, itertools-0.1-3, JADE-2.0-3, janeaustenr-0.1.5, JBTools-0.7.2.9, jiebaR-0.11, jiebaRD-0.1, jomo-2.7-3, jpeg-0.1-9, jquerylib-0.1.4, jsonify-1.2.1, jsonlite-1.8.0, jstable-1.0.7, kde1d-1.0.4, kedd-1.0.3, kernlab-0.9-31, KernSmooth-2.23-20, kinship2-1.9.6, klaR-1.7-0, knitr-1.39, KODAMA-1.9, kohonen-3.0.11, ks-1.13.5, labdsv-2.0-1, labeling-0.4.2, labelled-2.9.1, laeken-0.5.2, lambda.r-1.2.4, LaplacesDemon-16.1.6, lars-1.3, lassosum-0.4.5, later-1.3.0, lattice-0.20-45, latticeExtra-0.6-29, lava-1.6.10, lavaan-0.6-11, lazy-1.2-17, lazyeval-0.2.2, LCFdata-2.0, lda-1.4.2, ldbounds-2.0.0, leafem-0.2.0, leaflet-2.1.1, leaflet.providers-1.9.0, leafsync-0.1.0, leaps-3.1, LearnBayes-2.15.1, leiden-0.4.2, lhs-1.1.5, libcoin-1.0-9, lifecycle-1.0.1, limSolve-1.5.6, linkcomm-1.0-14, linprog-0.9-4, liquidSVM-1.2.4, listenv-0.8.0, lme4-1.1-29, LMERConvenienceFunctions-3.0, lmerTest-3.1-3, lmom-2.9, Lmoments-1.3-1, lmtest-0.9-40, lobstr-1.1.2, locfdr-1.1-8, locfit-1.5-9.5, logcondens-2.1.6, logger-0.2.2, logistf-1.24.1, logspline-2.1.17, longitudinal-1.1.13, longmemo-1.1-2, loo-2.5.1, lpSolve-5.6.15, lpSolveAPI-5.5.2.0-17.7, lqa-1.0-3, lsei-1.3-0, lslx-0.6.10, lubridate-1.8.0, lwgeom-0.2-8, magic-1.6-0, magick-2.7.3, magrittr-2.0.3, MALDIquant-1.21, manipulateWidget-0.11.1, mapproj-1.2.8, maps-3.4.0, maptools-1.1-4, markdown-1.1, MASS-7.3-57, Matching-4.10-2, MatchIt-4.4.0, mathjaxr-1.6-0, matlab-1.0.4, Matrix-1.4-1, matrixcalc-1.0-5, MatrixModels-0.5-0, matrixStats-0.62.0, maxLik-1.5-2, maxlike-0.1-8, maxnet-0.1.4, mboost-2.9-7, mclust-5.4.10, mcmc-0.9-7, MCMCpack-1.6-3, mcmcse-1.5-0, mda-0.5-3, medflex-0.6-7, mediation-4.5.0, memoise-2.0.1, memuse-4.2-1, MESS-0.5.9, metadat-1.2-0, metafor-3.4-0, MetaUtility-2.1.2, methods, mets-1.2.9, mgcv-1.8-40, mgsub-1.7.3, mhsmm-0.4.16, mi-1.1, mice-3.14.0, miceadds-3.13-12, microbenchmark-1.4.9, MIIVsem-0.5.8, mime-0.12, minerva-1.5.10, miniUI-0.1.1.1, minpack.lm-1.2-2, minqa-1.2.4, mirt-1.36.1, misc3d-0.9-1, miscTools-0.6-26, missForest-1.5, mitml-0.4-3, mitools-2.4, mixtools-1.2.0, mlbench-2.1-3, mlegp-3.1.9, MLmetrics-1.1.1, mlogit-1.1-1, mlr-2.19.0, mlrMBO-1.1.5.1, mltools-0.3.5, mnormt-2.1.0, ModelMetrics-1.2.2.2, modelr-0.1.8, modeltools-0.2-23, momentfit-0.2, moments-0.14.1, MonteCarlo-1.0.6, mosaicCore-0.9.2.1, mpath-0.4-2.22, mRMRe-2.1.2, msm-1.6.9, mstate-0.3.2, multcomp-1.4-19, multicool-0.1-12, multipol-1.0-7, munsell-0.5.0, mvabund-4.2.1, mvnfast-0.2.7, mvtnorm-1.1-3, nabor-0.5.0, naniar-0.6.1, natserv-1.0.0, naturalsort-0.1.3, ncbit-2013.03.29, ncdf4-1.19, NCmisc-1.1.6, network-1.17.2, networkDynamic-0.11.2, neuralnet-1.44.2, neuRosim-0.2-12, ngspatial-1.2-2, NISTunits-1.0.1, nleqslv-3.3.2, nlme-3.1-158, nloptr-2.0.3, NLP-0.2-1, nlsem-0.8, nnet-7.3-17, nnls-1.4, nonnest2-0.5-5, nor1mix-1.3-0, norm-1.0-10.0, nortest-1.0-4, np-0.60-11, npsurv-0.5-0, numDeriv-2016.8-1.1, oai-0.3.2, oce-1.7-6, OceanView-1.0.6, oddsratio-2.0.1, openair-2.10-0, OpenMx-2.20.6, openssl-2.0.2, openxlsx-4.2.5, operator.tools-1.6.3, optextras-2019-12.4, optimr-2019-12.16, optimx-2022-4.30, optmatch-0.10.3, optparse-1.7.1, ordinal-2019.12-10, origami-1.0.5, orthopolynom-1.0-6, osqp-0.6.0.8, outliers-0.15, packrat-0.8.0, pacman-0.5.1, pammtools-0.5.8, pamr-1.56.1, pan-1.6, parallel, parallelDist-0.2.6, parallelly-1.32.0, parallelMap-1.5.1, ParamHelpers-1.14, parsedate-1.3.0, party-1.3-10, partykit-1.2-16, pastecs-1.3.21, patchwork-1.1.1, pbapply-1.5-0, pbivnorm-0.6.0, pbkrtest-0.5.1, PCAmatchR-0.3.2, pcaPP-2.0-1, pdp-0.8.1, PearsonDS-1.2.2, pec-2022.05.04, penalized-0.9-52, penfa-0.1.1, peperr-1.4, PermAlgo-1.2, permute-0.9-7, phangorn-2.9.0, pheatmap-1.0.12, phylobase-0.8.10, phytools-1.0-3, pillar-1.7.0, pim-2.0.2, pinfsc50-1.2.0, pixmap-0.4-12, pkgbuild-1.3.1, pkgconfig-2.0.3, pkgload-1.2.4, pkgmaker-0.32.2, plogr-0.2.0, plot3D-1.4, plot3Drgl-1.0.3, plotly-4.10.0, plotmo-3.6.2, plotrix-3.8-2, pls-2.8-0, plyr-1.8.7, PMA-1.2.1, png-0.1-7, PoissonSeq-1.1.2, poLCA-1.6.0.1, polspline-1.1.20, polyclip-1.10-0, polycor-0.8-1, polynom-1.4-1, posterior-1.2.2, ppcor-1.1, prabclus-2.3-2, pracma-2.3.8, praise-1.0.0, PresenceAbsence-1.1.10, preseqR-4.0.0, prettyGraphs-2.1.6, prettyunits-1.1.1, pROC-1.18.0, processx-3.6.1, prodlim-2019.11.13, profileModel-0.6.1, proftools-0.99-3, progress-1.2.2, progressr-0.10.1, projpred-2.1.2, promises-1.2.0.1, proto-1.0.0, proxy-0.4-27, proxyC-0.3.3, pryr-0.1.5, ps-1.7.1, pscl-1.5.5, pspline-1.0-19, psych-2.2.5, Publish-2020.12.23, pulsar-0.3.7, purrr-0.3.4, pvclust-2.2-0, qgam-1.3.4, qgraph-1.9.2, qqman-0.1.8, qrnn-2.0.5, quadprog-1.5-8, quanteda-3.2.3, quantmod-0.4.20, quantreg-5.93, questionr-0.7.7, R.cache-0.15.0, R.matlab-3.6.2, R.methodsS3-1.8.2, R.oo-1.25.0, R.rsp-0.44.0, R.utils-2.11.0, R2WinBUGS-2.1-21, R6-2.5.1, random-0.2.6, randomForest-4.7-1.1, randomForestSRC-3.1.0, randtoolbox-2.0.1, rangeModelMetadata-0.1.4, ranger-0.14.1, RANN-2.6.1, rapidjsonr-1.2.0, rappdirs-0.3.3, raster-3.5-15, rasterVis-0.51.2, ratelimitr-0.4.1, RBesT-1.6-6, rbibutils-2.2.8, rbison-1.0.0, Rborist-0.2-3, RCAL-2.0, Rcgmin-2022-4.30, RCircos-1.2.2, rcmdcheck-1.4.0, RColorBrewer-1.1-3, Rcpp-1.0.8.3, RcppArmadillo-0.11.2.0.0, RcppEigen-0.3.3.9.2, RcppGSL-0.3.11, RcppParallel-5.1.5, RcppProgress-0.4.2, RcppRoll-0.3.0, RcppThread-2.1.3, RcppTOML-0.1.7, RCurl-1.98-1.7, rda-1.0.2-2.1, Rdpack-2.3.1, rdrop2-0.8.2.1, readbitmap-0.1.5, reader-1.0.6, readODS-1.7.0, readr-2.1.2, readxl-1.4.0, rebird-1.3.0, recipes-0.2.0, RefFreeEWAS-2.2, registry-0.5-1, regsem-1.8.0, relsurv-2.2-7, rematch-1.0.1, rematch2-2.1.2, remotes-2.4.2, rentrez-1.2.3, renv-0.15.5, reprex-2.0.1, resample-0.6, reshape-0.8.9, reshape2-1.4.4, reticulate-1.25, rex-1.2.1, rgbif-3.7.2, RGCCA-2.1.2, rgdal-1.5-32, rgeos-0.5-9, rgexf-0.16.2, rgl-0.109.2, Rglpk-0.6-4, RhpcBLASctl-0.21-247.1, ridigbio-0.3.5, RInside-0.2.17, rio-0.5.29, riskRegression-2022.03.22, ritis-1.0.0, RItools-0.1-18, rJava-1.0-6, rjson-0.2.21, RJSONIO-1.3-1.6, rlang-1.0.2, rle-0.9.2, rlecuyer-0.3-5, rlemon-0.2.0, rlist-0.4.6.2, rmarkdown-2.14, rmeta-3.0, Rmpfr-0.8-9, Rmpi-0.6-9.2, rms-6.3-0, RMTstat-0.3.1, rncl-0.8.6, rnetcarto-0.2.5, RNeXML-2.4.7, rngtools-1.5.2, rngWELL-0.10-7, robustbase-0.95-0, ROCR-1.0-11, ROI-1.0-0, ROI.plugin.glpk-1.0-0, Rook-1.1-1, rootSolve-1.8.2.3, roptim-0.1.6, rotl-3.0.12, roxygen2-7.2.0, rpact-3.3.0, rpart-4.1.16, rpf-1.0.11, RPMM-1.25, rprojroot-2.0.3, rrcov-1.7-0, rredlist-0.7.0, rsconnect-0.8.26, Rserve-1.8-10, RSNNS-0.4-14, Rsolnp-1.16, RSpectra-0.16-1, RSQLite-2.2.14, Rssa-1.0.4, rstan-2.21.5, rstantools-2.2.0, rstatix-0.7.0, rstudioapi-0.13, rtdists-0.11-5, Rtsne-0.16, Rttf2pt1-1.3.10, RUnit-0.4.32, ruv-0.9.7.1, rversions-2.1.1, rvertnet-0.8.2, rvest-1.0.2, rvinecopulib-0.6.1.1.3, Rvmmin-2018-4.17.1, RWeka-0.4-44, RWekajars-3.9.3-2, s2-1.0.7, sampling-2.9, sandwich-3.0-2, sass-0.4.1, SBdecomp-1.2, scales-1.2.0, scam-1.2-12, scatterpie-0.1.8, scatterplot3d-0.3-41, scs-3.2.4, sctransform-0.3.3, SDMTools-1.1-221.2, seewave-2.2.0, segmented-1.6-0, selectr-0.4-2, sem-3.1-15, semPLS-1.0-10, semTools-0.5-6, sendmailR-1.2-1.1, sensemakr-0.1.4, sentometrics-1.0.0, seqinr-4.2-16, servr-0.24, sessioninfo-1.2.2, setRNG-2022.4-1, sf-1.0-7, sfheaders-0.4.0, sfsmisc-1.1-13, shadowtext-0.1.2, shape-1.4.6, shapefiles-0.7, shiny-1.7.1, shinydashboard-0.7.2, shinyjs-2.1.0, shinystan-2.6.0, shinythemes-1.2.0, signal-0.7-7, SignifReg-4.3, simex-1.8, SimSeq-1.4.0, SKAT-2.2.4, slam-0.1-50, sm-2.2-5.7, smoof-1.6.0.3, smoother-1.1, sn-2.0.2, sna-2.7, SNFtool-2.3.1, snow-0.4-4, SnowballC-0.7.0, snowfall-1.84-6.1, SOAR-0.99-11, solrium-1.2.0, som-0.3-5.1, soundecology-1.3.3, sourcetools-0.1.7, sp-1.5-0, spaa-0.2.2, spam-2.8-0, spaMM-3.12.0, SparseM-1.81, SPAtest-3.1.2, spatial-7.3-15, spatstat-2.3-4, spatstat.core-2.4-4, spatstat.data-2.2-0, spatstat.geom-2.4-0, spatstat.linnet-2.3-2, spatstat.random-2.2-0, spatstat.sparse-2.1-1, spatstat.utils-2.3-1, spData-2.0.1, splines, splitstackshape-1.4.8, spls-2.2-3, spocc-1.2.0, spThin-0.2.0, SQUAREM-2021.1, stabledist-0.7-1, stabs-0.6-4, StanHeaders-2.21.0-7, stargazer-5.2.3, stars-0.5-5, startupmsg-0.9.6, StatMatch-1.4.1, statmod-1.4.36, statnet-2019.6, statnet.common-4.6.0, stats, stats4, stdReg-3.4.1, stopwords-2.3, stringdist-0.9.8, stringi-1.7.6, stringr-1.4.0, strucchange-1.5-3, styler-1.7.0, subplex-1.8, SuperLearner-2.0-28, SuppDists-1.1-9.7, survey-4.1-1, survival-3.3-1, survivalROC-1.0.3, svd-0.5.1, svglite-2.1.1, swagger-3.33.1, symmoments-1.2.1, sys-3.4, systemfonts-1.0.4, tableone-0.13.2, tau-0.0-24, taxize-0.9.100, tcltk, tcltk2-1.2-11, tclust-1.5-1, TeachingDemos-2.12, tensor-1.5, tensorA-0.36.2, tergm-4.1.0, terra-1.5-34, testit-0.13, testthat-3.1.4, textcat-1.0-8, textplot-0.2.2, TFisher-0.2.0, TH.data-1.1-1, threejs-0.3.3, tibble-3.1.7, tictoc-1.0.1, tidygraph-1.2.1, tidyr-1.2.0, tidyselect-1.1.2, tidytext-0.3.3, tidytree-0.4.1, tidyverse-1.3.1, tiff-0.1-11, timeDate-3043.102, timereg-2.0.2, tinytex-0.40, tkrplot-0.0-26, tm-0.7-8, tmap-3.3-3, tmaptools-3.1-1, TMB-1.9.0, tmle-1.5.0.2, tmvnsim-1.0-2, tmvtnorm-1.5, tokenizers-0.2.1, tools, topicmodels-0.2-12, TraMineR-2.2-4, tree-1.0-42, triebeard-0.3.0, trimcluster-0.1-5, tripack-1.3-9.1, truncnorm-1.0-8, trust-0.1-8, tseries-0.10-51, tseriesChaos-0.1-13.1, tsna-0.3.5, tsne-0.1-3.1, TTR-0.24.3, tuneR-1.4.0, tvem-1.3.1, twang-2.5, tweedie-2.3.3, tweenr-1.0.2, tzdb-0.3.0, ucminf-1.1-4, udpipe-0.8.11, unbalanced-2.0, unikn-0.8.0, uniqueAtomMat-0.1-3-2, units-0.8-0, unmarked-1.2.5, UpSetR-1.4.0, urca-1.3-0, urltools-1.7.3, uroot-2.1-2, usethis-2.1.6, utf8-1.2.2, utils, uuid-1.1-0, V8-4.2.0, varhandle-2.0.5, vcd-1.4-10, vcfR-1.12.0, vctrs-0.4.1, vegan-2.6-2, VennDiagram-1.7.3, VGAM-1.1-6, VIM-6.1.1, VineCopula-2.4.4, vioplot-0.3.7, vipor-0.4.5, viridis-0.6.2, viridisLite-0.4.0, visdat-0.5.3, visNetwork-2.1.0, vroom-1.5.7, VSURF-1.1.0, waldo-0.4.0, waveslim-1.8.3, wdm-0.2.3, webshot-0.5.3, webutils-1.1, weights-1.0.4, WeightSVM-1.7-9, wellknown-0.7.4, whisker-0.4, widgetframe-0.3.1, WikidataQueryServiceR-1.0.0, WikidataR-2.3.3, WikipediR-1.5.0, wikitaxa-0.4.0, withr-2.5.0, wk-0.6.0, word2vec-0.3.4, wordcloud-2.6, worrms-0.4.2, WriteXLS-6.4.0, xfun-0.31, xgboost-1.6.0.1, xlsx-0.6.5, xlsxjars-0.6.1, XML-3.99-0.10, xml2-1.3.3, xopen-1.0.0, xtable-1.8-4, xts-0.12.1, yaImpute-1.0-32, yaml-2.3.5, yulab.utils-0.0.5, zeallot-0.1.0, zip-2.2.0, zoo-1.8-10
 ## bamtools
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+BamTools provides both a programmer's API and an end-user's toolkit for handling BAM files.
+### Homepage
+https://github.com/pezmaster31/bamtools
 ## checkm-database
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+CheckM provides a set of tools for assessing the quality of genomes recovered from isolates,
+single cells, or metagenomes.
+This is the corresponding database.
+### Homepage
+https://github.com/Ecogenomics/CheckM
 ## libgd
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GD is an open source code library for the dynamic creation of images by programmers.
+### Homepage
+https://libgd.github.io
 ## lz4
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+LZ4 is lossless compression algorithm, providing compression speed at 400 MB/s per core.
+It features an extremely fast decoder, with speed in multiple GB/s per core.
+### Homepage
+https://lz4.github.io/lz4/
 ## kim-api
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Open Knowledgebase of Interatomic Models.
+KIM is an API and OpenKIM is a collection of interatomic models (potentials) for
+atomistic simulations.  This is a library that can be used by simulation programs
+to get access to the models in the OpenKIM database.
+This EasyBuild only installs the API, the models can be installed with the
+package openkim-models, or the user can install them manually by running
+kim-api-collections-management install user MODELNAME
+or
+kim-api-collections-management install user OpenKIM
+to install them all.
+### Homepage
+https://openkim.org/
 ## pplacer
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Pplacer places query sequences on a fixed reference phylogenetic tree to maximize phylogenetic
+likelihood or posterior probability according to a reference alignment. Pplacer is designed to be fast, to give
+useful information about uncertainty, and to offer advanced visualization and downstream analysis.
+### Homepage
+http://matsen.fhcrc.org/pplacer/
 ## mrbayes
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+MrBayes is a program for Bayesian inference and model choice across
+a wide range of phylogenetic and evolutionary models.
+### Homepage
+https://nbisweden.github.io/MrBayes/
 ## ffnvcodec
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+FFmpeg nvidia headers. Adds support for nvenc and nvdec. Requires Nvidia GPU and drivers to be present
+(picked up dynamically).
+### Homepage
+https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git
 ## motif
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Motif refers to both a graphical user interface (GUI) specification and the widget toolkit for building
+applications that follow that specification under the X Window System on Unix and other POSIX-compliant systems.
+It was the standard toolkit for the Common Desktop Environment and thus for Unix.
+### Homepage
+https://motif.ics.com/
 ## libarchive
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Multi-format archive and compression library
+### Homepage
+https://www.libarchive.org/
 ## virtualenv
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A tool for creating isolated virtual python environments.
+### Homepage
+https://github.com/pypa/virtualenv
+### Extensions
+distlib-0.3.6, filelock-3.12.2, platformdirs-3.8.0, virtualenv-20.23.1
 ## fastani
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+FastANI is developed for fast alignment-free computation of
+whole-genome Average Nucleotide Identity (ANI). ANI is defined as mean
+nucleotide identity of orthologous gene pairs shared between two microbial
+genomes. FastANI supports pairwise comparison of both complete and draft
+genome assemblies.
+### Homepage
+https://github.com/ParBLiSS/FastANI
 ## libidn2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Libidn2 implements the revised algorithm for internationalized domain names called IDNA2008/TR46.
+### Homepage
+http://www.gnu.org/software/libidn2
 ## ninja
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Ninja is a small build system with a focus on speed.
+### Homepage
+https://ninja-build.org/
 ## jupyter-server
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The Jupyter Server provides the backend (i.e. the core services, APIs, and REST
+endpoints) for Jupyter web applications like Jupyter notebook, JupyterLab, and
+Voila.
+### Homepage
+https://jupyter.org/
+### Extensions
+anyio-3.6.1, jupyter_server-1.21.0, nbclassic-0.4.8, notebook_shim-0.1.0, sniffio-1.3.0, websocket-client-1.4.2
 ## perl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Larry Wall's Practical Extraction and Report Language
+This is a minimal build without any modules. Should only be used for build dependencies.
+### Homepage
+https://www.perl.org/
 ## m4
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GNU M4 is an implementation of the traditional Unix macro processor. It is mostly SVR4 compatible
+although it has some extensions (for example, handling more than 9 positional parameters to macros).
+GNU M4 also has built-in functions for including files, running shell commands, doing arithmetic, etc.
+### Homepage
+https://www.gnu.org/software/m4/m4.html
 ## nextflow
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Nextflow is a reactive workflow framework and a programming DSL
+that eases writing computational pipelines with complex data
+### Homepage
+https://www.nextflow.io/
 ## libxsmm
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+LIBXSMM is a library for small dense and small sparse matrix-matrix multiplications
+targeting Intel Architecture (x86).
+### Homepage
+https://github.com/libxsmm/libxsmm
 ## hifiasm
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Hifiasm: a haplotype-resolved assembler for accurate Hifi reads.
+### Homepage
+https://github.com/chhylp123/hifiasm
 ## glib
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GLib is one of the base libraries of the GTK+ project
+### Homepage
+https://www.gtk.org/
 ## bioperl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Bioperl is the product of a community effort to produce Perl code which is useful in biology.
+Examples include Sequence objects, Alignment objects and database searching objects.
+### Homepage
+https://bioperl.org/
+### Extensions
+Bio::DB::SeqFeature-1.7.4, Bio::Procedural-1.7.4, BioPerl-1.7.8, XML::DOM::XPath-0.14, XML::Writer-0.900
 ## multiqc
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Aggregate results from bioinformatics analyses across many samples into a single report.
+MultiQC searches a given directory for analysis logs and compiles an HTML report. It's a general
+use tool, perfect for summarising the output from numerous bioinformatics tools.
+### Homepage
+https://multiqc.info
+### Extensions
+coloredlogs-15.0.1, colormath-3.0.0, commonmark-0.9.1, humanfriendly-10.0, lzstring-1.0.4, Markdown-3.4.1, markdown-it-py-2.1.0, mdurl-0.1.2, multiqc-1.14, Pygments-2.14.0, rich-13.3.1, rich-click-1.6.1, spectra-0.0.11
 ## icu
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization
+support for software applications.
+### Homepage
+https://icu-project.org/
 ## giflib
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+giflib is a library for reading and writing gif images.
+It is API and ABI compatible with libungif which was in wide use while
+the LZW compression algorithm was patented.
+### Homepage
+http://giflib.sourceforge.net/
 ## libsodium
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Sodium is a modern, easy-to-use software library for encryption, decryption,
+signatures, password hashing and more.
+### Homepage
+https://doc.libsodium.org/
 ## cuda
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+CUDA (formerly Compute Unified Device Architecture) is a parallel
+computing platform and programming model created by NVIDIA and implemented by the
+graphics processing units (GPUs) that they produce. CUDA gives developers access
+to the virtual instruction set and memory of the parallel computational elements in CUDA GPUs.
+### Homepage
+https://developer.nvidia.com/cuda-toolkit
 ## plink
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Whole-genome association analysis toolset
+### Homepage
+https://www.cog-genomics.org/plink/2.0/
 ## groff
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Groff (GNU troff) is a typesetting system that reads plain text mixed with formatting commands
+and produces formatted output.
+### Homepage
+https://www.gnu.org/software/groff
 ## blat
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+BLAT on DNA is designed to quickly find sequences of 95% and
+greater similarity of length 25 bases or more.
+### Homepage
+https://genome.ucsc.edu/goldenPath/help/blatSpec.html
 ## cp2k
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+CP2K is a freely available (GPL) program, written in Fortran 95, to perform atomistic and molecular
+simulations of solid state, liquid, molecular and biological systems. It provides a general framework for different
+methods such as e.g. density functional theory (DFT) using a mixed Gaussian and plane waves approach (GPW), and
+classical pair and many-body potentials.
+### Homepage
+https://www.cp2k.org/
 ## meson
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Meson is a cross-platform build system designed to be both as fast and as user friendly as possible.
+### Homepage
+https://mesonbuild.com
 ## at-spi2-core
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Assistive Technology Service Provider Interface.
+### Homepage
+https://wiki.gnome.org/Accessibility
 ## plumed
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+PLUMED is an open source library for free energy calculations in molecular systems which
+works together with some of the most popular molecular dynamics engines. Free energy calculations can be
+performed as a function of many order parameters with a particular  focus on biological problems, using
+state of the art methods such as metadynamics, umbrella sampling and Jarzynski-equation based steered MD.
+The software, written in C++, can be easily interfaced with both fortran and C/C++ codes.
+### Homepage
+https://www.plumed.org
 ## udunits
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+UDUNITS supports conversion of unit specifications between formatted and binary forms,
+arithmetic manipulation of units, and conversion of values between compatible scales of measurement.
+### Homepage
+https://www.unidata.ucar.edu/software/udunits/
 ## abricate
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Mass screening of contigs for antimicrobial and virulence genes
+### Homepage
+https://github.com/tseemann/abricate
 ## pandoc
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+If you need to convert files from one markup format into another, pandoc is your swiss-army knife
+### Homepage
+https://pandoc.org
 ## ipython
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+IPython provides a rich architecture for interactive computing with:
+Powerful interactive shells (terminal and Qt-based).
+A browser-based notebook with support for code, text, mathematical expressions, inline plots and other rich media.
+Support for interactive data visualization and use of GUI toolkits.
+Flexible, embeddable interpreters to load into your own projects.
+Easy to use, high performance tools for parallel computing.
+### Homepage
+https://ipython.org/index.html
+### Extensions
+argon2-cffi-20.1.0, async_generator-1.10, backcall-0.2.0, bleach-3.3.0, debugpy-1.3.0, defusedxml-0.7.1, deprecation-2.1.0, entrypoints-0.3, ipykernel-6.0.0, ipython-7.25.0, ipython_genutils-0.2.0, ipywidgets-7.6.3, jedi-0.18.0, jupyter_client-6.1.12, jupyter_core-4.7.1, jupyter_packaging-0.10.3, jupyterlab_pygments-0.1.2, jupyterlab_widgets-1.0.0, matplotlib-inline-0.1.2, mistune-0.8.4, nbclient-0.5.3, nbconvert-6.4.0, nbformat-5.1.3, nest_asyncio-1.5.1, notebook-6.4.0, pandocfilters-1.4.3, parso-0.8.2, pickleshare-0.7.5, prometheus_client-0.11.0, prompt_toolkit-3.0.19, pyzmq-22.1.0, Send2Trash-1.7.1, terminado-0.10.1, testpath-0.5.0, tornado-6.1, traitlets-5.0.5, widgetsnbextension-3.5.1
 ## z3
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Z3 is a theorem prover from Microsoft Research with support for bitvectors,
+booleans, arrays, floating point numbers, strings, and other data types. This
+module includes z3-solver, the Python interface of Z3.
+### Homepage
+https://github.com/Z3Prover/z3
+### Extensions
+z3-solver-4.13.0.0
 ## libtasn1
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Libtasn1 is the ASN.1 library used by GnuTLS, GNU Shishi and
+some other packages. It was written by Fabio Fiorina, and has been shipped as
+part of GnuTLS for some time but is now a proper GNU package.
+### Homepage
+https://www.gnu.org/software/libtasn1/
 ## gettext
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GNU 'gettext' is an important step for the GNU Translation Project, as it is an asset on which we may
+build many other steps. This package offers to programmers, translators, and even users, a well integrated set of tools
+and documentation
+### Homepage
+https://www.gnu.org/software/gettext/
 ## libvorbis
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed
+audio format
+### Homepage
+https://xiph.org/vorbis/
 ## ruby
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Ruby is a dynamic, open source programming language with
+a focus on simplicity and productivity. It has an elegant syntax that is
+natural to read and easy to write.
+### Homepage
+https://www.ruby-lang.org
+### Extensions
+activesupport-5.0.7.2, addressable-2.7.0, arr-pm-0.0.11, backports-3.21.0, bundler-2.2.21, cabin-0.9.0, childprocess-4.1.0, clamp-1.3.2, concurrent-ruby-1.1.9, connection_pool-2.2.5, diff-lcs-1.4.4, ethon-0.14.0, faraday-1.3.0, faraday-net_http-1.0.1, faraday_middleware-1.0.0, ffi-1.15.3, gh-0.18.0, highline-2.0.3, i18n-1.8.10, json-2.5.1, launchy-2.5.0, minitest-5.14.4, multi_json-1.15.0, multipart-post-2.1.1, mustermann-1.1.1, net-http-persistent-2.9.4, net-http-pipeline-1.0.1, public_suffix-4.0.6, pusher-client-0.6.2, rack-2.2.3, rack-protection-2.1.0, rack-test-1.1.0, rspec-3.10.0, rspec-core-3.10.1, rspec-expectations-3.10.1, rspec-mocks-3.10.2, rspec-support-3.10.2, ruby2_keywords-0.0.4, sinatra-2.1.0, thread_safe-0.3.6, tilt-2.0.10, typhoeus-1.4.0, tzinfo-1.1.0, websocket-1.2.9, zeitwerk-2.4.2
 ## spaceranger
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Space Ranger is a set of analysis pipelines that process Visium spatial RNA-seq output
+and brightfield microscope images in order to detect tissue, align reads, generate feature-spot matrices,
+perform clustering and gene expression analysis, and place spots in spatial context on the slide image.
+### Homepage
+https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger
 ## gffread
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GFF/GTF parsing utility providing format conversions,
+region filtering, FASTA sequence extraction and more.
+### Homepage
+https://ccb.jhu.edu/software/stringtie/gff.shtml#gffread
 ## littlecms
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Little CMS intends to be an OPEN SOURCE small-footprint color management engine,
+with special focus on accuracy and performance.
+### Homepage
+https://www.littlecms.com/
 ## scikit-build
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Scikit-Build, or skbuild, is an improved build system generator
+for CPython C/C++/Fortran/Cython extensions.
+### Homepage
+https://scikit-build.readthedocs.io/en/latest
+### Extensions
+distro-1.8.0, packaging-23.1, scikit_build-0.17.6
 ## szip
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Szip compression software, providing lossless compression of scientific data
+### Homepage
+https://support.hdfgroup.org/doc_resource/SZIP/
 ## libffi
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The libffi library provides a portable, high level programming interface to
+various calling conventions. This allows a programmer to call any function
+specified by a call interface description at run-time.
+### Homepage
+https://sourceware.org/libffi/
 ## pcre
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The PCRE library is a set of functions that implement regular expression
+pattern matching using the same syntax and semantics as Perl 5.
+### Homepage
+https://www.pcre.org/
 ## cudnn
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The NVIDIA CUDA Deep Neural Network library (cuDNN) is
+a GPU-accelerated library of primitives for deep neural networks.
+### Homepage
+https://developer.nvidia.com/cudnn
 ## lzo
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Portable lossless data compression library
+### Homepage
+https://www.oberhumer.com/opensource/lzo/
 ## eigen
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers,
+and related algorithms.
+### Homepage
+https://eigen.tuxfamily.org
 ## gnutls
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GnuTLS is a secure communications library implementing the SSL, TLS
+and DTLS protocols and technologies around them. It provides a simple
+C language application programming interface (API) to access the secure
+communications protocols as well as APIs to parse and write X.509, PKCS #12,
+OpenPGP and other required structures. It is aimed to be portable
+and efficient with focus on security and interoperability.
+### Homepage
+https://www.gnutls.org
 ## pyyaml
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+PyYAML is a YAML parser and emitter for the Python programming language.
+### Homepage
+https://github.com/yaml/pyyaml
 ## any2fasta
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Convert various sequence formats to FASTA
+### Homepage
+https://github.com/tseemann/any2fasta
 ## gobject-introspection
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GObject introspection is a middleware layer between C libraries
+(using GObject) and language bindings. The C library can be scanned at
+compile time and generate a metadata file, in addition to the actual
+native C library. Then at runtime, language bindings can read this
+metadata and automatically provide bindings to call into the C library.
+### Homepage
+https://gi.readthedocs.io/en/latest/
 ## archive-zip
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Provide an interface to ZIP archive files.
+### Homepage
+https://metacpan.org/pod/Archive::Zip
 ## seqlib
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+C++ interface to HTSlib, BWA-MEM and Fermi.
+### Homepage
+https://github.com/walaj/SeqLib
 ## lame
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the LGPL.
+### Homepage
+http://lame.sourceforge.net/
 ## snappy
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Snappy is a compression/decompression library. It does not aim
+for maximum compression, or compatibility with any other compression library;
+instead, it aims for very high speeds and reasonable compression.
+### Homepage
+https://github.com/google/snappy
 ## biopython
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Biopython is a set of freely available tools for biological
+computation written in Python by an international team of developers. It is
+a distributed collaborative effort to develop Python libraries and
+applications which address the needs of current and future work in
+bioinformatics.
+### Homepage
+https://www.biopython.org
 ## nss
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Network Security Services (NSS) is a set of libraries designed to support cross-platform development
+of security-enabled client and server applications.
+### Homepage
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS
 ## jemalloc
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+jemalloc is a general purpose malloc(3) implementation that emphasizes fragmentation avoidance and
+scalable concurrency support.
+### Homepage
+http://jemalloc.net
 ## expat
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Expat is an XML parser library written in C. It is a stream-oriented parser
+in which an application registers handlers for things the parser might find
+in the XML document (like start tags).
+### Homepage
+https://libexpat.github.io
 ## rjags
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The rjags package is an interface to the JAGS library.
+### Homepage
+https://cran.r-project.org/web/packages/rjags
 ## pysam
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Pysam is a python module for reading and manipulating Samfiles.
+It's a lightweight wrapper of the samtools C-API. Pysam also includes an interface for tabix.
+### Homepage
+https://github.com/pysam-developers/pysam
 ## autoconf
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Autoconf is an extensible package of M4 macros that produce shell scripts
+to automatically configure software source code packages. These scripts can adapt the
+packages to many kinds of UNIX-like systems without manual user intervention. Autoconf
+creates a configuration script for a package from a template file that lists the
+operating system features that the package can use, in the form of M4 macro calls.
+### Homepage
+https://www.gnu.org/software/autoconf/
 ## hatchling
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Extensible, standards compliant build backend used by Hatch,
+a modern, extensible Python project manager.
+### Homepage
+https://hatch.pypa.io
+### Extensions
+editables-0.3, hatch-requirements-txt-0.4.1, hatch_fancy_pypi_readme-23.1.0, hatch_vcs-0.3.0, hatchling-1.18.0, pathspec-0.11.1, pluggy-1.2.0, trove_classifiers-2023.5.24
 ## zip
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Zip is a compression and file packaging/archive utility.
+Although highly compatible both with PKWARE's PKZIP and PKUNZIP
+utilities for MS-DOS and with Info-ZIP's own UnZip, our primary objectives
+have been portability and other-than-MSDOS functionality
+### Homepage
+http://www.info-zip.org/Zip.html
 ## gatk
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The Genome Analysis Toolkit or GATK is a software package developed at the Broad Institute
+to analyse next-generation resequencing data. The toolkit offers a wide variety of tools,
+with a primary focus on variant discovery and genotyping as well as strong emphasis on
+data quality assurance. Its robust architecture, powerful processing engine and
+high-performance computing features make it capable of taking on projects of any size.
+### Homepage
+https://www.broadinstitute.org/gatk/
 ## xvfb
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Xvfb is an X server that can run on machines with no display hardware and no physical input devices.
+It emulates a dumb framebuffer using virtual memory.
+### Homepage
+https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml
 ## lammps
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+LAMMPS is a classical molecular dynamics code, and an acronym
+for Large-scale Atomic/Molecular Massively Parallel Simulator. LAMMPS has
+potentials for solid-state materials (metals, semiconductors) and soft matter
+(biomolecules, polymers) and coarse-grained or mesoscopic systems. It can be
+used to model atoms or, more generically, as a parallel particle simulator at
+the atomic, meso, or continuum scale. LAMMPS runs on single processors or in
+parallel using message-passing techniques and a spatial-decomposition of the
+simulation domain. The code is designed to be easy to modify or extend with new
+functionality.
+### Homepage
+https://www.lammps.org
 ## xxd
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+xxd is part of the VIM package and this will only install xxd, not vim!
+xxd converts to/from hexdumps of binary files.
+### Homepage
+https://www.vim.org
 ## coordgenlibs
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Schrodinger-developed 2D Coordinate Generation
+### Homepage
+https://github.com/schrodinger/coordgenlibs
 ## flit
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A simple packaging tool for simple packages.
+### Homepage
+https://github.com/pypa/flit
+### Extensions
+certifi-2023.5.7, charset-normalizer-3.1.0, docutils-0.20.1, flit-3.9.0, flit_scm-1.7.0, idna-3.4, packaging-23.1, requests-2.31.0, setuptools_scm-7.1.0, tomli_w-1.0.0, typing_extensions-4.6.3, urllib3-1.26.16
 ## libunistring
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This library provides functions for manipulating Unicode strings and for
+manipulating C strings according to the Unicode standard.
+### Homepage
+https://www.gnu.org/software/libunistring/
 ## bcl2fastq2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+bcl2fastq Conversion Software both demultiplexes data and converts BCL files generated by
+Illumina sequencing systems to standard FASTQ file formats for downstream analysis.
+### Homepage
+https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html
 ## sepp
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+SATe-enabled Phylogenetic Placement - addresses the problem of phylogenetic
+placement of short reads into reference alignments and trees.
+### Homepage
+https://github.com/smirarab/sepp
 ## flye
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Flye is a de novo assembler for long and noisy reads, such as those produced by PacBio
+and Oxford Nanopore Technologies.
+### Homepage
+https://github.com/fenderglass/Flye
 ## checkm
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+CheckM provides a set of tools for assessing the quality of genomes recovered from isolates,
+single cells, or metagenomes.
+### Homepage
+https://github.com/Ecogenomics/CheckM
 ## suitesparse
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+SuiteSparse is a collection of libraries manipulate sparse matrices.
+### Homepage
+https://faculty.cse.tamu.edu/davis/suitesparse.html
 ## mpi4py
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+MPI for Python (mpi4py) provides bindings of the Message Passing Interface (MPI) standard for
+the Python programming language, allowing any Python program to exploit multiple processors.
+### Homepage
+https://github.com/mpi4py/mpi4py
+### Extensions
+mpi4py-3.1.4
 ## xz
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+xz: XZ utilities
+### Homepage
+https://tukaani.org/xz/
 ## beagle
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Beagle is a software package for phasing genotypes and for imputing
+ungenotyped markers.
+### Homepage
+https://faculty.washington.edu/browning/beagle/beagle.html
 ## cppy
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A small C++ header library which makes it easier to write
+Python extension modules. The primary feature is a PyObject smart pointer
+which automatically handles reference counting and provides convenience
+methods for performing common object operations.
+### Homepage
+https://github.com/nucleic/cppy
 ## x11
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The X Window System (X11) is a windowing system for bitmap displays
+### Homepage
+https://www.x.org
 ## capnproto
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Cap’n Proto is an insanely fast data interchange format and capability-based RPC system.
+### Homepage
+https://capnproto.org
 ## mesa
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Mesa is an open-source implementation of the OpenGL specification -
+a system for rendering interactive 3D graphics.
+### Homepage
+https://www.mesa3d.org/
 ## glpk
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The GLPK (GNU Linear Programming Kit) package is intended for
+solving large-scale linear programming (LP),
+mixed integer programming (MIP), and other related problems.
+It is a set of routines written in ANSI C
+and organized in the form of a callable library.
+### Homepage
+https://www.gnu.org/software/glpk/
 ## gitpython
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GitPython is a python library used to interact with Git repositories
+### Homepage
+https://gitpython.readthedocs.org
+### Extensions
+gitdb-4.0.9, GitPython-3.1.27, smmap-5.0.0
 ## archspec
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A library for detecting, labeling, and reasoning about microarchitectures
+### Homepage
+https://github.com/archspec/archspec
 ## gmap-gsnap
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GMAP: A Genomic Mapping and Alignment Program for mRNA and EST Sequences
+GSNAP: Genomic Short-read Nucleotide Alignment Program
+### Homepage
+http://research-pub.gene.com/gmap/
 ## beagle-lib
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+beagle-lib is a high-performance library that can perform the core calculations at the heart of most
+Bayesian and Maximum Likelihood phylogenetics packages.
+### Homepage
+https://github.com/beagle-dev/beagle-lib
 ## dendropy
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A Python library for phylogenetics and phylogenetic computing:
+reading, writing, simulation, processing and manipulation of phylogenetic trees
+(phylogenies) and characters.
+### Homepage
+https://pypi.python.org/pypi/DendroPy/
 ## bison
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Bison is a general-purpose parser generator that converts an annotated context-free grammar
+into a deterministic LR or generalized LR (GLR) parser employing LALR(1) parser tables.
+### Homepage
+https://www.gnu.org/software/bison
 ## maxquant
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+MaxQuant is a quantitative proteomics software package designed for analyzing large
+mass-spectrometric data sets. It is specifically aimed at high-resolution MS data. Several labeling
+techniques as well as label-free quantification are supported.
+### Homepage
+https://maxquant.org/maxquant
 ## hmmer
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+HMMER is used for searching sequence databases for homologs
+of protein sequences, and for making protein sequence alignments. It
+implements methods using probabilistic models called profile hidden Markov
+models (profile HMMs).  Compared to BLAST, FASTA, and other sequence
+alignment and database search tools based on older scoring methodology,
+HMMER aims to be significantly more accurate and more able to detect remote
+homologs because of the strength of its underlying mathematical models. In the
+past, this strength came at significant computational expense, but in the new
+HMMER3 project, HMMER is now essentially as fast as BLAST.
+### Homepage
+http://hmmer.org/
 ## salmon
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Salmon is a wicked-fast program to produce a highly-accurate,
+transcript-level quantification estimates from RNA-seq data.
+### Homepage
+https://github.com/COMBINE-lab/salmon
 ## setuptools-rust
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+setuptools-rust is a plugin for setuptools to build Rust Python extensions
+implemented with PyO3 or rust-cpython.
+### Homepage
+https://github.com/PyO3/setuptools-rust
+### Extensions
+semantic_version-2.10.0, setuptools-rust-1.6.0, typing_extensions-4.6.3
 ## lua
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Lua is a powerful, fast, lightweight, embeddable scripting language.
+Lua combines simple procedural syntax with powerful data description constructs based
+on associative arrays and extensible semantics. Lua is dynamically typed,
+runs by interpreting bytecode for a register-based virtual machine,
+and has automatic memory management with incremental garbage collection,
+making it ideal for configuration, scripting, and rapid prototyping.
+### Homepage
+https://www.lua.org/
 ## autotools
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This bundle collect the standard GNU build tools: Autoconf, Automake
+and libtool
+### Homepage
+https://autotools.io
 ## fasttree
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+FastTree infers approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide
+or protein sequences. FastTree can handle alignments with up to a million of sequences in a reasonable amount of
+time and memory.
+### Homepage
+http://www.microbesonline.org/fasttree/
 ## deeptools
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+deepTools is a suite of python tools particularly developed for the efficient analysis of
+high-throughput sequencing data, such as ChIP-seq, RNA-seq or MNase-seq.
+### Homepage
+https://deeptools.readthedocs.io/
+### Extensions
+deepTools-3.5.2, deeptoolsintervals-0.1.9, numpydoc-1.5.0, py2bit-0.3.0
 ## freebayes
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Bayesian haplotype-based genetic polymorphism discovery and genotyping.
+### Homepage
+https://github.com/freebayes/freebayes
 ## fsom
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A tiny C library for managing SOM (Self-Organizing Maps) neural networks.
+### Homepage
+https://github.com/ekg/fsom
 ## zeromq
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+ZeroMQ looks like an embeddable networking library but acts like a concurrency framework.
+It gives you sockets that carry atomic messages across various transports like in-process,
+inter-process, TCP, and multicast. You can connect sockets N-to-N with patterns like fanout,
+pub-sub, task distribution, and request-reply. It's fast enough to be the fabric for clustered
+products. Its asynchronous I/O model gives you scalable multicore applications, built as asynchronous
+message-processing tasks. It has a score of language APIs and runs on most operating systems.
+### Homepage
+https://www.zeromq.org/
 ## re2c
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+re2c is a free and open-source lexer generator for C and C++. Its main goal is generating
+fast lexers: at least as fast as their reasonably optimized hand-coded counterparts. Instead of using
+traditional table-driven approach, re2c encodes the generated finite state automata directly in the form
+of conditional jumps and comparisons.
+### Homepage
+https://re2c.org/
 ## libtirpc
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Libtirpc is a port of Suns Transport-Independent RPC library to Linux.
+### Homepage
+https://sourceforge.net/projects/libtirpc/
 ## spectra
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Spectra stands for Sparse Eigenvalue Computation Toolkit as a Redesigned ARPACK. It is a C++
+library for large scale eigenvalue problems, built on top of Eigen, an open source linear algebra library.
+### Homepage
+https://spectralib.org/
 ## gc
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The Boehm-Demers-Weiser conservative garbage collector can be used as a
+garbage collecting replacement for C malloc or C++ new.
+### Homepage
+https://hboehm.info/gc/
 ## netcdf
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+NetCDF (network Common Data Form) is a set of software libraries
+and machine-independent data formats that support the creation, access, and sharing of array-oriented
+scientific data.
+### Homepage
+https://www.unidata.ucar.edu/software/netcdf/
 ## wayland
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Wayland is a project to define a protocol for a compositor to talk to
+its clients as well as a library implementation of the protocol.  The
+compositor can be a standalone display server running on Linux kernel
+modesetting and evdev input devices, an X application, or a wayland
+client itself.  The clients can be traditional applications, X servers
+(rootless or fullscreen) or other display servers.
+### Homepage
+https://wayland.freedesktop.org/
 ## mrtrix
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+MRtrix provides a set of tools to perform diffusion-weighted MR white-matter tractography in a manner
+robust to crossing fibres, using constrained spherical deconvolution (CSD) and probabilistic streamlines.
+### Homepage
+http://www.brain.org.au/software/index.html#mrtrix
 ## libtiff
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+tiff: Library and tools for reading and writing TIFF data files
+### Homepage
+https://libtiff.maptools.org/
 ## gperf
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GNU gperf is a perfect hash function generator. For a given list of strings,
+it produces a hash function and hash table, in form of C or C++ code, for
+looking up a value depending on the input string. The hash function is
+perfect, which means that the hash table has no collisions, and the hash
+table lookup needs a single string comparison only.
+### Homepage
+https://www.gnu.org/software/gperf/
 ## picard
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A set of tools (in Java) for working with next generation sequencing data in the BAM format.
+### Homepage
+https://broadinstitute.github.io/picard/
 ## mafft
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+MAFFT is a multiple sequence alignment program for unix-like operating systems.
+It offers a range of multiple alignment methods, L-INS-i (accurate; for alignment
+of <∼200 sequences), FFT-NS-2 (fast; for alignment of <∼30,000 sequences), etc.
+### Homepage
+https://mafft.cbrc.jp/alignment/software/source.html
 ## intervaltree
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+An interval tree can be used to efficiently find a set of numeric intervals
+overlapping or containing another interval. This library provides a basic implementation of an
+interval tree using C++ templates, allowing the insertion of arbitrary types into the tree.
+### Homepage
+https://github.com/ekg/intervaltree
 ## tcl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Tcl (Tool Command Language) is a very powerful but easy to learn dynamic
+programming language, suitable for a very wide range of uses, including web
+and desktop applications, networking, administration, testing and many more.
+### Homepage
+https://www.tcl.tk/
 ## at-spi2-atk
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+AT-SPI 2 toolkit bridge
+### Homepage
+https://wiki.gnome.org/Accessibility
 ## patchelf
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+PatchELF is a small utility to modify the dynamic linker and RPATH of ELF executables.
+### Homepage
+https://github.com/NixOS/patchelf
 ## x265
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+x265 is a free software library and application for encoding video streams
+into the H.265 AVC compression format, and is released under the terms of
+the GNU GPL.
+### Homepage
+https://x265.org/
 ## libdrm
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Direct Rendering Manager runtime library.
+### Homepage
+https://dri.freedesktop.org
 ## intel
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Compiler toolchain including Intel compilers, Intel MPI and Intel Math Kernel Library (MKL).
+### Homepage
+https://easybuild.readthedocs.io/en/master/Common-toolchains.html#intel-toolchain
 ## tkinter
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Tkinter module, built with the Python buildsystem
+### Homepage
+https://python.org/
 ## gzip
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+gzip (GNU zip) is a popular data compression program as a replacement for compress
+### Homepage
+https://www.gnu.org/software/gzip/
 ## maeparser
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+maeparser is a parser for Schrodinger Maestro files.
+### Homepage
+https://github.com/schrodinger/maeparser
 ## perl-bundle-cpan
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A set of common packages from CPAN
+### Homepage
+https://www.perl.org/
+### Extensions
+Algorithm::Dependency-1.112, Algorithm::Diff-1.201, aliased-0.34, AnyEvent-7.17, App::Cmd-0.336, App::cpanminus-1.7047, AppConfig-1.71, Archive::Extract-0.88, Array::Transpose-0.06, Array::Utils-0.5, Authen::NTLM-1.09, Authen::SASL-2.1700, AutoLoader-5.74, B::COW-0.007, B::Hooks::EndOfScope-0.28, B::Lint-1.20, boolean-0.46, Business::ISBN-3.009, Business::ISBN::Data-20240614.001, Canary::Stability-2013, Capture::Tiny-0.48, Carp::Clan-6.08, Carp::Heavy-1.50, CGI-4.66, Class::Accessor-0.51, Class::Data::Inheritable-0.09, Class::DBI-v3.0.17, Class::DBI::SQLite-0.11, Class::Inspector-1.36, Class::ISA-0.36, Class::Load-0.25, Class::Load::XS-0.10, Class::Method::Modifiers-2.15, Class::Singleton-1.6, Class::Tiny-1.008, Class::Trigger-0.15, Class::XSAccessor-1.19, Clone-0.46, Clone::Choose-0.010, common::sense-3.75, Compress::Raw::Bzip2-2.212, Compress::Raw::Zlib-2.212, Config::General-2.65, Config::INI-0.029, Config::MVP-2.200013, Config::MVP::Reader::INI-2.101465, Config::Simple-4.58, Config::Tiny-2.30, Const::Exporter-v1.2.3, Const::Fast-0.014, CPAN::Meta::Check-0.018, CPAN::Meta::Requirements-2.143, CPAN::Requirements::Dynamic-0.001, CPAN::Uploader-0.103018, CPANPLUS-0.9914, Crypt::DES-2.07, Crypt::Rijndael-1.16, Cwd-3.75, Cwd::Guard-0.05, Data::Dump-1.25, Data::Dumper::Concise-2.023, Data::Grove-0.08, Data::OptList-0.114, Data::Section-0.200008, Data::Section::Simple-0.07, Data::Stag-0.14, Data::Types-0.17, Data::UUID-1.227, Date::Handler-1.2, Date::Language-2.33, DateTime-1.65, DateTime::Locale-1.42, DateTime::TimeZone-2.62, DateTime::Tiny-1.07, DBD::CSV-0.60, DBD::SQLite-1.74, DBI-1.643, DBIx::Admin::CreateTable-2.11, DBIx::Admin::DSNManager-2.02, DBIx::Admin::TableInfo-3.04, DBIx::ContextualFetch-1.03, DBIx::Simple-1.37, Devel::CheckCompiler-0.07, Devel::CheckLib-1.16, Devel::Cycle-1.12, Devel::FindPerl-0.016, Devel::GlobalDestruction-0.14, Devel::OverloadInfo-0.007, Devel::Size-0.84, Devel::StackTrace-2.05, Digest::HMAC-1.04, Digest::MD5::File-0.08, Digest::SHA1-2.13, Dist::CheckConflicts-0.11, Dist::Zilla-6.032, Email::Date::Format-1.008, Encode-3.21, Encode::Locale-1.05, Error-0.17029, Eval::Closure-0.14, Exception::Class-1.45, Expect-1.38, Exporter::Declare-0.114, Exporter::Tiny-1.006002, ExtUtils::CBuilder-0.280236, ExtUtils::Config-0.009, ExtUtils::Constant-0.25, ExtUtils::CppGuess-0.27, ExtUtils::Helpers-0.027, ExtUtils::InstallPaths-0.013, ExtUtils::MakeMaker-7.70, ExtUtils::ParseXS-3.51, Fennec::Lite-0.004, File::CheckTree-4.42, File::Copy::Recursive-0.45, File::Copy::Recursive::Reduced-0.008, File::Find::Rule-0.34, File::Find::Rule::Perl-1.16, File::Grep-0.02, File::HomeDir-1.006, File::Listing-6.16, File::Next-1.18, File::pushd-1.016, File::Remove-1.61, File::ShareDir-1.118, File::ShareDir::Install-0.14, File::Slurp-9999.32, File::Slurp::Tiny-0.004, File::Slurper-0.014, File::Temp-0.2311, File::Which-1.27, Font::TTF-1.06, Getopt::Long::Descriptive-0.114, Git-0.42, GO-0.04, GO::Utils-0.15, Graph-0.9729, Graph::ReadWrite-2.10, Hash::Merge-0.302, Hash::Objectify-0.008, Heap-0.80, Hook::LexWrap-0.26, HTML::Entities::Interpolate-1.10, HTML::Form-6.11, HTML::Parser-3.82, HTML::Tagset-3.24, HTML::Template-2.97, HTML::Tree-5.07, HTTP::CookieJar-0.014, HTTP::Cookies-6.11, HTTP::Daemon-6.16, HTTP::Date-6.06, HTTP::Message-6.46, HTTP::Negotiate-6.01, HTTP::Tiny-0.088, if-0.0608, Ima::DBI-0.35, Import::Into-1.002005, Importer-0.026, Inline-0.86, IO::Compress::Zip-2.212, IO::HTML-1.004, IO::Socket::SSL-2.087, IO::String-1.08, IO::Stringy-2.113, IO::TieCombine-1.005, IO::Tty-1.20, IO::Tty-1.20, IPC::Cmd-1.04, IPC::Run-20231003.0, IPC::Run3-0.049, IPC::System::Simple-1.30, JSON-4.10, JSON::MaybeXS-1.004005, JSON::XS-4.03, Lingua::EN::PluralToSingular-0.21, List::AllUtils-0.19, List::MoreUtils-0.430, List::MoreUtils::XS-0.430, List::SomeUtils-0.59, List::UtilsBy-0.12, local::lib-2.000029, Locale::Maketext::Simple-0.21, Log::Dispatch-2.71, Log::Dispatch::Array-1.005, Log::Dispatchouli-3.007, Log::Handler-0.90, Log::Log4perl-1.57, Log::Message-0.08, Log::Message::Simple-0.10, Log::Report-1.37, Log::Report::Optional-1.07, Logger::Simple-2.0, LWP::MediaTypes-6.04, LWP::Protocol::https-6.14, LWP::Simple-6.77, Mail::Util-2.21, Math::Bezier-0.01, Math::CDF-0.1, Math::Round-0.08, Math::Utils-1.14, Math::VecStat-0.08, MCE::Mutex-1.897, Meta::Builder-0.004, MIME::Base64-3.16, MIME::Charset-v1.013.1, MIME::Lite-3.033, MIME::Types-2.26, Mixin::Linewise::Readers-0.111, Mock::Quick-1.111, Module::Build-0.4234, Module::Build::Tiny-0.048, Module::Build::XSUtil-0.19, Module::CoreList-5.20240702, Module::Implementation-0.09, Module::Install-1.21, Module::Load-0.36, Module::Load::Conditional-0.74, Module::Metadata-1.000038, Module::Path-0.19, Module::Path-0.19, Module::Pluggable-5.2, Module::Runtime-0.016, Module::Runtime::Conflicts-0.003, Moo-2.005005, Moose-2.2207, MooseX::LazyRequire-0.11, MooseX::OneArgNew-0.007, MooseX::Role::Parameterized-1.11, MooseX::SetOnce-0.203, MooseX::Types-0.50, MooseX::Types::Perl-0.101344, Mouse-v2.5.10, Mozilla::CA-20240313, MRO::Compat-0.15, namespace::autoclean-0.29, namespace::clean-0.27, Net::Domain-3.15, Net::HTTP-6.23, Net::SMTP::SSL-1.04, Net::SNMP-v6.0.1, Net::SSLeay-1.94, Number::Compare-0.03, Number::Format-1.76, Object::Accessor-0.48, Object::InsideOut-4.05, Object::InsideOut-4.05, Package::Constants-0.06, Package::DeprecationManager-0.18, Package::Stash-0.40, Package::Stash::XS-0.30, PadWalker-2.5, Parallel::ForkManager-2.02, Params::Check-0.38, Params::Util-1.102, Params::Validate-1.31, Params::ValidationCompiler-0.31, parent-0.241, Parse::RecDescent-1.967015, Parse::Yapp-1.21, Path::Tiny-0.146, PDF::API2-2.047, Perl::OSType-1.010, Perl::PrereqScanner-1.100, PerlIO::utf8_strict-0.010, Pod::Elemental-0.103006, Pod::Escapes-1.07, Pod::Eventual-0.094003, Pod::LaTeX-0.61, Pod::Man-5.01, Pod::Parser-1.67, Pod::Plainer-1.04, Pod::POM-2.01, Pod::Simple-3.45, Pod::Weaver-4.020, PPI-1.278, Readonly-2.05, Ref::Util-0.204, Regexp::Common-2017060201, Role::HasMessage-0.007, Role::Identifiable::HasIdent-0.009, Role::Tiny-2.002004, Scalar::Util-1.63, Scalar::Util::Numeric-0.40, Scope::Guard-0.21, Set::Array-0.30, Set::IntervalTree-0.12, Set::IntSpan-1.19, Set::IntSpan::Fast-1.15, Set::Object-1.42, Set::Scalar-1.29, Shell-0.73, Socket-2.038, Software::License-0.104006, Specio-0.48, Spiffy-0.46, SQL::Abstract-2.000001, SQL::Statement-1.414, Statistics::Basic-1.6611, Statistics::Descriptive-3.0801, Storable-3.25, strictures-2.000006, String::Errf-0.009, String::Flogger-1.101246, String::Formatter-1.235, String::Print-0.94, String::RewritePrefix-0.009, String::Truncate-1.100603, String::TtyLength-0.03, Sub::Exporter-0.991, Sub::Exporter::ForMethods-0.100055, Sub::Exporter::GlobExporter-0.006, Sub::Exporter::Progressive-0.001013, Sub::Identify-0.14, Sub::Info-0.002, Sub::Install-0.929, Sub::Name-0.27, Sub::Quote-2.006008, Sub::Uplevel-0.2800, SVG-2.87, Switch-2.17, Sys::Info-0.7811, Sys::Info::Base-0.7807, Sys::Info::Driver::Linux-0.7905, Sys::Info::Driver::Unknown-0.79, Template-3.102, Template::Plugin::Number::Format-1.06, Term::Encoding-0.03, Term::ReadKey-2.38, Term::ReadLine::Gnu-1.46, Term::Table-0.018, Term::UI-0.50, Test-1.26, Test2::Plugin::NoWarnings-0.10, Test2::Require::Module-0.000163, Test::Base-0.89, Test::CheckDeps-0.010, Test::ClassAPI-1.07, Test::CleanNamespaces-0.24, Test::Deep-1.204, Test::Differences-0.71, Test::Exception-0.43, Test::FailWarnings-0.008, Test::Fatal-0.017, Test::File-1.993, Test::File::ShareDir::Dist-1.001002, Test::Harness-3.48, Test::LeakTrace-0.17, Test::Memory::Cycle-1.06, Test::More::UTF8-0.05, Test::Most-0.38, Test::Needs-0.002010, Test::NoWarnings-1.06, Test::Object-0.08, Test::Output-1.034, Test::Pod-1.52, Test::Requires-0.11, Test::RequiresInternet-0.05, Test::Simple-1.302199, Test::SubCalls-1.10, Test::Sys::Info-0.23, Test::Version-2.09, Test::Warn-0.37, Test::Warnings-0.033, Test::Without::Module-0.22, Test::YAML-1.07, Text::Aligner-0.16, Text::Balanced-2.06, Text::CSV-2.04, Text::CSV_XS-1.55, Text::Diff-1.45, Text::Format-0.62, Text::Glob-0.11, Text::Iconv-1.7, Text::Soundex-3.05, Text::Table-1.135, Text::Table::Manifold-1.03, Text::Template-1.61, Throwable-1.001, Tie::Function-0.02, Tie::IxHash-1.23, Time::Local-1.35, Time::Piece-1.3401, Time::Piece::MySQL-0.06, Tree::DAG_Node-1.32, Try::Tiny-0.31, Type::Tiny-2.004000, Types::Serialiser-1.01, Types::Serialiser-1.01, Unicode::EastAsianWidth-12.0, Unicode::LineBreak-2019.001, UNIVERSAL::moniker-0.08, Unix::Processors-2.046, Unix::Processors-2.046, URI-5.28, Variable::Magic-0.64, version-0.9932, Want-0.29, WWW::RobotRules-6.02, XML::Bare-0.53, XML::DOM-1.46, XML::Filter::BufferText-1.01, XML::NamespaceSupport-1.12, XML::Parser-2.47, XML::RegExp-0.04, XML::SAX-1.02, XML::SAX::Base-1.09, XML::SAX::Expat-0.51, XML::SAX::Writer-0.57, XML::Simple-2.25, XML::Tiny-2.07, XML::Twig-3.52, XML::Writer-0.900, XML::XPath-1.48, XSLoader-0.24, YAML-1.31, YAML::Tiny-1.74
 ## libxslt
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Libxslt is the XSLT C library developed for the GNOME project
+(but usable outside of the Gnome platform).
+### Homepage
+http://xmlsoft.org/
 ## sqlite
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+SQLite: SQL Database Engine in a C Library
+### Homepage
+https://www.sqlite.org/
 ## minimap2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Minimap2 is a fast sequence mapping and alignment
+program that can find overlaps between long noisy reads, or map long
+reads or their assemblies to a reference genome optionally with detailed
+alignment (i.e. CIGAR). At present, it works efficiently with query
+sequences from a few kilobases to ~100 megabases in length at an error
+rate ~15%. Minimap2 outputs in the PAF or the SAM format. On limited
+test data sets, minimap2 is over 20 times faster than most other
+long-read aligners. It will replace BWA-MEM for long reads and contig
+alignment.
+### Homepage
+https://github.com/lh3/minimap2
 ## cryptography
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
+### Homepage
+https://github.com/pyca/cryptography
 ## vcftools
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The aim of VCFtools is to provide
+easily accessible methods for working with complex
+genetic variation data in the form of VCF files.
+### Homepage
+https://vcftools.github.io
 ## libreadline
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The GNU Readline library provides a set of functions for use by applications
+that allow users to edit command lines as they are typed in. Both Emacs and
+vi editing modes are available. The Readline library includes additional
+functions to maintain a list of previously-entered command lines, to recall
+and perhaps reedit those lines, and perform csh-like history expansion on
+previous commands.
+### Homepage
+https://tiswww.case.edu/php/chet/readline/rltop.html
 ## numactl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The numactl program allows you to run your application program on specific
+cpu's and memory nodes. It does this by supplying a NUMA memory policy to
+the operating system before running your program. The libnuma library provides
+convenient ways for you to add NUMA memory policies into your own program.
+### Homepage
+https://github.com/numactl/numactl
 ## c-ares
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+c-ares is a C library for asynchronous DNS requests (including name resolves)
+### Homepage
+https://c-ares.org/
 ## libvori
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+C++ library implementing the Voronoi integration as well as the compressed bqb
+file format. The present version of libvori is a very early development
+version, which is hard-coded to work with the CP2k program package.
+### Homepage
+https://brehm-research.de/libvori.php
 ## smithwaterman
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+smith-waterman-gotoh alignment algorithm.
+### Homepage
+https://github.com/ekg/smithwaterman
 ## intltool
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+intltool is a set of tools to centralize translation of
+many different file formats using GNU gettext-compatible PO files.
+### Homepage
+https://freedesktop.org/wiki/Software/intltool/
 ## htseq
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+HTSeq is a Python library to facilitate processing and analysis
+of data from high-throughput sequencing (HTS) experiments.
+### Homepage
+https://github.com/simon-anders/htseq
+### Extensions
+HTSeq-2.0.2
 ## double-conversion
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
+### Homepage
+https://github.com/google/double-conversion
 ## libunwind
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The primary goal of libunwind is to define a portable and efficient C programming interface
+(API) to determine the call-chain of a program. The API additionally provides the means to manipulate the
+preserved (callee-saved) state of each call-frame and to resume execution at any point in the call-chain
+(non-local goto). The API supports both local (same-process) and remote (across-process) operation.
+As such, the API is useful in a number of applications
+### Homepage
+https://www.nongnu.org/libunwind/
 ## python
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Python is a programming language that lets you work more quickly and integrate your systems
+more effectively.
+### Homepage
+https://python.org/
 ## brunsli
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Brunsli is a lossless JPEG repacking library.
+### Homepage
+https://github.com/google/brunsli/
 ## ghostscript
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Ghostscript is a versatile processor for PostScript data with the ability to render PostScript to
+different targets. It used to be part of the cups printing stack, but is no longer used for that.
+### Homepage
+https://ghostscript.com
 ## help2man
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+help2man produces simple manual pages from the '--help' and '--version' output of other commands.
+### Homepage
+https://www.gnu.org/software/help2man/
 ## gdrcopy
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A low-latency GPU memory copy library based on NVIDIA GPUDirect RDMA technology.
+### Homepage
+https://github.com/NVIDIA/gdrcopy
 ## pocl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+PoCL is a portable open source (MIT-licensed) implementation
+of the OpenCL standard (1.2 with some 2.0 features supported).
+### Homepage
+http://portablecl.org
 ## jasper
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The JasPer Project is an open-source initiative to provide a free
+software-based reference implementation of the codec specified in
+the JPEG-2000 Part-1 standard.
+### Homepage
+https://www.ece.uvic.ca/~frodo/jasper/
 ## cd-hit
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+CD-HIT is a very widely used program for clustering and
+comparing protein or nucleotide sequences.
+### Homepage
+https://github.com/weizhongli/cdhit/wiki
 ## libev
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A full-featured and high-performance (see benchmark)
+event loop that is loosely modelled after libevent, but without its
+limitations and bugs. It is used in GNU Virtual Private Ethernet,
+rxvt-unicode, auditd, the Deliantra MORPG Server and Client, and many
+other programs.
+### Homepage
+http://software.schmorp.de/pkg/libev.html
 ## elfutils
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The elfutils project provides libraries and tools for ELF files
+and DWARF data.
+### Homepage
+https://elfutils.org/
 ## blast
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Basic Local Alignment Search Tool, or BLAST, is an algorithm for comparing primary biological
+sequence information, such as the amino-acid sequences of different proteins or the nucleotides of DNA sequences.
+### Homepage
+https://blast.ncbi.nlm.nih.gov/
 ## hisat2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads
+(both DNA and RNA) against the general human population (as well as against a single reference genome).
+### Homepage
+https://daehwankimlab.github.io/hisat2
 ## rapidjson
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A fast JSON parser/generator for C++ with both SAX/DOM style API
+### Homepage
+https://rapidjson.org
 ## flex
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Flex (Fast Lexical Analyzer) is a tool for generating scanners. A scanner,
+sometimes called a tokenizer, is a program which recognizes lexical patterns
+in text.
+### Homepage
+https://github.com/westes/flex
 ## fribidi
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The Free Implementation of the Unicode Bidirectional Algorithm.
+### Homepage
+https://github.com/fribidi/fribidi
 ## ucc
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+UCC (Unified Collective Communication) is a collective
+communication operations API and library that is flexible, complete, and
+feature-rich for current and emerging programming models and runtimes.
+### Homepage
+https://www.openucx.org/
 ## json-c
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+JSON-C implements a reference counting object model that allows you to easily construct JSON objects
+in C, output them as JSON formatted strings and parse JSON formatted strings back into the C representation of JSON
+objects.
+### Homepage
+https://github.com/json-c/json-c
 ## curl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+libcurl is a free and easy-to-use client-side URL transfer library,
+supporting DICT, FILE, FTP, FTPS, Gopher, HTTP, HTTPS, IMAP, IMAPS, LDAP,
+LDAPS, POP3, POP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, Telnet and TFTP.
+libcurl supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP
+form based upload, proxies, cookies, user+password authentication (Basic,
+Digest, NTLM, Negotiate, Kerberos), file transfer resume, http proxy tunneling
+and more.
+### Homepage
+https://curl.haxx.se
 ## util-linux
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Set of Linux utilities
+### Homepage
+https://www.kernel.org/pub/linux/utils/util-linux
 ## bbmap
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+BBMap short read aligner, and other bioinformatic tools.
+### Homepage
+https://sourceforge.net/projects/bbmap/
 ## libfabric
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Libfabric is a core component of OFI. It is the library that defines and exports
+the user-space API of OFI, and is typically the only software that applications
+deal with directly. It works in conjunction with provider libraries, which are
+often integrated directly into libfabric.
+### Homepage
+https://ofiwg.github.io/libfabric/
 ## tqdm
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A fast, extensible progress bar for Python and CLI
+### Homepage
+https://github.com/tqdm/tqdm
 ## nettle
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Nettle is a cryptographic library that is designed to fit easily
+in more or less any context: In crypto toolkits for object-oriented
+languages (C++, Python, Pike, ...), in applications like LSH or GNUPG,
+or even in kernel space.
+### Homepage
+https://www.lysator.liu.se/~nisse/nettle/
 ## kraken2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Kraken is a system for assigning taxonomic labels to short DNA sequences,
+usually obtained through metagenomic studies. Previous attempts by other
+bioinformatics software to accomplish this task have often used sequence
+alignment or machine learning techniques that were quite slow, leading to
+the development of less sensitive but much faster abundance estimation
+programs. Kraken aims to achieve high sensitivity and high speed by
+utilizing exact alignments of k-mers and a novel classification algorithm.
+### Homepage
+https://github.com/DerrickWood/kraken2/wiki
 ## cpio
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The cpio package contains tools for archiving.
+### Homepage
+https://savannah.gnu.org/projects/cpio/
 ## fastahack
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Utilities for indexing and sequence extraction from FASTA files.
+### Homepage
+https://github.com/ekg/fastahack
 ## bedtools
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+BEDTools: a powerful toolset for genome arithmetic.
+The BEDTools utilities allow one to address common genomics tasks such as finding feature overlaps and
+computing coverage.
+The utilities are largely based on four widely-used file formats: BED, GFF/GTF, VCF, and SAM/BAM.
+### Homepage
+https://bedtools.readthedocs.io/
 ## scipy-bundle
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Bundle of Python packages for scientific software
+### Homepage
+https://python.org/
+### Extensions
+beniget-0.4.1, Bottleneck-1.3.4, deap-1.3.3, gast-0.5.3, mpi4py-3.1.3, mpmath-1.2.1, numexpr-2.8.1, numpy-1.22.3, pandas-1.4.2, ply-3.11, pythran-0.11.0, scipy-1.8.1
 ## libiconv
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Libiconv converts from one character encoding to another through Unicode conversion
+### Homepage
+https://www.gnu.org/software/libiconv
 ## mpfr
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The MPFR library is a C library for multiple-precision floating-point
+computations with correct rounding.
+### Homepage
+https://www.mpfr.org
 ## bio-searchio-hmmer
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Code to parse output from hmmsearch, hmmscan, phmmer and nhmmer, compatible
+with both version 2 and version 3 of the HMMER package from http://hmmer.org.
+### Homepage
+https://metacpan.org/pod/Bio::SearchIO::hmmer3
 ## xerces-c++
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Xerces-C++ is a validating XML parser written in a portable
+subset of C++. Xerces-C++ makes it easy to give your application the ability to
+read and write XML data. A shared library is provided for parsing, generating,
+manipulating, and validating XML documents using the DOM, SAX, and SAX2
+APIs.
+### Homepage
+https://xerces.apache.org/xerces-c/
 ## p11-kit
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Provides a way to load and enumerate PKCS#11 modules.
+Provides a standard configuration setup for installing
+PKCS#11 modules in such a way that they're discoverable.
+Also solves problems with coordinating the use of PKCS#11
+by different components or libraries living in the same process.
+### Homepage
+https://p11-glue.freedesktop.org/p11-kit.html
 ## swig
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+SWIG is a software development tool that connects programs written in C and C++ with
+a variety of high-level programming languages.
+### Homepage
+http://www.swig.org/
 ## cmake
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+CMake, the cross-platform, open-source build system.  CMake is a family of
+tools designed to build, test and package software.
+### Homepage
+https://www.cmake.org
 ## armadillo
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Armadillo is an open-source C++ linear algebra library (matrix maths) aiming towards
+a good balance between speed and ease of use. Integer, floating point and complex numbers are supported,
+as well as a subset of trigonometric and statistics functions.
+### Homepage
+https://arma.sourceforge.net/
 ## quantumespresso
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Quantum ESPRESSO  is an integrated suite of computer codes
+for electronic-structure calculations and materials modeling at the nanoscale.
+It is based on density-functional theory, plane waves, and pseudopotentials
+(both norm-conserving and ultrasoft).
+### Homepage
+https://www.quantum-espresso.org
 ## fontconfig
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Fontconfig is a library designed to provide system-wide font configuration,
+customization and application access.
+### Homepage
+https://www.freedesktop.org/wiki/Software/fontconfig/
 ## libogg
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Ogg is a multimedia container format, and the native file and stream format for the Xiph.org
+multimedia codecs.
+### Homepage
+https://xiph.org/ogg/
 ## libnsl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The libnsl package contains the public client interface for NIS(YP).
+### Homepage
+https://github.com/thkukuk/libnsl
 ## libgit2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+libgit2 is a portable, pure C implementation of the Git core methods provided as a re-entrant
+linkable library with a solid API, allowing you to write native speed custom Git applications in any language
+which supports C bindings.
+### Homepage
+https://libgit2.org/
 ## mako
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A super-fast templating language that borrows the best ideas from the existing templating languages
+### Homepage
+https://www.makotemplates.org
 ## nghttp3
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+nghttp3 is an implementation of RFC 9114 HTTP/3
+mapping over QUIC and RFC 9204 QPACK in C.
+It does not depend on any particular QUIC transport implementation.
+### Homepage
+https://github.com/ngtcp2/nghttp3
 ## judy
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A C library that implements a dynamic array.
+### Homepage
+http://judy.sourceforge.net/
 ## foss
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GNU Compiler Collection (GCC) based compiler toolchain, including
+OpenMPI for MPI support, OpenBLAS (BLAS and LAPACK support), FFTW and ScaLAPACK.
+### Homepage
+https://easybuild.readthedocs.io/en/master/Common-toolchains.html#foss-toolchain
 ## libglvnd
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+libglvnd is a vendor-neutral dispatch layer for arbitrating OpenGL API calls between multiple vendors.
+### Homepage
+https://gitlab.freedesktop.org/glvnd/libglvnd
 ## hdf5
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+HDF5 is a data model, library, and file format for storing and managing data.
+It supports an unlimited variety of datatypes, and is designed for flexible
+and efficient I/O and for high volume and complex data.
+### Homepage
+https://portal.hdfgroup.org/display/support
 ## libint
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Libint library is used to evaluate the traditional (electron repulsion) and certain novel two-body
+matrix elements (integrals) over Cartesian Gaussian functions used in modern atomic and molecular theory.
+### Homepage
+https://github.com/evaleev/libint
 ## xml-libxml
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Perl binding for libxml2
+### Homepage
+https://metacpan.org/pod/distribution/XML-LibXML/LibXML.pod
+### Extensions
+Alien::Base-2.41, Alien::Libxml2-0.17, FFI::CheckLib-0.31, File::chdir-0.1010, Term::Table-0.024, Test2::V0-1.302209, XML::LibXML-2.0207
 ## seqtk
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FASTQ format.
+It seamlessly parses both FASTA and FASTQ files which can also be optionally compressed by gzip.
+### Homepage
+https://github.com/lh3/seqtk/
 ## clang
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+C, C++, Objective-C compiler, based on LLVM.  Does not
+include C++ standard library -- use libstdc++ from GCC.
+### Homepage
+https://clang.llvm.org/
 ## gtdb-tk
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
+### Homepage
+https://github.com/Ecogenomics/GTDBTk
 ## alsa-lib
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI functionality
+to the Linux operating system.
+### Homepage
+https://www.alsa-project.org
 ## mash
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Fast genome and metagenome distance estimation using MinHash
+### Homepage
+http://mash.readthedocs.org
 ## freetype
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+FreeType 2 is a software font engine that is designed to be small, efficient,
+highly customizable, and portable while capable of producing high-quality
+output (glyph images). It can be used in graphics libraries, display servers,
+font conversion tools, text image generation tools, and many other products
+as well.
+### Homepage
+https://www.freetype.org
 ## lxml
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The lxml XML toolkit is a Pythonic binding for the C libraries libxml2 and libxslt.
+### Homepage
+https://lxml.de/
 ## spades
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Genome assembler for single-cell and isolates data sets
+### Homepage
+https://github.com/ablab/spades
 ## libgeotiff
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Library for reading and writing coordinate system information from/to GeoTIFF files
+### Homepage
+https://directory.fsf.org/wiki/Libgeotiff
 ## blast+
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Basic Local Alignment Search Tool, or BLAST, is an algorithm
+for comparing primary biological sequence information, such as the amino-acid
+sequences of different proteins or the nucleotides of DNA sequences.
+### Homepage
+https://blast.ncbi.nlm.nih.gov/
 ## bwa
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Burrows-Wheeler Aligner (BWA) is an efficient program that aligns
+relatively short nucleotide sequences against a long reference sequence such as the human genome.
+### Homepage
+http://bio-bwa.sourceforge.net/
 ## qiime2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+QIIME is an open-source bioinformatics pipeline for performing microbiome analysis
+from raw DNA sequencing data.
+### Homepage
+http://qiime2.org/
 ## easybuild
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+EasyBuild is a software build and installation framework
+written in Python that allows you to install software in a structured,
+repeatable and robust way.
+### Homepage
+https://easybuilders.github.io/easybuild
 ## kallisto
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+kallisto is a program for quantifying abundances of transcripts from RNA-Seq data, or more generally
+of target sequences using high-throughput sequencing reads.
+### Homepage
+https://pachterlab.github.io/kallisto/
 ## ngtcp2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+'Call it TCP/2. One More Time.'
+ngtcp2 project is an effort to implement RFC9000 QUIC protocol.
+### Homepage
+https://github.com/ngtcp2/ngtcp2
 ## ssw
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+SSW is a fast implementation of the Smith-Waterman algorithm, which uses the
+Single-Instruction Multiple-Data (SIMD) instructions to parallelize the algorithm at the
+instruction level. SSW library provides an API that can be flexibly used by programs written in
+C, C++ and other languages. We also provide a software that can do protein and genome alignment
+directly. Current version of our implementation is ~50 times faster than an ordinary
+Smith-Waterman. It can return the Smith-Waterman score, alignment location and traceback path
+(cigar) of the optimal alignment accurately; and return the sub-optimal alignment score and
+location heuristically.
+### Homepage
+https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library
 ## nlopt
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+NLopt is a free/open-source library for nonlinear optimization,
+providing a common interface for a number of different free optimization routines
+available online as well as original implementations of various other algorithms.
+### Homepage
+http://ab-initio.mit.edu/wiki/index.php/NLopt
 ## htslib
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A C library for reading/writing high-throughput sequencing data.
+This package includes the utilities bgzip and tabix
+### Homepage
+https://www.htslib.org/
 ## busco
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+BUSCO: assessing genome assembly and annotation completeness with single-copy orthologs
+### Homepage
+https://busco.ezlab.org/
 ## cfitsio
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+CFITSIO is a library of C and Fortran subroutines for reading and writing data files in
+FITS (Flexible Image Transport System) data format.
+### Homepage
+http://heasarc.gsfc.nasa.gov/fitsio/
 ## atk
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+ATK provides the set of accessibility interfaces that are implemented by other
+toolkits and applications. Using the ATK interfaces, accessibility tools have
+full access to view and control running applications.
+### Homepage
+https://developer.gnome.org/atk/
 ## bzip2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+bzip2 is a freely available, patent free, high-quality data compressor. It
+typically compresses files to within 10% to 15% of the best available
+techniques (the PPM family of statistical compressors), whilst being around
+twice as fast at compression and six times faster at decompression.
+### Homepage
+https://sourceware.org/bzip2
 ## zstd
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Zstandard is a real-time compression algorithm, providing high compression ratios.
+It offers a very wide range of compression/speed trade-off, while being backed by a very fast decoder.
+It also offers a special mode for small data, called dictionary compression, and can create dictionaries
+from any sample set.
+### Homepage
+https://facebook.github.io/zstd
 ## jsoncpp
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+JsonCpp is a C++ library that allows manipulating JSON values,
+including serialization and deserialization to and from strings. It can also preserve existing comment in
+unserialization/serialization steps, making it a convenient format to store user input files.
+### Homepage
+https://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html
 ## imkl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Intel oneAPI Math Kernel Library
+### Homepage
+https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html
 ## isa-l
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Intelligent Storage Acceleration Library
+### Homepage
+https://github.com/intel/isa-l
 ## cairo
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Cairo is a 2D graphics library with support for multiple output devices.
+Currently supported output targets include the X Window System (via both Xlib and XCB), Quartz, Win32, image buffers,
+PostScript, PDF, and SVG file output. Experimental backends include OpenGL, BeOS, OS/2, and DirectFB
+### Homepage
+https://cairographics.org
 ## impi
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Intel MPI Library, compatible with MPICH ABI
+### Homepage
+https://software.intel.com/content/www/us/en/develop/tools/mpi-library.html
 ## aocl-blas
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+AOCL-BLAS is AMD's optimized version of
+BLAS targeted for AMD EPYC and Ryzen CPUs.
+### Homepage
+https://github.com/amd/blis
 ## libaec
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Libaec provides fast lossless compression of 1 up to 32 bit wide signed or unsigned integers
+(samples). The library achieves best results for low entropy data as often encountered in space imaging
+instrument data or numerical model output from weather or climate simulations. While floating point representations
+are not directly supported, they can also be efficiently coded by grouping exponents and mantissa.
+### Homepage
+https://gitlab.dkrz.de/k202009/libaec
 ## openmpi
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The Open MPI Project is an open source MPI-3 implementation.
+### Homepage
+https://www.open-mpi.org/
 ## automake
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Automake: GNU Standards-compliant Makefile generator
+### Homepage
+https://www.gnu.org/software/automake/automake.html
 ## openssl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured,
+and Open Source toolchain implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1)
+protocols as well as a full-strength general purpose cryptography library.
+### Homepage
+https://www.openssl.org/
 ## libglu
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The OpenGL Utility Library (GLU) is a computer graphics library for OpenGL.
+### Homepage
+https://gitlab.freedesktop.org/mesa/glu
 ## harfbuzz
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+HarfBuzz is an OpenType text shaping engine.
+### Homepage
+https://www.freedesktop.org/wiki/Software/HarfBuzz
 ## libidn
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GNU Libidn is a fully documented implementation of the Stringprep, Punycode and IDNA specifications.
+Libidn's purpose is to encode and decode internationalized domain names.
+### Homepage
+http://www.gnu.org/software/libidn
 ## gmp
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GMP is a free library for arbitrary precision arithmetic, operating on signed
+integers, rational numbers, and floating point numbers.
+### Homepage
+https://gmplib.org/
 ## openblas
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
+### Homepage
+https://www.openblas.net/
 ## beautifulsoup
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping.
+### Homepage
+https://www.crummy.com/software/BeautifulSoup
+### Extensions
+BeautifulSoup-4.10.0, soupsieve-2.3.1
 ## kronatools
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Krona Tools is a set of scripts to create Krona charts from
+several Bioinformatics tools as well as from text and XML files.
+### Homepage
+https://github.com/marbl/Krona/wiki/KronaTools
 ## vtk
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The Visualization Toolkit (VTK) is an open-source, freely available software system for
+3D computer graphics, image processing and visualization. VTK consists of a C++ class library and several
+interpreted interface layers including Tcl/Tk, Java, and Python. VTK supports a wide variety of visualization
+algorithms including: scalar, vector, tensor, texture, and volumetric methods; and advanced modeling techniques
+such as: implicit modeling, polygon reduction, mesh smoothing, cutting, contouring, and Delaunay triangulation.
+### Homepage
+https://www.vtk.org
 ## filevercmp
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+filevercmp function as in sort --version-sort.
+### Homepage
+https://github.com/ekg/filevercmp
 ## bcftools
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Samtools is a suite of programs for interacting with high-throughput sequencing data.
+BCFtools - Reading/writing BCF2/VCF/gVCF files and calling/filtering/summarising SNP and short indel sequence
+variants
+### Homepage
+https://www.htslib.org/
 ## star
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+STAR aligns RNA-seq reads to a reference genome using uncompressed suffix arrays.
+### Homepage
+https://github.com/alexdobin/STAR
 ## sdl2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+SDL: Simple DirectMedia Layer, a cross-platform multimedia library
+### Homepage
+https://www.libsdl.org/
 ## libtool
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GNU libtool is a generic library support script. Libtool hides the complexity
+of using shared libraries behind a consistent, portable interface.
+### Homepage
+https://www.gnu.org/software/libtool
 ## lit
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+lit is a portable tool for executing LLVM and Clang style test suites, summarizing their results, and
+providing indication of failures.
+### Homepage
+https://llvm.org/docs/CommandGuide/lit.html
+### Extensions
+lit-18.1.7, pexpect-4.9.0, ptyprocess-0.7.0
 ## llvm
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The LLVM Core libraries provide a modern source- and target-independent
+optimizer, along with code generation support for many popular CPUs
+(as well as some less common ones!) These libraries are built around a well
+specified code representation known as the LLVM intermediate representation
+("LLVM IR"). The LLVM Core libraries are well documented, and it is
+particularly easy to invent your own language (or port an existing compiler)
+to use LLVM as an optimizer and code generator.
+### Homepage
+https://llvm.org/
 ## prrte
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+PRRTE is the PMIx Reference RunTime Environment
+### Homepage
+https://docs.prrte.org/
 ## mono
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+An open source, cross-platform, implementation of C# and the CLR that is
+binary compatible with Microsoft.NET.
+### Homepage
+https://www.mono-project.com/
 ## compress-raw-zlib
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Low-Level Interface to zlib or zlib-ng compression library
+### Homepage
+https://metacpan.org/pod/Compress::Raw::Zlib
 ## jansson
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Jansson is a C library for encoding, decoding and manipulating JSON data.
+Its main features and design principles are:
+* Simple and intuitive API and data model
+* Comprehensive documentation
+* No dependencies on other libraries
+* Full Unicode support (UTF-8)
+* Extensive test suite
+### Homepage
+https://www.digip.org/jansson/
 ## gsl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The GNU Scientific Library (GSL) is a numerical library for C and C++ programmers.
+The library provides a wide range of mathematical routines such as random number generators, special functions
+and least-squares fitting.
+### Homepage
+https://www.gnu.org/software/gsl/
 ## libjpeg-turbo
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+libjpeg-turbo is a fork of the original IJG libjpeg which uses SIMD to
+accelerate baseline JPEG compression and decompression. libjpeg is a library
+that implements JPEG image encoding, decoding and transcoding.
+### Homepage
+https://sourceforge.net/projects/libjpeg-turbo/
 ## gdk-pixbuf
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The Gdk Pixbuf is a toolkit for image loading and pixel buffer manipulation.
+It is used by GTK+ 2 and GTK+ 3 to load and manipulate images. In the past it
+was distributed as part of GTK+ 2 but it was split off into a separate package
+in preparation for the change to GTK+ 3.
+### Homepage
+https://docs.gtk.org/gdk-pixbuf/
 ## nspr
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Netscape Portable Runtime (NSPR) provides a platform-neutral API for system level
+and libc-like functions.
+### Homepage
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR
 ## ant
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Apache Ant is a Java library and command-line tool whose mission is to drive processes described in
+build files as targets and extension points dependent upon each other. The main known usage of Ant is the build of
+Java applications.
+### Homepage
+https://ant.apache.org/
 ## gtk2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The GTK+ 2 package contains libraries used for creating graphical user interfaces for applications.
+### Homepage
+https://www.gtk.org
 ## voro++
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Voro++ is a software library for carrying out three-dimensional computations of the Voronoi
+tessellation. A distinguishing feature of the Voro++ library is that it carries out cell-based calculations,
+computing the Voronoi cell for each particle individually. It is particularly well-suited for applications that
+rely on cell-based statistics, where features of Voronoi cells (eg. volume, centroid, number of faces) can be used
+to analyze a system of particles.
+### Homepage
+http://math.lbl.gov/voro++/
 ## x264
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+x264 is a free software library and application for encoding video streams
+into the H.264/MPEG-4 AVC compression format, and is released under the
+terms of the GNU GPL.
+### Homepage
+https://www.videolan.org/developers/x264.html
 ## libopus
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Opus is a totally open, royalty-free, highly versatile audio codec. Opus is unmatched for interactive
+speech and music transmission over the Internet, but is also intended for storage and streaming applications. It is
+standardized by the Internet Engineering Task Force (IETF) as RFC 6716 which incorporated technology from Skype’s
+SILK codec and Xiph.Org’s CELT codec.
+### Homepage
+https://www.opus-codec.org/
 ## networkx
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+NetworkX is a Python package for the creation, manipulation,
+and study of the structure, dynamics, and functions of complex networks.
+### Homepage
+https://pypi.python.org/pypi/networkx
 ## augustus
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences
+### Homepage
+https://bioinf.uni-greifswald.de/augustus/
 ## tabixpp
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+C++ wrapper to tabix indexer
+### Homepage
+https://github.com/ekg/tabixpp
 ## dbus
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+D-Bus is a message bus system, a simple way for applications to talk
+to one another.  In addition to interprocess communication, D-Bus helps
+coordinate process lifecycle; it makes it simple and reliable to code
+a "single instance" application or daemon, and to launch applications
+and daemons on demand when their services are needed.
+### Homepage
+https://dbus.freedesktop.org/
 ## samtools
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+SAM Tools provide various utilities for manipulating alignments in the SAM format,
+including sorting, merging, indexing and generating alignments in a per-position format.
+### Homepage
+https://www.htslib.org/
 ## flac
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless, meaning
+that audio is compressed in FLAC without any loss in quality.
+### Homepage
+https://xiph.org/flac/
 ## pybind11
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+pybind11 is a lightweight header-only library that exposes C++ types in Python and vice versa,
+mainly to create Python bindings of existing C++ code.
+### Homepage
+https://pybind11.readthedocs.io
 ## metaeuk
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+MetaEuk is a modular toolkit designed for large-scale gene discovery and annotation in eukaryotic
+metagenomic contigs.
+### Homepage
+https://metaeuk.soedinglab.org
 ## blis
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+BLIS is a portable software framework for instantiating high-performance
+BLAS-like dense linear algebra libraries.
+### Homepage
+https://github.com/flame/blis/
 ## jags
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+JAGS is Just Another Gibbs Sampler.  It is a program for analysis
+of Bayesian hierarchical models using Markov Chain Monte Carlo (MCMC) simulation
+### Homepage
+http://mcmc-jags.sourceforge.net/
 ## xorg-macros
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+X.org macros utilities.
+### Homepage
+https://gitlab.freedesktop.org/xorg/util/macros
 ## multichoose
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+generate multiset combinations (n multichoose k).
+### Homepage
+https://github.com/ekg/multichoose
 ## stringtie
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+StringTie is a fast and highly efficient assembler of RNA-Seq alignments into potential transcripts
+### Homepage
+https://ccb.jhu.edu/software/stringtie/
 ## cffi
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+C Foreign Function Interface for Python. Interact with almost any C code from
+Python, based on C-like declarations that you can often copy-paste from header
+files or documentation.
+### Homepage
+https://cffi.readthedocs.io/en/latest/
+### Extensions
+cffi-1.15.1, pycparser-2.21
 ## gtk3
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GTK+ is the primary library used to construct user interfaces in GNOME. It
+provides all the user interface controls, or widgets, used in a common
+graphical application. Its object-oriented API allows you to construct
+user interfaces without dealing with the low-level details of drawing and
+device interaction.
+### Homepage
+https://developer.gnome.org/gtk3/stable/
 ## diamond
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Accelerated BLAST compatible local sequence aligner
+### Homepage
+https://github.com/bbuchfink/diamond
 ## binutils
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+binutils: GNU binary utilities
+### Homepage
+https://directory.fsf.org/project/binutils/
 ## brotli
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination
+of a modern variant of the LZ77 algorithm, Huffman coding and 2nd order context modeling, with a compression ratio
+comparable to the best currently available general-purpose compression methods. It is similar in speed with deflate
+but offers more dense compression.
+The specification of the Brotli Compressed Data Format is defined in RFC 7932.
+### Homepage
+https://github.com/google/brotli
 ## cellranger-arc
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Cell Ranger ARC is a set of analysis pipelines that process
+Chromium Single Cell Multiome ATAC + Gene Expression sequencing data to generate a
+variety of analyses pertaining to gene expression, chromatin accessibility and
+their linkage. Furthermore, since the ATAC and gene expression measurements are on
+the very same cell, we are able to perform analyses that link chromatin
+accessibility and gene expression.
+### Homepage
+https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/what-is-cell-ranger-arc
 ## tbl2asn
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Tbl2asn is a command-line program that automates the creation of
+sequence records for submission to GenBank
+### Homepage
+https://www.ncbi.nlm.nih.gov/genbank/tbl2asn2/
 ## pcre2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The PCRE library is a set of functions that implement regular expression pattern matching using the same syntax
+and semantics as Perl 5.
+### Homepage
+https://www.pcre.org/
 ## imath
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Imath is a C++ and python library of 2D and 3D vector, matrix, and math operations for computer graphics
+### Homepage
+https://imath.readthedocs.io/en/latest/
 ## tbb
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Intel(R) Threading Building Blocks (Intel(R) TBB) lets you easily write parallel C++ programs that
+take full advantage of multicore performance, that are portable, composable and have future-proof scalability.
+### Homepage
+https://github.com/oneapi-src/oneTBB
 ## vcflib
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+vcflib provides methods to manipulate and interpret sequence variation as it can be
+described by VCF. The Variant Call Format (VCF) is a flat-file, tab-delimited textual format intended
+to concisely describe reference-indexed genetic variations between individuals.
+### Homepage
+https://github.com/vcflib/vcflib
 ## intel-compilers
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Intel C, C++ & Fortran compilers (classic and oneAPI)
+### Homepage
+https://software.intel.com/content/www/us/en/develop/tools/oneapi/hpc-toolkit.html
 ## parallel
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+parallel: Build and execute shell commands in parallel
+### Homepage
+https://savannah.gnu.org/projects/parallel/
 ## trinity
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Trinity represents a novel method for the efficient and robust de novo reconstruction
+of transcriptomes from RNA-Seq data. Trinity combines three independent software modules: Inchworm,
+Chrysalis, and Butterfly, applied sequentially to process large volumes of RNA-Seq reads.
+### Homepage
+https://trinityrnaseq.github.io
 ## libpciaccess
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Generic PCI access library.
+### Homepage
+https://cgit.freedesktop.org/xorg/lib/libpciaccess/
 ## ffmpeg
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A complete, cross-platform solution to record, convert and stream audio and video.
+### Homepage
+https://www.ffmpeg.org/
 ## boost
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Boost provides free peer-reviewed portable C++ source libraries.
+### Homepage
+https://www.boost.org/
 ## lapack
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+LAPACK is written in Fortran90 and provides routines for solving systems of
+simultaneous linear equations, least-squares solutions of linear systems of equations, eigenvalue
+problems, and singular value problems.
+### Homepage
+https://www.netlib.org/lapack/
 ## libcerf
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+libcerf is a self-contained numeric library that provides an efficient and
+accurate implementation of complex error functions, along with Dawson,
+Faddeeva, and Voigt functions.
+### Homepage
+https://jugit.fz-juelich.de/mlz/libcerf
 ## bowtie
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Bowtie is an ultrafast, memory-efficient short read aligner.
+It aligns short DNA sequences (reads) to the human genome.
+### Homepage
+http://bowtie-bio.sourceforge.net/index.shtml
 ## make
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GNU version of make utility
+### Homepage
+https://www.gnu.org/software/make/make.html
 ## pillow
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Pillow is the 'friendly PIL fork' by Alex Clark and Contributors.
+PIL is the Python Imaging Library by Fredrik Lundh and Contributors.
+### Homepage
+https://pillow.readthedocs.org/
 ## ansys-dependencies
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A collection of software to meet the requirements of Ansys.
+### Homepage
+https://www.ansys.com/
 ## snakemake
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.
+### Homepage
+https://snakemake.readthedocs.io
+### Extensions
+amply-0.1.4, ConfigArgParse-1.5.1, connection_pool-0.0.3, datrie-0.8.2, PuLP-2.4, ratelimiter-1.2.0.post0, smart_open-4.2.0, snakemake-6.6.1, stopit-1.1.2, toposort-1.6, wrapt-1.12.1
 ## prokka
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Prokka is a software tool for the rapid annotation of prokaryotic genomes.
+### Homepage
+https://www.vicbioinformatics.com/software.prokka.shtml
 ## canu
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Canu is a fork of the Celera Assembler designed for high-noise single-molecule sequencing
+### Homepage
+https://canu.readthedocs.io
 ## miniconda3
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Miniconda is a free minimal installer for conda. It is a small,
+bootstrap version of Anaconda that includes only conda, Python, the packages they
+depend on, and a small number of other useful packages.
+### Homepage
+https://docs.conda.io/en/latest/miniconda.html
 ## pixman
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Pixman is a low-level software library for pixel manipulation, providing
+features such as image compositing and trapezoid rasterization. Important
+users of pixman are the cairo graphics library and the X server.
+### Homepage
+http://www.pixman.org/
 ## fftw
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+FFTW is a C subroutine library for computing the discrete Fourier transform (DFT)
+in one or more dimensions, of arbitrary input size, and of both real and complex data.
+### Homepage
+http://www.fftw.org
 ## googletest
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Google's framework for writing C++ tests on a variety of platforms
+### Homepage
+https://github.com/google/googletest
 ## vscode
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Visual Studio Code is a lightweight but powerful source code editor
+which runs on your desktop and is available for Windows, macOS and
+Linux. It comes with built-in support for JavaScript, TypeScript and
+Node.js and has a rich ecosystem of extensions for other languages
+and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). Begin
+your journey with VS Code with these introductory videos.
+### Homepage
+https://code.visualstudio.com/
 ## metis
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+METIS is a set of serial programs for partitioning graphs, partitioning
+finite element meshes, and producing fill reducing orderings for sparse
+matrices. The algorithms implemented in METIS are based on the multilevel
+recursive-bisection, multilevel k-way, and multi-constraint partitioning
+schemes.
+### Homepage
+https://karypis.github.io/glaros/projects/gp.html
 ## elpa
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Eigenvalue SoLvers for Petaflop-Applications .
+### Homepage
+https://elpa.mpcdf.mpg.de
 ## java
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Java Platform, Standard Edition (Java SE) lets you develop and deploy
+Java applications on desktops and servers.
+### Homepage
+https://openjdk.org
 ## mariadb
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+MariaDB is an enhanced, drop-in replacement for MySQL.
+Included engines: myISAM, Aria, InnoDB, RocksDB, TokuDB, OQGraph, Mroonga.
+### Homepage
+https://mariadb.org/
 ## pkg-config
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+pkg-config is a helper tool used when compiling applications and libraries.
+It helps you insert the correct compiler options on the command line so an
+application can use gcc -o test test.c `pkg-config --libs --cflags glib-2.0`
+for instance, rather than hard-coding values on where to find glib (or other
+libraries).
+### Homepage
+https://www.freedesktop.org/wiki/Software/pkg-config/
 ## gompi
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GNU Compiler Collection (GCC) based compiler toolchain,
+including OpenMPI for MPI support.
+### Homepage
+(none)
 ## sra-toolkit
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The SRA Toolkit, and the source-code SRA System Development
+Kit (SDK), will allow you to programmatically access data housed within SRA
+and convert it from the SRA format
+### Homepage
+https://github.com/ncbi/sra-tools
 ## python-isal
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Faster zlib and gzip compatible compression and decompression
+by providing python bindings for the isa-l library.
+### Homepage
+https://github.com/pycompression/python-isal
 ## fermi-lite
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Standalone C library for assembling Illumina short reads in small regions.
+### Homepage
+https://github.com/lh3/fermi-lite
 ## trimmomatic
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Trimmomatic performs a variety of useful trimming tasks for illumina
+paired-end and single ended data.The selection of trimming steps and their associated
+parameters are supplied on the command line.
+### Homepage
+http://www.usadellab.org/cms/?page=trimmomatic
 ## popt
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Popt is a C library for parsing command line parameters.
+### Homepage
+http://freecode.com/projects/popt
 ## miller
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+### Homepage
+https://miller.readthedocs.io/
 ## ucx
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Unified Communication X
+An open-source production grade communication framework for data centric
+and high-performance applications
+### Homepage
+https://www.openucx.org/
 ## pmix
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Process Management for Exascale Environments
+PMI Exascale (PMIx) represents an attempt to
+provide an extended version of the PMI standard specifically designed
+to support clusters up to and including exascale sizes. The overall
+objective of the project is not to branch the existing pseudo-standard
+definitions - in fact, PMIx fully supports both of the existing PMI-1
+and PMI-2 APIs - but rather to (a) augment and extend those APIs to
+eliminate some current restrictions that impact scalability, and (b)
+provide a reference implementation of the PMI-server that demonstrates
+the desired level of scalability.
+### Homepage
+https://pmix.org/
 ## wget
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GNU Wget is a free software package for retrieving files using HTTP, HTTPS and FTP,
+the most widely-used Internet protocols. It is a non-interactive commandline tool,
+so it may easily be called from scripts, cron jobs, terminals without X-Windows support, etc.
+### Homepage
+https://www.gnu.org/software/wget
 ## ncurses
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The Ncurses (new curses) library is a free software emulation of curses in
+System V Release 4.0, and more. It uses Terminfo format, supports pads and
+color and multiple highlights and forms characters and function-key mapping,
+and has all the other SYSV-curses enhancements over BSD Curses.
+### Homepage
+https://www.gnu.org/software/ncurses/
 ## gfbf
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GNU Compiler Collection (GCC) based compiler toolchain, including
+FlexiBLAS (BLAS and LAPACK support) and (serial) FFTW.
+### Homepage
+(none)
 ## cython
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Cython is an optimising static compiler for both the Python programming
+language and the extended Cython programming language (based on Pyrex).
+### Homepage
+https://cython.org/
 ## pkgconfig
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+pkgconfig is a Python module to interface with the pkg-config command line tool
+### Homepage
+https://github.com/matze/pkgconfig
 ## makeinfo
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+makeinfo is part of the Texinfo project, the official documentation format of the GNU project.
+This is a minimal build with very basic functionality. Should only be used for build dependencies.
+### Homepage
+https://www.gnu.org/software/texinfo/
 ## libpng
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+libpng is the official PNG reference library
+### Homepage
+http://www.libpng.org/pub/png/libpng.html
 ## pango
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Pango is a library for laying out and rendering of text, with an emphasis on internationalization.
+Pango can be used anywhere that text layout is needed, though most of the work on Pango so far has been done in the
+context of the GTK+ widget toolkit. Pango forms the core of text and font handling for GTK+-2.x.
+### Homepage
+https://www.pango.org/
 ## file
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The file command is 'a file type guesser', that is, a command-line tool
+that tells you in words what kind of data a file contains.
+### Homepage
+https://www.darwinsys.com/file/
 ## gcta
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GCTA (Genome-wide Complex Trait Analysis) is a software package, which was
+initially developed to estimate the proportion of phenotypic variance explained
+by all genome-wide SNPs for a complex trait but has been extensively extended
+for many other analyses of data from genome-wide association studies (GWASs).
+### Homepage
+https://yanglab.westlake.edu.cn/software/gcta/
 ## db_file
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Perl5 access to Berkeley DB version 1.x.
+### Homepage
+https://perldoc.perl.org/DB_File.html
 ## libevent
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The libevent API provides a mechanism to execute a callback function when
+a specific event occurs on a file descriptor or after a timeout has been
+reached.  Furthermore, libevent also support callbacks due to signals or
+regular timeouts.
+### Homepage
+https://libevent.org/
 ## yasm
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Yasm: Complete rewrite of the NASM assembler with BSD license
+### Homepage
+https://www.tortall.net/projects/yasm/
 ## libepoxy
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Epoxy is a library for handling OpenGL function pointer management for you
+### Homepage
+https://github.com/anholt/libepoxy
 ## gdal
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GDAL is a translator library for raster geospatial data formats that is released under an X/MIT style
+Open Source license by the Open Source Geospatial Foundation. As a library, it presents a single abstract data model
+to the calling application for all supported formats. It also comes with a variety of useful commandline utilities for
+data translation and processing.
+### Homepage
+https://www.gdal.org
 ## doxygen
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Doxygen is a documentation system for C++, C, Java, Objective-C, Python,
+IDL (Corba and Microsoft flavors), Fortran, VHDL, PHP, C#, and to some
+extent D.
+### Homepage
+https://www.doxygen.org
 ## prodigal
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Prodigal (Prokaryotic Dynamic Programming Genefinding Algorithm)
+is a microbial (bacterial and archaeal) gene finding program developed
+at Oak Ridge National Laboratory and the University of Tennessee.
+### Homepage
+https://github.com/hyattpd/Prodigal/
 ## gnuplot
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Portable interactive, function plotting utility
+### Homepage
+http://gnuplot.sourceforge.net/
 ## hwloc
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The Portable Hardware Locality (hwloc) software package provides a portable
+abstraction (across OS, versions, architectures, ...) of the hierarchical
+topology of modern architectures, including NUMA memory nodes, sockets, shared
+caches, cores and simultaneous multithreading. It also gathers various system
+attributes such as cache and memory information as well as the locality of I/O
+devices such as network interfaces, InfiniBand HCAs or GPUs. It primarily
+aims at helping applications with gathering information about modern computing
+hardware so as to exploit it accordingly and efficiently.
+### Homepage
+https://www.open-mpi.org/projects/hwloc/
 ## gcc
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Java, and Ada,
+as well as libraries for these languages (libstdc++, libgcj,...).
+### Homepage
+https://gcc.gnu.org/
 ## h5py
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+HDF5 for Python (h5py) is a general-purpose Python interface to the Hierarchical Data Format library,
+version 5. HDF5 is a versatile, mature scientific software library designed for the fast, flexible storage of enormous
+amounts of data.
+### Homepage
+https://www.h5py.org/
 ## hdf
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+HDF (also known as HDF4) is a library and multi-object file format for
+storing and managing data between machines.
+### Homepage
+https://support.hdfgroup.org/products/hdf4/
 ## libaio
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Asynchronous input/output library that uses the kernels native interface.
+### Homepage
+https://pagure.io/libaio
 ## libxml2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Libxml2 is the XML C parser and toolchain developed for the Gnome project
+(but usable outside of the Gnome platform).
+### Homepage
+http://xmlsoft.org/
 ## quast
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+QUAST evaluates genome assemblies by computing various metrics.
+It works both with and without reference genomes. The tool accepts multiple
+assemblies, thus is suitable for comparison.
+### Homepage
+https://github.com/ablab/quast
+### Extensions
+QUAST-5.2.0
 ## ngs
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+NGS is a new, domain-specific API for accessing reads, alignments and pileups
+produced from Next Generation Sequencing.
+### Homepage
+https://github.com/ncbi/ngs
 ## ncbi-vdb
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The SRA Toolkit and SDK from NCBI is a collection of tools and libraries for
+using data in the INSDC Sequence Read Archives.
+### Homepage
+https://github.com/ncbi/ncbi-vdb
 ## nasm
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+NASM: General-purpose x86 assembler
+### Homepage
+https://www.nasm.us/
 ## git
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Git is a free and open source distributed version control system designed
+to handle everything from small to very large projects with speed and efficiency.
+### Homepage
+https://git-scm.com
 ## fastp
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A tool designed to provide fast all-in-one preprocessing for FastQ files.
+This tool is developed in C++ with multithreading supported to afford high performance.
+### Homepage
+https://github.com/OpenGene/fastp
 ## tmux
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+tmux is a terminal multiplexer: it enables a number of
+terminals to be created, accessed, and controlled from a single screen. tmux
+may be detached from a screen and continue running in the background, then
+later reattached.
+### Homepage
+https://github.com/tmux/tmux/
 ## imkl-fftw
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+FFTW interfaces using Intel oneAPI Math Kernel Library
+### Homepage
+https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html
 ## pigz
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+pigz, which stands for parallel implementation of gzip, is a fully
+functional replacement for gzip that exploits multiple processors and multiple
+cores to the hilt when compressing data. pigz was written by Mark Adler, and
+uses the zlib and pthread libraries.
+### Homepage
+https://zlib.net/pigz/
 ## fftw.mpi
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+FFTW is a C subroutine library for computing the discrete Fourier transform (DFT)
+in one or more dimensions, of arbitrary input size, and of both real and complex data.
+### Homepage
+https://www.fftw.org
 ## dbd-mysql
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Perl binding for MySQL
+### Homepage
+https://metacpan.org/pod/distribution/DBD-mysql/lib/DBD/mysql.pm
 ## guile
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Guile is a programming language, designed to help programmers create flexible
+applications that can be extended by users or other programmers with plug-ins,
+modules, or scripts.
+### Homepage
+https://www.gnu.org/software/guile/
 ## unzip
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+UnZip is an extraction utility for archives compressed
+in .zip format (also called "zipfiles"). Although highly compatible both
+with PKWARE's PKZIP and PKUNZIP utilities for MS-DOS and with Info-ZIP's
+own Zip program, our primary objectives have been portability and
+non-MSDOS functionality.
+### Homepage
+http://www.info-zip.org/UnZip.html
 ## qt5
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Qt is a comprehensive cross-platform C++ application framework.
+### Homepage
+https://qt.io/
 ## libpsl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+C library for the Public Suffix List
+### Homepage
+https://rockdaboot.github.io/libpsl
 ## graphite2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Graphite is a "smart font" system developed specifically to
+handle the complexities of lesser-known languages of the world.
+### Homepage
+https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_home
 ## cunit
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Automated testing framework for C.
+### Homepage
+https://sourceforge.net/projects/cunit/
 ## nghttp2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This is an implementation of the Hypertext Transfer Protocol version 2 in C.
+The framing layer of HTTP/2 is implemented as a reusable C library.
+On top of that, we have implemented an HTTP/2 client, server and proxy.
+We have also developed load test and benchmarking tools for HTTP/2.
+An HPACK encoder and decoder are available as a public API.
+### Homepage
+https://github.com/nghttp2/nghttp2
 ## flexiblas
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+FlexiBLAS is a wrapper library that enables the exchange of the BLAS and LAPACK implementation
+used by a program without recompiling or relinking it.
+### Homepage
+https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release
 ## cutadapt
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Cutadapt finds and removes adapter sequences, primers, poly-A tails and
+other types of unwanted sequence from your high-throughput sequencing reads.
+### Homepage
+https://opensource.scilifelab.se/projects/cutadapt/
+### Extensions
+cutadapt-3.4, dnaio-0.5.1, xopen-1.1.0
 ## proj
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Program proj is a standard Unix filter function which converts
+geographic longitude and latitude coordinates into cartesian coordinates
+### Homepage
+https://proj.org
 ## openbabel
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Open Babel is a chemical toolbox designed to speak the many
+languages of chemical data. It's an open, collaborative project allowing anyone
+to search, convert, analyze, or store data from molecular modeling, chemistry,
+solid-state materials, biochemistry, or related areas.
+### Homepage
+https://openbabel.org
 ## poetry
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Python packaging and dependency management made easy. Poetry helps you declare, manage and install
+dependencies of Python projects, ensuring you have the right stack everywhere.
+### Homepage
+https://python-poetry.org
+### Extensions
+attrs-23.1.0, build-0.10.0, CacheControl-0.12.14, certifi-2023.5.7, charset-normalizer-3.1.0, cleo-2.0.1, crashtest-0.4.1, dulwich-0.21.5, html5lib-1.1, idna-3.4, importlib_metadata-6.7.0, installer-0.7.0, jaraco.classes-3.2.3, jeepney-0.8.0, jsonschema-4.17.3, keyring-23.13.1, lockfile-0.12.2, more-itertools-9.1.0, msgpack-1.0.5, pexpect-4.8.0, pkginfo-1.9.6, platformdirs-3.8.0, poetry-1.5.1, poetry_core-1.6.1, poetry_plugin_export-1.4.0, ptyprocess-0.7.0, pyproject_hooks-1.0.0, pyrsistent-0.19.3, rapidfuzz-2.15.1, requests-2.31.0, requests-toolbelt-1.0.0, SecretStorage-3.3.3, shellingham-1.5.0, six-1.16.0, tomlkit-0.11.8, urllib3-1.26.16, webencodings-0.5.1, zipp-3.15.0
 ## arpack-ng
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+ARPACK is a collection of Fortran77 subroutines designed to solve large scale eigenvalue problems.
+### Homepage
+https://github.com/opencollab/arpack-ng
 ## humann
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+HUMAnN v3 is a pipeline for efficiently
+and accurately determining the coverage and abundance
+of microbial pathways in a community from metagenomic data.
+Sequencing a metagenome typically produces millions
+of short DNA/RNA reads. This process, referred
+to as functional profiling, aims to describe the metabolic potential
+of a microbial community and its members. More generally,
+functional profiling answers the question:
+What are the microbes in my community-of-interest doing (or capable of doing)?
+### Homepage
+http://huttenhower.sph.harvard.edu/humann
+### Extensions
+humann-3.6
 ## lerc
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+LERC is an open-source image or raster format which supports rapid encoding and decoding
+for any pixel type (not just RGB or Byte). Users set the maximum compression error per pixel while encoding,
+so the precision of the original input image is preserved (within user defined error bounds).
+### Homepage
+https://github.com/Esri/lerc
 ## iimpi
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Intel C/C++ and Fortran compilers, alongside Intel MPI.
+### Homepage
+https://software.intel.com/parallel-studio-xe
 ## hypothesis
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Hypothesis is an advanced testing library for Python. It lets you write tests which are parametrized
+by a source of examples, and then generates simple and comprehensible examples that make your tests fail. This lets
+you find more bugs in your code with less work.
+### Homepage
+https://github.com/HypothesisWorks/hypothesis
 ## fastqc
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+FastQC is a quality control application for high throughput
+sequence data. It reads in sequence data in a variety of formats and can either
+provide an interactive application to review the results of several different
+QC checks, or create an HTML based report which can be integrated into a
+pipeline.
+### Homepage
+https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 ## nccl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The NVIDIA Collective Communications Library (NCCL) implements multi-GPU and multi-node collective
+communication primitives that are performance optimized for NVIDIA GPUs.
+### Homepage
+https://developer.nvidia.com/nccl
 ## virtualgl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+VirtualGL is an open source toolkit that gives any Linux or
+Unix remote display software the ability to run OpenGL applications with full
+hardware acceleration.
+### Homepage
+https://virtualgl.org/
 ## libxc
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Libxc is a library of exchange-correlation functionals for density-functional theory.
+The aim is to provide a portable, well tested and reliable set of exchange and correlation functionals.
+### Homepage
+https://libxc.gitlab.io
 ## scafacos
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+ScaFaCoS is a library of scalable fast coulomb solvers.
+### Homepage
+http://www.scafacos.de/
 ## interproscan
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+InterProScan is a sequence analysis application (nucleotide and protein sequences) that combines
+different protein signature recognition methods into one resource - code only: libraries and external binaries
+but no data.
+### Homepage
+https://www.ebi.ac.uk/interpro/
 ## openjpeg
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+OpenJPEG is an open-source JPEG 2000 codec written in
+C language. It has been developed in order to promote the use of JPEG 2000,
+a still-image compression standard from the Joint Photographic Experts Group
+(JPEG). Since may 2015, it is officially recognized by ISO/IEC and ITU-T as
+a JPEG 2000 Reference Software.
+### Homepage
+https://www.openjpeg.org/
 ## catch2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A modern, C++-native, header-only,
+test framework for unit-tests, TDD and BDD
+- using C++11, C++14, C++17 and later
+### Homepage
+https://github.com/catchorg/Catch2
 ## lpsolve
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Mixed Integer Linear Programming (MILP) solver
+### Homepage
+https://sourceforge.net/projects/lpsolve/
 ## jupyterlab
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+JupyterLab is the next-generation user interface for Project Jupyter offering all the familiar
+building blocks of the classic Jupyter Notebook (notebook, terminal, text editor, file browser, rich outputs,
+etc.) in a flexible and powerful user interface. JupyterLab will eventually replace the classic Jupyter
+Notebook.
+### Homepage
+https://jupyter.org/
+### Extensions
+json5-0.9.10, jupyterlab-3.5.0, jupyterlab_server-2.13.0, nbclassic-0.4.8, notebook_shim-0.1.0
 ## plotly.py
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+An open-source, interactive graphing library for Python
+### Homepage
+https://plot.ly/python
+### Extensions
+plotly-5.12.0, tenacity-8.0.1
 ## julia
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Julia is a high-level, high-performance dynamic programming language for numerical computing
+### Homepage
+https://julialang.org
 ## scalapack
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The ScaLAPACK (or Scalable LAPACK) library includes a subset of LAPACK routines
+redesigned for distributed memory MIMD parallel computers.
+### Homepage
+https://www.netlib.org/scalapack/
 ## pybigwig
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A python extension, written in C, for quick access to bigBed
+files and access to and creation of bigWig files.
+### Homepage
+https://github.com/deeptools/pyBigWig
 ## ucx-cuda
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Unified Communication X
+An open-source production grade communication framework for data centric
+and high-performance applications
+This module adds the UCX CUDA support.
+### Homepage
+http://www.openucx.org/
 ## anaconda3
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Built to complement the rich, open source Python community,
+the Anaconda platform provides an enterprise-ready data analytics platform
+that empowers companies to adopt a modern open data science analytics architecture.
+### Homepage
+https://www.anaconda.com
 ## lmdb
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+LMDB is a fast, memory-efficient database. With memory-mapped files, it has the read performance
+of a pure in-memory database while retaining the persistence of standard disk-based databases.
+### Homepage
+https://symas.com/lmdb
 ## pycoqc
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+PycoQC computes metrics and generates interactive QC plots for
+Oxford Nanopore technologies sequencing data.
+### Homepage
+https://tleonardi.github.io/pycoQC
 ## qhull
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Qhull computes the convex hull, Delaunay triangulation, Voronoi diagram,
+halfspace intersection about a point, furthest-site Delaunay triangulation,
+and furthest-site Voronoi diagram. The source code runs in 2-d, 3-d, 4-d, and
+higher dimensions. Qhull implements the Quickhull algorithm for computing the
+convex hull.
+### Homepage
+http://www.qhull.org
 ## python-bundle-pypi
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Bundle of Python packages from PyPI
+### Homepage
+https://python.org/
+### Extensions
+alabaster-0.7.13, appdirs-1.4.4, asn1crypto-1.5.1, atomicwrites-1.4.1, attrs-23.1.0, Babel-2.12.1, backports.entry-points-selectable-1.2.0, backports.functools_lru_cache-1.6.5, bitstring-4.0.2, blist-1.3.6, CacheControl-0.12.14, cachy-0.3.0, certifi-2023.5.7, cffi-1.15.1, chardet-5.1.0, charset-normalizer-3.1.0, cleo-2.0.1, click-8.1.3, cloudpickle-2.2.1, colorama-0.4.6, commonmark-0.9.1, crashtest-0.4.1, Cython-0.29.35, decorator-5.1.1, distlib-0.3.6, distro-1.8.0, docopt-0.6.2, docutils-0.20.1, doit-0.36.0, dulwich-0.21.5, ecdsa-0.18.0, editables-0.3, exceptiongroup-1.1.1, execnet-1.9.0, filelock-3.12.2, fsspec-2023.6.0, future-0.18.3, glob2-0.7, html5lib-1.1, idna-3.4, imagesize-1.4.1, importlib_metadata-6.7.0, importlib_resources-5.12.0, iniconfig-2.0.0, intervaltree-3.1.0, intreehooks-1.0, ipaddress-1.0.23, jaraco.classes-3.2.3, jeepney-0.8.0, Jinja2-3.1.2, joblib-1.2.0, jsonschema-4.17.3, keyring-23.13.1, keyrings.alt-4.2.0, liac-arff-2.5.0, lockfile-0.12.2, markdown-it-py-3.0.0, MarkupSafe-2.1.3, mdurl-0.1.2, mock-5.0.2, more-itertools-9.1.0, msgpack-1.0.5, netaddr-0.8.0, netifaces-0.11.0, packaging-23.1, pastel-0.2.1, pathlib2-2.3.7.post1, pathspec-0.11.1, pbr-5.11.1, pexpect-4.8.0, pkginfo-1.9.6, platformdirs-3.8.0, pluggy-1.2.0, pooch-1.7.0, psutil-5.9.5, ptyprocess-0.7.0, py-1.11.0, py_expression_eval-0.3.14, pyasn1-0.5.0, pycparser-2.21, pycryptodome-3.18.0, pydevtool-0.3.0, Pygments-2.15.1, Pygments-2.15.1, pylev-1.4.0, PyNaCl-1.5.0, pyparsing-3.1.0, pyrsistent-0.19.3, pytest-7.4.0, pytest-xdist-3.3.1, python-dateutil-2.8.2, pytoml-0.1.21, pytz-2023.3, rapidfuzz-2.15.1, regex-2023.6.3, requests-2.31.0, requests-toolbelt-1.0.0, rich-13.4.2, rich-click-1.6.1, scandir-1.10.0, SecretStorage-3.3.3, semantic_version-2.10.0, shellingham-1.5.0.post1, simplegeneric-0.8.1, simplejson-3.19.1, six-1.16.0, snowballstemmer-2.2.0, sortedcontainers-2.4.0, Sphinx-7.0.1, sphinx-bootstrap-theme-0.8.1, sphinxcontrib-applehelp-1.0.4, sphinxcontrib-devhelp-1.0.2, sphinxcontrib-htmlhelp-2.0.1, sphinxcontrib-jsmath-1.0.1, sphinxcontrib-qthelp-1.0.3, sphinxcontrib-serializinghtml-1.1.5, sphinxcontrib-websupport-1.2.4, tabulate-0.9.0, threadpoolctl-3.1.0, toml-0.10.2, tomli-2.0.1, tomli_w-1.0.0, tomlkit-0.11.8, ujson-5.8.0, urllib3-1.26.16, wcwidth-0.2.6, webencodings-0.5.1, xlrd-2.0.1, zipfile36-0.1.3, zipp-3.15.0
 ## gcccore
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Java, and Ada,
+as well as libraries for these languages (libstdc++, libgcj,...).
+### Homepage
+https://gcc.gnu.org/
 ## geos
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS)
+### Homepage
+https://trac.osgeo.org/geos
 ## openpgm
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+OpenPGM is an open source implementation of the Pragmatic General Multicast
+(PGM) specification in RFC 3208 available at www.ietf.org. PGM is a reliable
+and scalable multicast protocol that enables receivers to detect loss, request
+retransmission of lost data, or notify an application of unrecoverable loss.
+PGM is a receiver-reliable protocol, which means the receiver is responsible
+for ensuring all data is received, absolving the sender of reception
+responsibility.
+### Homepage
+https://code.google.com/p/openpgm/
 ## db
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Berkeley DB enables the development of custom data management
+solutions, without the overhead traditionally associated with such custom
+projects.
+### Homepage
+https://www.oracle.com/technetwork/products/berkeleydb
 ## libwebp
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+WebP is a modern image format that provides superior
+lossless and lossy compression for images on the web. Using WebP,
+webmasters and web developers can create smaller, richer images that
+make the web faster.
+### Homepage
+https://developers.google.com/speed/webp/
 ## go
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Go is an open source programming language that makes it easy to build
+simple, reliable, and efficient software.
+### Homepage
+https://www.golang.org
 ## imagemagick
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+ImageMagick is a software suite to create, edit, compose, or convert bitmap images
+### Homepage
+https://www.imagemagick.org/
 ## mummer
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+MUMmer is a system for rapidly aligning entire genomes,
+whether in complete or draft form. AMOS makes use of it.
+### Homepage
+https://mummer.sourceforge.net/
 ## bio-db-hts
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Read files using HTSlib including BAM/CRAM, Tabix and BCF database files
+### Homepage
+https://metacpan.org/release/Bio-DB-HTS
 ## tk
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Tk is an open source, cross-platform widget toolchain that provides a library of basic elements for
+building a graphical user interface (GUI) in many different programming languages.
+### Homepage
+https://www.tcl.tk/
 ## vep
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Variant Effect Predictor (VEP) determines the effect of your
+variants (SNPs, insertions, deletions, CNVs or structural variants) on genes,
+transcripts, and protein sequence, as well as regulatory regions.
+Includes EnsEMBL-XS, which provides pre-compiled replacements for frequently
+used routines in VEP.
+### Homepage
+https://www.ensembl.org/info/docs/tools/vep
+### Extensions
+Bio::EnsEMBL::XS-2.3.2
 ## nlohmann_json
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+JSON for Modern C++
+### Homepage
+https://github.com/nlohmann/json
 ## libdeflate
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Heavily optimized library for DEFLATE/zlib/gzip compression and decompression.
+### Homepage
+https://github.com/ebiggers/libdeflate
 ## megahit
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+An ultra-fast single-node solution for large and complex
+metagenomics assembly via succinct de Bruijn graph
+### Homepage
+https://github.com/voutcn/megahit
 ## pkgconf
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+pkgconf is a program which helps to configure compiler and linker flags for development libraries.
+It is similar to pkg-config from freedesktop.org.
+### Homepage
+https://github.com/pkgconf/pkgconf
 ## libyaml
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+LibYAML is a YAML parser and emitter written in C.
+### Homepage
+https://pyyaml.org/wiki/LibYAML
 ## gffcompare
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+GffCompare provides classification and reference annotation mapping and
+matching statistics for RNA-Seq assemblies (transfrags) or other generic GFF/GTF files.
+### Homepage
+https://ccb.jhu.edu/software/stringtie/gffcompare.shtml
 ## libheif
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+libheif is an HEIF and AVIF file format decoder and encoder
+### Homepage
+https://github.com/strukturag/libheif
 ## psutil
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+A cross-platform process and system utilities module for Python
+### Homepage
+https://github.com/giampaolo/psutil
+### Extensions
+psutil-6.0.0
 ## libde265
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+libde265 is an open source implementation of the h.265 video codec
+### Homepage
+https://github.com/strukturag/libde265
 ## paraview
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+ParaView is a scientific parallel visualizer.
+### Homepage
+https://www.paraview.org
 ## dirac
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+DIRAC: Program for Atomic and Molecular Direct Iterative Relativistic All-electron Calculations
+### Homepage
+http://www.diracprogram.org
 ## hipsycl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+hipSYCL is a modern SYCL implementation targeting CPUs and
+GPUs, with a focus on leveraging existing toolchains such as CUDA or HIP
+### Homepage
+https://github.com/illuhad/hipSYCL
 ## scvelo
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## ipyrad
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Welcome to ipyrad, an interactive assembly and analysis toolkit for restriction-site associated DNA (RAD-seq) and related data types. Please explore the documentation to find out more about the features of ipyrad.
+Ipyrad
+.
+Version 0.9.105
+Installed 20250922
+Installer m.hankel@uq.edu.au
 ## qiime2-amplicon
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## dadi
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## medaka
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+medaka is a tool to create consensus sequences and variant calls from nanopore sequencing data. This task is performed using neural networks applied a pileup of individual sequencing reads against a draft assembly. It provides state-of-the-art results outperforming sequence-graph based methods and signal-based methods, whilst also being faster.
+Medaka
+.
+Version 2.1.1
+Installed 20250916
+Installer e.scriven@uq.edu.au
 ## singlem
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## screen_assembly
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## racon
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## unicycler
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## qapa
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## cellbender
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## syri
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## qiime2-shotgun
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## drep
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## mmseqs2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## sqanti3
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## hapflk
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## dram
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## sglang
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for SGLang 0.4.0 for NVidia GPUs.
+SGLang is a fast serving framework for large language models and vision language models.
+### Homepage
+https://docs.sglang.ai
 ## asreml-sa_test
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Container for ASReml-AS Version 4.2.1.198
+david.green@uq.edu.au
+For more detail, run
+module help asreml-as
 ## relion
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Relion 5.0.1.
+Relion (for REgularised LIkelihood OptimisatioN, pronounce rely-on) is a software package that employs an empirical Bayesian approach for electron cryo-microscopy (cryo-EM) structure determination.
+### Homepage
+https://github.com/3dem/relion
 ## openclip
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for OpenCLIP-torch for NVidia GPUs.
+OpenCLIP is an open source implementation of OpenAI's CLIP (Contrastive Language-Image Pre-training).
+Using this codebase, we have trained several models on a variety of data sources and compute budgets, ranging from small-scale experiments to larger runs including models trained on datasets such as LAION-400M, LAION-2B and DataComp-1B.
+### Homepage
+https://github.com/mlfoundations/open_clip
 ## epi2me
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for EPI2ME 5.3.0-1.
+EPI2ME is a collection of bioinformatics tools, workflows, and resources designed to help researchers analyze nanopore sequencing data. Our projects focus on making cutting-edge analysis accessible and reproducible for the scientific community.
+### Homepage
+https://nanoporetech.com/products/analyse/epi2me
 ## wombat
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+WOMBAT is a program to facilitate analyses fitting a linear, mixed model via restricted maximum likelihood (REML).
+### Homepage
+http://didgeridoo.une.edu.au/km/wombat.php
 ## ansysem
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
 ## openfoam
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for OpenFoam 11 with Paraview 5.10.
+OpenFOAM is software for computational ﬂuid dynamics (CFD). It includes a collection of applications which perform a range of tasks in CFD. The applications use packaged functionality contained within over 150 libraries. As well as performing calculations of the ﬂuid dynamics, there are applications which conﬁgure and initialise simulations, manipulate case geometry, generate computational meshes, and process and visualise results.
+### Homepage
+https://openfoam.org
 ## bindcraft
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for BindCraft 1.5.2.
+Simple binder design pipeline using AlphaFold2 backpropagation, MPNN, and PyRosetta. Select your target and let the script do the rest of the work and finish once you have enough designs to order!
+### Homepage
+https://github.com/martinpacesa/BindCraft
 ## pyem
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for pyem 0.66.
+A collection of Python modules and command-line utilities for electron microscopy of biological samples.
+Documentation for the programs can be found in their usage text, comments in code, and in the Wiki of the pyem repository.
+### Homepage
+https://github.com/asarnow/pyem
 ## aviary
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+An easy to use for wrapper for a robust snakemake pipeline for metagenomic short-read, long-read, and hybrid assembly.
+aviary
+.
+Version 0.10.0
+Installed 20250219
+Installer m.hankel@uq.edu.au
 ## schrodinger
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Schrodinger Suite (Desmond) 2023-4.
+Desmond is a high-performance molecular dynamics (MD) engine providing high scalability, throughput, and scientific accuracy
+### Homepage
+https://www.schrodinger.com/platform/products/desmond/
 ## fbpic
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for FBPIC 0.26.1 for NVidia GPUs.
+FBPIC (Fourier-Bessel Particle-In-Cell) is a Particle-In-Cell (PIC) code for relativistic plasma physics. It is especially well-suited for physical simulations of laser-wakefield acceleration and plasma-wakefield acceleration.
+### Homepage
+https://fbpic.github.io
 ## boltzgen
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for BoltzGen 0.3.0 for NVidia GPUs.
+BoltzGen is an all-atom generative model for designing proteins and peptides across
+### Homepage
+https://github.com/HannesStark/boltzgen
 ## metaphlan
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+MetaPhlAn: Metagenomic Phylogenetic Analysis. MetaPhlAn is a computational tool for species-level microbial profiling (bacteria, archaea, eukaryotes, and viruses) from metagenomic shotgun sequencing data. StrainPhlAn (available within MetaPhlAn) allows strain-level microbial population genomics.
+MetaPhlAn
+.
+Version 4.1.1
+Installed 20241018
+Installer m.hankel@uq.edu.au
 ## freesurfer
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Freesurfer 7.3.2.
+FreeSurfer is a software package for the analysis and visualization of structural and functional neuroimaging data from cross-sectional or longitudinal studies. It is developed by the Laboratory for Computational Neuroimaging at the Athinoula A. Martinos Center for Biomedical Imaging.
+### Homepage
+https://surfer.nmr.mgh.harvard.edu
 ## code-server
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for code-server 4.104.0.
+Run VScode on Bunya and connect to it via a web browser.
+### Homepage
+https://github.com/coder/code-server
 ## slorado
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Slorado 0.3.0 for NVidia GPUs.
+Slorado is a simplified version of Dorado built on top of S/BLOW5 format. Slorado is an extremely lean basecaller with fewer external dependencies and is thus relatively easier to compile than Dorado. Slorado is developed using C/C++ and depends on torchlib.
+### Homepage
+https://github.com/BonsonW/slorado
 ## prism
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Suite2p 0.14.5 for NVidia GPUs.
+Suite2p is a pipeline for processing two-photon calcium imaging data.
+### Homepage
+https://github.com/HaoLi12345/PRISM
 ## proteinmpnn
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for ProteinMPNN 1.0.1.
+ProteinMPNN is a deep learning based protein sequence design method. The amino acid sequence at different positions can be coupled between single or multiple chains, enabling application to a wide range of current protein design challenges.
+### Homepage
+https://github.com/dauparas/ProteinMPNN
 ## rfdiffusion
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for RFdiffusion 1.1.0.
+RFdiffusion is an open source method for structure generation, with or without conditional information (a motif, target etc). It can perform a whole range of protein design challenges.
+Things Diffusion can do:
+Motif Scaffolding
+Unconditional protein generation
+Symmetric unconditional generation (cyclic, dihedral and tetrahedral symmetries currently implemented, more coming!)
+Symmetric motif scaffolding
+Binder design
+Design diversification (partial diffusion, sampling around a design)
+This module creates a wrapper command - rfdiffusion - to call the usual run_inference.py script.
+Please refer to the software's home page for configuration information.
+You can use the models bundled with the software with
+inference.model_directory_path=/sw/local/rocky8/noarch/rcc/software/RFdiffusion/1.1.0/models
+### Homepage
+https://github.com/RosettaCommons/RFdiffusion
 ## post
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for POST for NVidia GPUs.
+Precision Organoid Segmentation Technique (POST): an Accurate Algorithm for Segmentation of any Challenging Bright-field Organoid Images.
+### Homepage
+https://github.com/duxuan11/Precision-Organoid-Segmentation-Technique-POST
 ## rfantibody
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for RFantibody 1.0.0.
+RFantibody is a pipeline for the structure-based design of de novo antibodies and nanobodies. RFantibody consists of three separate methods:
+* Protein backbone design with an antibody-fintuned version of RFdiffusion
+* Protein sequence design with ProteinMPNN
+* In silico filtering of designs using an antibody-finetuned version of RoseTTAFold2
+This module makes the following commands available for convenience:
+chothia_to_HLT, rfdiffusion_inference, proteinmpnn_interface_design, rf2_predict
+### Homepage
+https://github.com/RosettaCommons/RFantibody
 ## crested
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Module ERROR: Magic cookie '#%Module' missing
+In '/sw/local/rocky8/noarch/rcc/modules/crested/1.5.0.lua'
+Please contact <root@localhost>
 ## alphafold
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for AlphaFold 2.3.2.
+AlphaFold is an inference engine for simulating protein structures from sequence data.
+This module has two commands - alphafold and alphafold_custom:
+alphafold will run with databases from /scratch/opendata/protein/AlphaFold already selected
+alphafold_custom will run with no databases or other options selected. Type
+alphafold_custom --helpfull
+to see the complete list of options to pass to the command.
+### Homepage
+https://github.com/deepmind/alphafold
 ## carpdock
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for CARPdock for NVidia GPUs.
+CARPdock is Comprehensive Assessment of Rigid Poses Docking. It is used to generate starting poses for NISE.
+### Homepage
+https://github.com/benf549/CARPdock
 ## cellpose
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Cellpose 3.
+Cellpose is an anatomical segmentation algorithm written in Python 3.
+### Homepage
+https://cellpose.readthedocs.io
 ## itk-snap
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for ITK-SNAP 3.8.0.
+ITK-SNAP is a free, open-source, multi-platform software application used to segment structures in 3D and 4D biomedical images.
+ITK-SNAP provides semi-automatic segmentation using active contour methods, as well as manual delineation and image navigation.
+### Homepage
+https://itksnap.org
 ## cryodrgn
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for CryoDRGN 3.4.4 for NVidia GPUs.
+CryoDRGN is a neural network based algorithm for heterogeneous cryo-EM reconstruction. In particular, the method models a continuous distribution over 3D structures by using a neural network based representation for the volume.
+### Homepage
+https://cryodrgnai.cs.princeton.edu
 ## boltz
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Boltz 2.2.1 for AMD GPUs.
+Boltz is the state-of-the-art open-source model to predict biomolecular structures containing combinations of proteins, RNA, DNA, and other molecules. It also supports modified residues, covalent ligands and glycans, as well as conditioning the prediction on specified interaction pockets or contacts.
+### Homepage
+https://github.com/jwohlwend/boltz
 ## fiji
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Fiji 1.54k.
+Fiji is an image processing package—a “batteries-included” distribution of ImageJ2, bundling a lot of plugins which facilitate scientific image analysis.
+### Homepage
+https://imagej.net/software/fiji
 ## bagel
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Bagel for NVidia GPUs.
+BAGEL is a model-agnostic, modular, fully customizable Python framework for programmable protein design.
+The package formalizes the protein design task as an optimization (sampling) over an energy landscape.
+### Homepage
+https://github.com/softnanolab/bagel
 ## strainberry
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Strainberry is a method that performs strain separation in low-complexity metagenomes using error-prone long-read technologies. It exploits state-of-the-art tools for variant calling, haplotype phasing, and genome assembly, in order to achieve single-sample assembly of strains with higher quality than other state-of-the-art long-read assemblers.
+strainberry
+.
+Version 1.1
+Installed 20250415
+Installer m.hankel@uq.edu.au
 ## cellprofiler
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for CellProfiler 4.2.8.1.
+CellProfiler is a versatile, open-source software tool for quantifying data from biological images, particularly in high-throughput experiments. CellProfiler is designed for modular, flexible, high-throughput analysis of images, measuring size, shape, intensity, and texture of every cell (or other object) in every image.
+### Homepage
+https://cellprofiler.org
 ## mmseqs
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for MMseqs2 Release 18.
+MMseqs2 (Many-against-Many sequence searching) is a software suite to search and cluster huge protein and nucleotide sequence sets.
+### Homepage
+https://github.com/soedinglab/MMseqs2
 ## huygens
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Huygens
+Version: 23.04.0 Patch 6 for UQ
 ## scenicplus
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for SCENIC+.
+SCENIC+ is a python package to build gene regulatory networks (GRNs) using combined or separate single-cell gene expression (scRNA-seq) and single-cell chromatin accessibility (scATAC-seq) data.
+### Homepage
+https://github.com/aertslab/scenicplus
 ## dorado
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Dorado 1.3.1.
+Dorado is a high-performance, easy-to-use, open source analysis engine for Oxford Nanopore reads.
+### Homepage
+https://github.com/nanoporetech/dorado
 ## quilt
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+QUILT2 is an R and C++ program for fast genotype imputation from low-coverage sequence using a large reference panel. QUILT2 is accurate and versatile, able to handle imputation from short read, long read, ancient DNA and cell-free DNA from NIPT. module-whatis QUILT
+.
+Version 2.0.4
+Installed 20260205
+Installer m.hankel@uq.edu.au
 ## bakta
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Bakta is a tool for the rapid & standardized annotation of bacterial genomes and plasmids from both isolates and MAGs. It provides dbxref-rich, sORF-including and taxon-independent annotations in machine-readable JSON & bioinformatics standard file formats for automated downstream analysis.
+bakta
+.
+Version 1.11.3
+Installed 20250715
+Installer m.hankel@uq.edu.au
 ## model-angelo
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Model-angelo 1.0.12.
+ModelAngelo is an automatic atomic model building program for cryo-EM maps.
+### Homepage
+https://github.com/3dem/model-angelo
 ## osca
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for OSCA 1.20.
+OSCA (OmicS-data-based Complex trait Analysis) is a software tool for the analysis of complex traits using multi-omics data and genetic analysis of molecular phenotypes.
+### Homepage
+https://yanglab.westlake.edu.cn/software/osca
 ## ultralytics
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Ultralytics 8.4.31 for NVidia GPUs.
+Ultralytics creates cutting-edge, state-of-the-art (SOTA) YOLO models built on years of foundational research in computer vision and AI.
+### Homepage
+https://ultralytics.com
 ## dl-jupyter
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up a Jupyter environment with several Deep Learning / Machine Learning libraries preinstalled, with CUDA libraries for NVidia GPUs.
+### Homepage
+https://jupyter.org/
 ## cryocare
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for CryoCARE 0.3.0.
+This package is a memory efficient implementation of cryoCARE.
+This setup trains a denoising U-Net for tomographic reconstruction according to the Noise2Noise training paradigm. Therefore the user has to provide two tomograms of the same sample. The simplest way to achieve this is with direct-detector movie-frames.
+### Homepage
+https://github.com/juglab/cryoCARE_pip
 ## spss
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+SPSS Statistics 27
 ## cebraem
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for CebraEM 0.0.3b.
+A practical workflow to segment cellular organelles in volume SEM datasets using a transferable CNN-based membrane prediction.
+### Homepage
+https://github.com/jhennies/CebraEM
 ## chai-lab
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Chai-lab 0.6.1 for AMD GPUs.
+Chai-1 is a multi-modal foundation model for molecular structure prediction that performs at the state-of-the-art across a variety of benchmarks. Chai-1 enables unified prediction of proteins, small molecules, DNA, RNA, glycosylations, and more.
+### Homepage
+https://github.com/chaidiscovery/chai-lab
 ## transcriptm
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+A metatranscriptome bioinformatics pipeline including metagenome contamination correction.
+transcriptM
+.
+Version 0.5
+Installed 20250327
+Installer m.hankel@uq.edu.au
 ## nnu-net
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for nnU-Net 2.6.2-0 for the AMD GPUs.
+Image datasets are enormously diverse: image dimensionality (2D, 3D), modalities/input channels (RGB image, CT, MRI, microscopy, ...), image sizes, voxel sizes, class ratio, target structure properties and more change substantially between datasets. Traditionally, given a new problem, a tailored solution needs to be manually designed and optimized - a process that is prone to errors, not scalable and where success is overwhelmingly determined by the skill of the experimenter. Even for experts, this process is anything but simple: there are not only many design choices and data properties that need to be considered, but they are also tightly interconnected, rendering reliable manual pipeline optimization all but impossible!
+nnU-Net is a semantic segmentation method that automatically adapts to a given dataset. It will analyze the provided training cases and automatically configure a matching U-Net-based segmentation pipeline. No expertise required on your end! You can simply train the models and use them for your application.
+Please cite the following paper when using nnU-Net:
+Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211.
+### Homepage
+https://github.com/MIC-DKFZ/nnUNet
 ## triqs
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Suite2p 0.14.5 for NVidia GPUs.
+Suite2p is a pipeline for processing two-photon calcium imaging data.
+### Homepage
+https://triqs.github.io
 ## cuda-q
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for CUDA-Quantum 0.10.0.
+CUDA-Q streamlines hybrid application development and promotes productivity and scalability in quantum computing. It offers a unified programming model designed for a hybrid setting—that is, CPUs, GPUs, and QPUs working together. CUDA-Q contains support for programming in Python and in C++. This module provides the C++ support only.
+### Homepage
+https://nvidia.github.io/cuda-quantum/latest/index.html
 ## imod
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for IMOD 5.1.1.
+IMOD is a set of image processing, modeling and display programs used for tomographic reconstruction and for 3D reconstruction of EM serial sections and optical sections. The package contains tools for assembling and aligning data within multiple types and sizes of image stacks, viewing 3-D data from any orientation, and modeling and display of the image files. IMOD was developed primarily by David Mastronarde, Rick Gaudette, Sue Held, Jim Kremer, Quanren Xiong, Suraj Khochare, and John Heumann at the University of Colorado.
+The development of IMOD has been supported by grants from the National Center for Research Resources, the National Institute of General Medical Sciences, and the National Institute for Biomedical Imaging and Bioengineering. IMOD and virtually all programs contained within the IMOD package are Copyright (c) 1994-2020 by the Regents of the University of Colorado.
+### Homepage
+http://bio3d.colorado.edu/imod
 ## deeplabcut
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for DeepLabCut 3.0.0rc10 for NVidia GPUs.
+DeepLabCut is a toolbox for state-of-the-art markerless pose estimation of animals performing various behaviors. As long as you can see (label) what you want to track, you can use this toolbox, as it is animal and object agnostic.
+### Homepage
+https://github.com/DeepLabCut/DeepLabCut
 ## mobsuite
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for MobSuite 3.1.9.
+Plasmids are mobile genetic elements (MGEs), which allow for rapid evolution and adaption of bacteria to new niches through horizontal transmission of novel traits to different genetic backgrounds. The MOB-suite is designed to be a modular set of tools for the typing and reconstruction of plasmid sequences from WGS assemblies.
+### Homepage
+https://github.com/phac-nml/mob-suite
 ## fragpipe
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for FragPipe 21.1.
+FragPipe is a Java Graphical User Interface (GUI) for a suite of computational tools enabling comprehensive analysis of mass spectrometry-based proteomics data. It is powered by MSFragger - an ultrafast proteomic search engine suitable for both conventional and open (wide precursor mass tolerance) peptide identification. FragPipe includes the Philosopher toolkit for downstream post-processing of MSFragger search results (PeptideProphet, iProphet, ProteinProphet), FDR filtering, label-based quantification, and multi-experiment summary report generation. Crystal-C and PTM-Shepherd are included to aid interpretation of open search results. Also included in FragPipe binary are TMT-Integrator for TMT/iTRAQ isobaric labeling-based quantification, IonQuant for label-free quantification with FDR-controlled match-between-run (MBR) functionality, spectral library building with EasyPQP, and MSFragger-DIA and DIA-Umpire SE modules for direct analysis of data independent acquisition (DIA) data.
+### Homepage
+https://github.com/Nesvilab/FragPipe
 ## openfold
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for OpenFold 3 for NVidia GPUs.
+OpenFold is a fully open source, trainable, PyTorch-based reproduction of DeepMind’s AlphaFold 3.
+### Homepage
+https://openfold.readthedocs.io
 ## nastic
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Module ERROR: Magic cookie '#%Module' missing
+In '/sw/local/rocky8/noarch/rcc/modules/nastic/1.0.11.lua'
+Please contact <root@localhost>
 ## jobstats
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Jobstats
 ## rstudio
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+RStudio 2024.12.0 https://posit.co/download/rstudio-desktop/
+This software container also provides R 4.4.2 for use outside of RStudio.
 ## alphafast
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for AlphaFast 0.1.
+Ultra-high-throughput inference with AlphaFold 3. Replaces Jackhmmer with MMseqs2-GPU for over 68x speedup in homology search and over 22x speedup in end-to-end inference on a single H200 GPU.
+AlphaFast has multi-GPU capabilities capable of reaching throughput of 8s per input on 4 H200 GPUs, 4.5s per input on 8 H200 GPUs, and even higher throughput on larger systems, scaling approximately linearly with number of devices.
+Please note that you must obtain your own copy of the model parameters, under the terms as described in https://github.com/google-deepmind/alphafold3/blob/main/WEIGHTS_TERMS_OF_USE.md.
+Databases can be found in /scratch/opendata/protein/alphafast
+### Homepage
+https://github.com/RomeroLab/alphafast
 ## gaussian
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Gaussian G16 version B.01 and GaussView6.
+Gaussian provides state-of-the-art capabilities for electronic structure modeling. Gaussian 16 is licensed for a wide variety of computer systems. All versions of Gaussian 16 contain every scientific/modeling feature, and none imposes any artificial limitations on calculations other than your computing resources and patience.
+### Homepage
+https://www.gaussian.com/
 ## compucell3d
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for CompuCell3D.
+CompuCell3D simulations are a combination of CC3DML (CompuCell3D XML model specification format) and Python code. By itself, CC3DML is static. That means you specify initial cellular behaviors, and, throughout the simulation, those behavior descriptions remain unchanged. Python scripting, meanwhile, enables you to build complex simulations wherein the behaviors of individual cells change (according to user specification) as the simulation progresses.
+### Homepage
+https://compucell3d.org
 ## cellsnp-lite
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Cellsnp-lite: Efficient Genotyping Bi-Allelic SNPs on Single Cells.
+cellsnp-lite
+.
+Version 1.2.3
+Installed 20250321
+Installer m.hankel@uq.edu.au
 ## mathematica
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Mathematica 14.0
 ## diffdock
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for DiffDock 1.1.3.
+Implementation of DiffDock, state-of-the-art method for molecular docking, by Gabriele Corso*, Hannes Stark*, Bowen Jing*, Regina Barzilay and Tommi Jaakkola.
+### Homepage
+https://github.com/gcorso/DiffDock
 ## esa-snap
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for CryoCARE 0.3.0.
+This package is a memory efficient implementation of cryoCARE.
+This setup trains a denoising U-Net for tomographic reconstruction according to the Noise2Noise training paradigm. Therefore the user has to provide two tomograms of the same sample. The simplest way to achieve this is with direct-detector movie-frames.
+### Homepage
+https://step.esa.int/main/toolboxes/snap/
 ## metabolic
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+METabolic And BiogeOchemistry anaLyses In miCrobes
+METABOLIC
+.
+Version 4.0
+Installed 20250327
+Installer m.hankel@uq.edu.au
 ## proteina-complexa
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Proteina-Complexa.
+Proteina-Complexa is a novel fully atomistic protein binder design framework unifying conditional generative modeling and optimization.
+### Homepage
+https://github.com/NVIDIA-Digital-Bio/Proteina-Complexa
 ## qctool
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+QCTOOL is a command-line utility program for manipulation and quality control of gwas datasets and other genome-wide data.
+### Homepage
+https://www.chg.ox.ac.uk/~gav/qctool_v2/
+Command: qctool_v2.2.0
 ## cistem
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Module for loading cisTEM V2 into your COMMAND LINE environment.
+david.green@uq.edu.au
+This software is provided as part of a container for CisTEM GUI.
+For more detail, run
+module help cistem/2.0
 ## fsl
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for FSL 6.0.7.9.
+FSL is a comprehensive library of analysis tools for FMRI, MRI and diffusion brain imaging data.
+### Homepage
+https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL
 ## orca
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Orca 5.0.4, https://www.orcasoftware.de/tutorials_orca/index.html
 ## fastfold
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for FastFold 2.3.2.
+Optimizing Protein Structure Prediction Model Training and Inference on Heterogeneous Clusters
+FastFold provides a high-performance implementation of Evoformer with the following characteristics.
+### Homepage
+https://github.com/hpcaitech/FastFold
 ## vllm
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for vLLM 0.19.0 for NVidia GPUs.
+vLLM is a fast and easy-to-use library for LLM inference and serving.
+### Homepage
+https://github.com/vllm-project/vllm
 ## llama.cpp
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for LLAma.cpp for AMD GPUs (b8952).
+### Homepage
+https://github.com/ggml-org/llama.cpp
 ## bioformats2raw
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Bioformats2raw 0.9.4-0.
+Java application to convert image file formats, including .mrxs, to an intermediate Zarr structure compatible with the OME-NGFF specification. The raw2ometiff application can then be used to produce a Bio-Formats 5.9.x ("Faas") or Bio-Formats 6.x (true OME-TIFF) pyramid.
+### Homepage
+https://github.com/glencoesoftware/bioformats2raw
 ## crisflash
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+Crisflash is a tool for rapid design and a potential off-target discovery tool for CRISPR/Cas9 guide RNAs. Crisflash is designed for speed, improved gRNA matching and scoring accuracy by providing the option to incorporate user-supplied variant data.
+### Homepage
+https://github.com/crisflash/crisflash
 ## perceval-quandela
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+An open source framework for programming photonic quantum computers
+Perceval-quandela
+.
+Version 0.13.0
+Installed 20250516
+Installer m.hankel@uq.edu.au
 ## diann
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Dia-NN 2.3.0.
+DIA-NN - a universal software for data-independent acquisition (DIA) proteomics data processing by Demichev, Ralser and Lilley labs.
+### Homepage
+https://github.com/vdemichev/DiaNN
 ## proteinfold
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for nf-core/proteinfold.
+nf-core/proteinfold is a bioinformatics best-practice analysis pipeline for Protein 3D structure prediction.
+The pipeline is built using Nextflow, a workflow tool to run tasks across multiple compute infrastructures in a very portable manner. It uses Docker/Singularity containers making installation trivial and results highly reproducible.
+### Homepage
+https://nf-co.re/proteinfold
 ## ligandmpnn
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for LigandMPNN for NVidia GPUs.
+This module provides inference code for LigandMPNN & ProteinMPNN models. The code and model parameters are available under the MIT license.
+### Homepage
+https://github.com/dauparas/LigandMPNN
 ## porechop_abi
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Porechop_ABI (ab initio) is an extension of Porechop whose purpose is to process adapter sequences in ONT reads.
+Porechop_ABI
+.
+Version 0.5.0
+Installed 20250728
+Installer m.hankel@uq.edu.au
 ## miniforge
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Miniforge 26.1.0-0.
+Miniforge is a variant of Conda and Mamba specific to conda-forge, with the following features pre-configured:
+* Packages in the base environment are obtained from the conda-forge channel.
+* The conda-forge channel is set as the default (and only) channel.
+You can use the conda-activate command to initialise and activate the base environment.
+### Homepage
+https://github.com/conda-forge/miniforge
 ## topaz
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Topaz for NVidia GPUs.
+A pipeline for particle detection in cryo-electron microscopy images using convolutional neural networks trained from positive and unlabeled examples. Topaz also includes methods for micrograph and tomogram denoising using deep denoising models.
+### Homepage
+https://github.com/3dem/topaz
 ## chimerax
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for UCSF ChimeraX 1.12.
+UCSF ChimeraX (or simply ChimeraX) is the next-generation molecular visualization program from the Resource for Biocomputing, Visualization, and Informatics (RBVI), following UCSF Chimera.
+### Homepage
+https://www.cgl.ucsf.edu/chimerax/
 ## dynamo
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Dynamo 1.1.532.
+Dynamo is a software environment for subtomogram averaging of cryo-EM data.
+### Homepage
+https://www.dynamo-em.org
 ## suite2p
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Suite2p 1.0.0.1 for NVidia GPUs.
+Suite2p is a pipeline for processing two-photon calcium imaging data.
+### Homepage
+https://github.com/MouseLand/suite2p
 ## evobind
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for EvoBind 1.0.
+EvoBind (v2) designs novel peptide binders based only on a protein target sequence. It is not necessary to specify any target residues within the protein sequence or the length of the binder (although this is possible). Cyclic binder design is also possible.
+Type
+evobind-activate
+to enable the Python environment.
+You can copy the example execution script at /sw/local/rocky8/noarch/rcc/software/evobind/1.0/design_local.sh
+Remember to change DATADIR to somewhere you have write access!
+### Homepage
+https://github.com/patrickbryant1/EvoBind
 ## xds
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for XDS and its companion utilities.
+X-ray Detector Software for processing single-crystal monochromatic diffraction data recorded by the rotation method.
+### Homepage
+https://xds.mr.mpg.de
 ## coot
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Coot 0.9.8.92.
+Coot (Crystallographic Object-Oriented Toolkit) is for macromolecular model building, model completion and validation, particularly suitable for protein modelling using X-ray data. Coot displays maps and models.
+### Homepage
+https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/
 ## cramino
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Cramino.
+Cramino is a tool for quick quality assessment of cram and bam files, intended for long read sequencing.
+### Homepage
+https://github.com/wdecoster/cramino
 ## ilastik
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for ilastik 1.4.1.post1-gpu.
+ilastik is a simple, user-friendly tool for interactive image classification, segmentation and analysis. It is built as a modular software framework, which currently has workflows for automated (supervised) pixel- and object-level classification, automated and semi-automated object tracking, semi-automated segmentation and object counting without detection.
+### Homepage
+https://www.ilastik.org
 ## amst2
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This is a re-implementation of Alignment to Median Smoothed Template (AMST), a stack alignment for FIB-SEM datasets.
+AMST2 uses the same concept compared to the original AMST workflow, while the implementation is now based on Simple Elastix (Simple ITK) and includes a pre-alignment workflow. To reduce the amount of dependencies as well as to increase robustness of the workflow, the use of SIFT was replaced by Simple Elastix functionality.
+### Homepage
+https://github.com/jhennies/AMST2
 ## chrombpnet
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Module ERROR: Magic cookie '#%Module' missing
+In '/sw/local/rocky8/noarch/rcc/modules/chrombpnet/0.1.7.lua'
+Please contact <root@localhost>
 ## basespace
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+BaseSpace Sequence Hub CLI.
+You can work with your BaseSpace Sequence Hub data using the command line interface (CLI). The BaseSpace Sequence Hub CLI supports scripting and programmatic access to BaseSpace Sequence Hub for automation, bulk operations, and other routine functions. It can be used independently or in conjunction with BaseMount.
+### Homepage
+https://developer.basespace.illumina.com/docs/content/documentation/cli/cli-overview
 ## qupath
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for QuPath 0.6.0.
+QuPath is open source software for bioimage analysis.
+QuPath is often used for digital pathology applications because it offers a powerful set of tools for working with whole slide images - but it can be applied to lots of other kinds of image as well.
+QuPath is installed under the apps menu of onBunya.
+### Homepage
+https://qupath.github.io/
 ## ollama
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for the Ollama backend for the Continue plugin for VScode.
+Continue provides agentic AI to VScode via a local Ollama server, providing chat, autocomplete and embedding features.
+### Homepage
+https://www.continue.dev
 ## rosetta
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Rosetta and PyRosetta 2026.03.
+Rosetta is software suite for modeling macromolecular structures. Its functionalities include structure prediction, design, and remodeling of proteins and nucleic acids.
+### Homepage
+https://rosettacommons.org
 ## remora
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Remora 3.3.0 for NVidia GPUs.
+Remora models predict methylation/modified base status separated from basecalling. The Remora repository is focused on the preparation of modified base training data and training modified base models. Some functionality for running Remora models and investigation of raw signal is also provided. For production modified base calling use Dorado. For recommended modified base downstream processing use modkit.
+### Homepage
+https://github.com/nanoporetech/remora
 ## binchicken
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for Bin Chicken 0.12.11.
+Bin Chicken is a software tool for recovery of low abundance and taxonomically targeted metagenome assembled genomes (MAGs) through strategic coassembly.
+### Homepage
+https://github.com/AroneyS/binchicken
 ## localcolabfold
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for LocalColabFold 1.5.5.
+LocalColabFold is an installer script designed to make ColabFold functionality available on users' local machines. ColabFold is a version of AlphaFold.
+Local databases are available for use at /scratch/opendata/protein/ColabFold/database
+You can perform your sequence searches with these databases rather than the public MSA databases online with the following commands:
+colabfold_search input_sequences.fasta /scratch/opendata/protein/ColabFold/database msas
+colabfold_batch msas predictions
+This will create an intermediate directory 'msas' to store your input multiple sequence alignments.
+### Homepage
+https://github.com/YoshitakaMo/localcolabfold
 ## alphapickle
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for AlphaPickle 1.5.4.
+AlphaPickle is a programme for extracting the outputs of DeepMind's AlphaFold protein prediction algorithm (Jumper et al., 2021, 10.1038/s41586-021-03819-2).
+AlphaPickle is multipurpose Python script for producing plots and user-legible files from the output of AlphaFold2 (notebook) and Colabfold (notebook).
+### Homepage
+https://github.com/mattarnoldbio/alphapickle
 ## spisonet
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for spIsoNet 1.0.
+Single Particle spIsoNet (spIsoNet) is designed to correct for the preferred orientation problem in cryoEM by self-supervised deep learning, by recovering missing information from well-sampled orientations in Fourier space.
+Unlike conventional supervised deep learning methods that need explicit input-output pairs for training, spIsoNet autonomously extracts supervisory signals from the original data, ensuring the reliability of the information used for training.
+spIsoNet is designed for single particle analysis and subtomogram averaging. For the correcting missing wedge in cryoET, please refer to IsoNet.
+### Homepage
+https://github.com/IsoNet-cryoET/spIsoNet
 ## subtom
-### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+### Description
+This module sets up the environment for subTOM 1.1.6.
+SubTOM - Subvolume processing scripts with the TOM toolbox is a collection of scripts form a pipeline for subvolume alignment and averaging of electron cryo-tomography data.
+### Homepage
+https://github.com/DustinMorado/subTOM
 ## tesseract
 ### 
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
-/bin/sh: module: command not found
+Tesseract https://github.com/tesseract-ocr
+Tesseract is an open source text recognition (OCR) Engine, available under the Apache 2.0 license. It can be used directly, or (for programmers) using an API to extract printed text from images. It supports a wide variety of languages.
