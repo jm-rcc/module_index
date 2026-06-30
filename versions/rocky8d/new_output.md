@@ -2793,6 +2793,13 @@ GPUs, with a focus on leveraging existing toolchains such as CUDA or HIP
 ### Homepage
 https://github.com/illuhad/hipSYCL
 ## scvelo
+### 
+scVelo is a scalable toolkit for RNA velocity analysis in single cells; RNA velocity enables the recovery of directed dynamic information by leveraging splicing kinetics.
+scVelo
+.
+Version 0.3.1
+Installed 20240229
+Installer m.hankel@uq.edu.au
 ## ipyrad
 ### 
 Welcome to ipyrad, an interactive assembly and analysis toolkit for restriction-site associated DNA (RAD-seq) and related data types. Please explore the documentation to find out more about the features of ipyrad.
@@ -2802,7 +2809,21 @@ Version 0.9.105
 Installed 20250922
 Installer m.hankel@uq.edu.au
 ## qiime2-amplicon
+### 
+QIIME 2 is a powerful, extensible, and decentralized microbiome analysis package with a focus on data and analysis transparency. QIIME 2 enables researchers to start an analysis with raw DNA sequence data and finish with publication-quality figures and statistical results.
+QIIME 2
+.
+Version 2023.9
+Installed 20240110
+Installer m.hankel@uq.edu.au
 ## dadi
+### 
+Dadi: Fit population genetic models using diffusion approximations to the allele frequency spectrum
+Dadi
+.
+Version 2.0.5
+Installed 20231006
+Installer m.hankel@uq.edu.au
 ## medaka
 ### 
 medaka is a tool to create consensus sequences and variant calls from nanopore sequencing data. This task is performed using neural networks applied a pileup of individual sequencing reads against a draft assembly. It provides state-of-the-art results outperforming sequence-graph based methods and signal-based methods, whilst also being faster.
@@ -2812,18 +2833,111 @@ Version 2.1.1
 Installed 20250916
 Installer e.scriven@uq.edu.au
 ## singlem
+### 
+SingleM is a tool for profiling shotgun metagenomes.
+SingleM
+.
+Version 0.16.0
+Installed 20240223
+Installer m.hankel@uq.edu.au
 ## screen_assembly
+### 
+Pipeline that screens for presence of genes of interest (GOI) in bacterial assemblies. Generates multiple CSVs and plots that describe which genes are present and how variable their sequence is. Can use DNA or protein query sequences (GOIs) and DNA contigs/fastas or protein fastas as database (db) to search in.
+screen_assembly
+.
+Version 1.2.8
+Installed 20240603
+Installer m.hankel@uq.edu.au
 ## racon
+### 
+Consensus module for raw de novo DNA assembly of long uncorrected reads.
+Racon
+.
+Version 1.5.0
+Installed 20240223
+Installer m.hankel@uq.edu.au
 ## unicycler
+### 
+Unicycler is an assembly pipeline for bacterial genomes. It can assemble Illumina-only read sets where it functions as a SPAdes-optimiser. It can also assembly long-read-only sets (PacBio or Nanopore) where it runs a miniasm+Racon pipeline. For the best possible assemblies, give it both Illumina reads and long reads, and it will conduct a short-read-first hybrid assembly.
+Unicycler
+Loads Racon, Spades and Blast+
+.
+Version 0.5.0
+Installed 20240223
+Installer m.hankel@uq.edu.au
+Unicycler.
 ## qapa
+### 
+Analysis of alternative polyadenylation (APA) from RNA-seq data (human and mouse).
+QAPA
+.
+Version 1.3.3
+Installed 20240227
+Installer m.hankel@uq.edu.au
 ## cellbender
+### 
+CellBender is a software package for eliminating technical artifacts from high-throughput single-cell omics data, including scRNA-seq, snRNA-seq, and CITE-seq.
+CellBender
+.
+Version 0.3.0
+Installed 20240229
+Installer m.hankel@uq.edu.au
 ## syri
+### 
+Syri compares alignments between two chromosome-level assemblies and identifies synteny and structural rearrangements.
+syri
+.
+Version 1.7.0
+Installed 20240523
+Installer m.hankel@uq.edu.au
 ## qiime2-shotgun
+### 
+QIIME 2 is a powerful, extensible, and decentralized microbiome analysis package with a focus on data and analysis transparency. QIIME 2 enables researchers to start an analysis with raw DNA sequence data and finish with publication-quality figures and statistical results.
+QIIME 2
+.
+Version 2023.9
+Installed 20240110
+Installer m.hankel@uq.edu.au
 ## drep
+### 
+dRep is a python program for rapidly comparing large numbers of genomes. dRep can also de-replicate a genome set by identifying groups of highly similar genomes and choosing the best representative genome for each genome set.
+dRep
+.
+Version 3.4.2
+Installed 20240223
+Installer m.hankel@uq.edu.au
 ## mmseqs2
+### 
+MMseq2
+MMseq2
+.
+Version 15-6f452
+Installed 20240410
+Installer m.hankel@uq.edu.au
 ## sqanti3
+### 
+SQANTI3 is the newest version of the SQANTI tool. SQANTI3 combines features from the original SQANTI and from SQANTI2, as well as newly implemented functionalities and transcript features.
+Sqanti3
+.
+Version 5.2
+Installed 20240219
+Installer m.hankel@uq.edu.au
 ## hapflk
+### 
+hapflk is a software implementing the hapFLK and FLK tests for the detection of selection signatures based on multiple population genotyping data.
+hapflk
+.
+1.3
+Installed 20240424
+Installer m.hankel@uq.edu.au
 ## dram
+### 
+DRAM (Distilled and Refined Annotation of Metabolism) is a tool for annotating metagenomic assembled genomes and VirSorter identified viral contigs. DRAM annotates MAGs and viral contigs using KEGG (if provided by the user), UniRef90, PFAM, dbCAN, RefSeq viral, VOGDB and the MEROPS peptidase database as well as custom user databases.
+DRAM
+.
+Version 1.5
+Installed 20240223
+Installer m.hankel@uq.edu.au
 ## sglang
 ### Description
 This module sets up the environment for SGLang 0.4.0 for NVidia GPUs.

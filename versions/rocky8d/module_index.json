@@ -8308,7 +8308,7 @@
         "versions": [
             "0.3.1"
         ],
-        "description": ""
+        "description": "scVelo is a scalable toolkit for RNA velocity analysis in single cells; RNA velocity enables the recovery of directed dynamic information by leveraging splicing kinetics.\nscVelo\n.\nVersion 0.3.1\nInstalled 20240229\nInstaller m.hankel@uq.edu.au\n"
     },
     "ipyrad": {
         "architectures": [
@@ -8327,7 +8327,7 @@
         "versions": [
             "2023.9"
         ],
-        "description": ""
+        "description": "QIIME 2 is a powerful, extensible, and decentralized microbiome analysis package with a focus on data and analysis transparency. QIIME 2 enables researchers to start an analysis with raw DNA sequence data and finish with publication-quality figures and statistical results.\nQIIME 2\n.\nVersion 2023.9\nInstalled 20240110\nInstaller m.hankel@uq.edu.au\n"
     },
     "dadi": {
         "architectures": [
@@ -8336,7 +8336,7 @@
         "versions": [
             "2.0.5"
         ],
-        "description": ""
+        "description": "Dadi: Fit population genetic models using diffusion approximations to the allele frequency spectrum\nDadi\n.\nVersion 2.0.5\nInstalled 20231006\nInstaller m.hankel@uq.edu.au\n"
     },
     "medaka": {
         "architectures": [
@@ -8355,7 +8355,7 @@
         "versions": [
             "0.16.0"
         ],
-        "description": ""
+        "description": "SingleM is a tool for profiling shotgun metagenomes.\nSingleM\n.\nVersion 0.16.0\nInstalled 20240223\nInstaller m.hankel@uq.edu.au\n"
     },
     "screen_assembly": {
         "architectures": [
@@ -8364,7 +8364,7 @@
         "versions": [
             "1.2.8"
         ],
-        "description": ""
+        "description": "Pipeline that screens for presence of genes of interest (GOI) in bacterial assemblies. Generates multiple CSVs and plots that describe which genes are present and how variable their sequence is. Can use DNA or protein query sequences (GOIs) and DNA contigs/fastas or protein fastas as database (db) to search in.\nscreen_assembly\n.\nVersion 1.2.8\nInstalled 20240603\nInstaller m.hankel@uq.edu.au\n"
     },
     "racon": {
         "architectures": [
@@ -8373,7 +8373,7 @@
         "versions": [
             "1.5.0"
         ],
-        "description": ""
+        "description": "Consensus module for raw de novo DNA assembly of long uncorrected reads.\nRacon\n.\nVersion 1.5.0\nInstalled 20240223\nInstaller m.hankel@uq.edu.au\n"
     },
     "unicycler": {
         "architectures": [
@@ -8382,7 +8382,7 @@
         "versions": [
             "0.5.0"
         ],
-        "description": ""
+        "description": "Unicycler is an assembly pipeline for bacterial genomes. It can assemble Illumina-only read sets where it functions as a SPAdes-optimiser. It can also assembly long-read-only sets (PacBio or Nanopore) where it runs a miniasm+Racon pipeline. For the best possible assemblies, give it both Illumina reads and long reads, and it will conduct a short-read-first hybrid assembly.\nUnicycler\nLoads Racon, Spades and Blast+\n.\nVersion 0.5.0\nInstalled 20240223\nInstaller m.hankel@uq.edu.au\n\nUnicycler."
     },
     "qapa": {
         "architectures": [
@@ -8391,7 +8391,7 @@
         "versions": [
             "1.3.3"
         ],
-        "description": ""
+        "description": "Analysis of alternative polyadenylation (APA) from RNA-seq data (human and mouse).\nQAPA\n.\nVersion 1.3.3\nInstalled 20240227\nInstaller m.hankel@uq.edu.au\n"
     },
     "cellbender": {
         "architectures": [
@@ -8400,7 +8400,7 @@
         "versions": [
             "0.3.0"
         ],
-        "description": ""
+        "description": "CellBender is a software package for eliminating technical artifacts from high-throughput single-cell omics data, including scRNA-seq, snRNA-seq, and CITE-seq.\nCellBender\n.\nVersion 0.3.0\nInstalled 20240229\nInstaller m.hankel@uq.edu.au\n"
     },
     "syri": {
         "architectures": [
@@ -8409,7 +8409,7 @@
         "versions": [
             "1.7.0"
         ],
-        "description": ""
+        "description": "Syri compares alignments between two chromosome-level assemblies and identifies synteny and structural rearrangements.\nsyri\n.\nVersion 1.7.0\nInstalled 20240523\nInstaller m.hankel@uq.edu.au\n"
     },
     "qiime2-shotgun": {
         "architectures": [
@@ -8418,7 +8418,7 @@
         "versions": [
             "2023.9"
         ],
-        "description": ""
+        "description": "QIIME 2 is a powerful, extensible, and decentralized microbiome analysis package with a focus on data and analysis transparency. QIIME 2 enables researchers to start an analysis with raw DNA sequence data and finish with publication-quality figures and statistical results.\nQIIME 2\n.\nVersion 2023.9\nInstalled 20240110\nInstaller m.hankel@uq.edu.au\n"
     },
     "drep": {
         "architectures": [
@@ -8427,7 +8427,7 @@
         "versions": [
             "3.4.2"
         ],
-        "description": ""
+        "description": "dRep is a python program for rapidly comparing large numbers of genomes. dRep can also de-replicate a genome set by identifying groups of highly similar genomes and choosing the best representative genome for each genome set.\ndRep\n.\nVersion 3.4.2\nInstalled 20240223\nInstaller m.hankel@uq.edu.au\n"
     },
     "mmseqs2": {
         "architectures": [
@@ -8436,7 +8436,7 @@
         "versions": [
             "15"
         ],
-        "description": ""
+        "description": "MMseq2\nMMseq2\n.\nVersion 15-6f452\nInstalled 20240410\nInstaller m.hankel@uq.edu.au\n"
     },
     "sqanti3": {
         "architectures": [
@@ -8445,7 +8445,7 @@
         "versions": [
             "5.2"
         ],
-        "description": ""
+        "description": "SQANTI3 is the newest version of the SQANTI tool. SQANTI3 combines features from the original SQANTI and from SQANTI2, as well as newly implemented functionalities and transcript features.\nSqanti3\n.\nVersion 5.2\nInstalled 20240219\nInstaller m.hankel@uq.edu.au\n"
     },
     "hapflk": {
         "architectures": [
@@ -8454,7 +8454,7 @@
         "versions": [
             "1.3"
         ],
-        "description": ""
+        "description": "hapflk is a software implementing the hapFLK and FLK tests for the detection of selection signatures based on multiple population genotyping data.\nhapflk\n.\n1.3\nInstalled 20240424\nInstaller m.hankel@uq.edu.au\n"
     },
     "dram": {
         "architectures": [
@@ -8463,7 +8463,7 @@
         "versions": [
             "1.5"
         ],
-        "description": ""
+        "description": "DRAM (Distilled and Refined Annotation of Metabolism) is a tool for annotating metagenomic assembled genomes and VirSorter identified viral contigs. DRAM annotates MAGs and viral contigs using KEGG (if provided by the user), UniRef90, PFAM, dbCAN, RefSeq viral, VOGDB and the MEROPS peptidase database as well as custom user databases.\nDRAM\n.\nVersion 1.5\nInstalled 20240223\nInstaller m.hankel@uq.edu.au\n"
     },
     "sglang": {
         "architectures": [
