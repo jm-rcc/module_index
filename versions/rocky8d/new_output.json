@@ -1725,7 +1725,7 @@
         "": "scVelo is a scalable toolkit for RNA velocity analysis in single cells; RNA velocity enables the recovery of directed dynamic information by leveraging splicing kinetics.\nscVelo\n.\nVersion 0.3.1\nInstalled 20240229\nInstaller m.hankel@uq.edu.au"
     },
     "ipyrad": {
-        "": "Welcome to ipyrad, an interactive assembly and analysis toolkit for restriction-site associated DNA (RAD-seq) and related data types. Please explore the documentation to find out more about the features of ipyrad.\nIpyrad\n.\nVersion 0.9.105\nInstalled 20250922\nInstaller m.hankel@uq.edu.au"
+        "": "Ipyrad: Interactive assembly and analysis of RAD-seq data sets. Uses python 3.10\nIpyrad\n.\nVersion 0.9.93\nInstalled 20240111\nInstaller m.hankel@uq.edu.au"
     },
     "qiime2-amplicon": {
         "": "QIIME 2 is a powerful, extensible, and decentralized microbiome analysis package with a focus on data and analysis transparency. QIIME 2 enables researchers to start an analysis with raw DNA sequence data and finish with publication-quality figures and statistical results.\nQIIME 2\n.\nVersion 2023.9\nInstalled 20240110\nInstaller m.hankel@uq.edu.au"
@@ -1734,7 +1734,7 @@
         "": "Dadi: Fit population genetic models using diffusion approximations to the allele frequency spectrum\nDadi\n.\nVersion 2.0.5\nInstalled 20231006\nInstaller m.hankel@uq.edu.au"
     },
     "medaka": {
-        "": "medaka is a tool to create consensus sequences and variant calls from nanopore sequencing data. This task is performed using neural networks applied a pileup of individual sequencing reads against a draft assembly. It provides state-of-the-art results outperforming sequence-graph based methods and signal-based methods, whilst also being faster.\nMedaka\n.\nVersion 2.1.1\nInstalled 20250916\nInstaller e.scriven@uq.edu.au"
+        "": "medaka is a tool to create consensus sequences and variant calls from nanopore sequencing data. This task is performed using neural networks applied a pileup of individual sequencing reads against a draft assembly. It provides state-of-the-art results outperforming sequence-graph based methods and signal-based methods, whilst also being faster.\nMedaka\n.\nVersion 1.9.1\nInstalled 20230908\nInstaller m.hankel@uq.edu.au"
     },
     "singlem": {
         "": "SingleM is a tool for profiling shotgun metagenomes.\nSingleM\n.\nVersion 0.16.0\nInstalled 20240223\nInstaller m.hankel@uq.edu.au"

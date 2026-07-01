@@ -2804,11 +2804,11 @@ Installed 20240229
 Installer m.hankel@uq.edu.au
 ### ipyrad
 #### 
-Welcome to ipyrad, an interactive assembly and analysis toolkit for restriction-site associated DNA (RAD-seq) and related data types. Please explore the documentation to find out more about the features of ipyrad.
+Ipyrad: Interactive assembly and analysis of RAD-seq data sets. Uses python 3.10
 Ipyrad
 .
-Version 0.9.105
-Installed 20250922
+Version 0.9.93
+Installed 20240111
 Installer m.hankel@uq.edu.au
 ### qiime2-amplicon
 #### 
@@ -2831,9 +2831,9 @@ Installer m.hankel@uq.edu.au
 medaka is a tool to create consensus sequences and variant calls from nanopore sequencing data. This task is performed using neural networks applied a pileup of individual sequencing reads against a draft assembly. It provides state-of-the-art results outperforming sequence-graph based methods and signal-based methods, whilst also being faster.
 Medaka
 .
-Version 2.1.1
-Installed 20250916
-Installer e.scriven@uq.edu.au
+Version 1.9.1
+Installed 20230908
+Installer m.hankel@uq.edu.au
 ### singlem
 #### 
 SingleM is a tool for profiling shotgun metagenomes.
