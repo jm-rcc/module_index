@@ -4795,6 +4795,6 @@ noarch
 This software is licensed.
 You must be a member of the sw-Ansys-AIBN group to access this software licence.
 #### Versions
-2025.2
+2025.2, 2026.1
 #### Architectures
 noarch
